@@ -7,6 +7,8 @@
 
 ![.deb](https://img.shields.io/badge/.deb-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.app](https://img.shields.io/badge/.app-orange) ![.dmg](https://img.shields.io/badge/.dmg-orange) ![.exe](https://img.shields.io/badge/.exe-orange)
 
+> Agradecimiento a Bartolomé Sintes Marco por su contribución a través de su sitio web [CDLibre.org](https://www.cdlibre.org/).
+
 <a name="contenido"></a>
 ## Contenido  
  - Astronomía
