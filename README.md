@@ -19,7 +19,7 @@
    - [KStars](#kstars)
  - Audio
    - Composición
-     - OpenMusic(#openmusic)
+     - [OpenMusic](#openmusic)
 
 
 ### Astronomía
