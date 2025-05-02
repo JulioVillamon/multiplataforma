@@ -50,6 +50,6 @@ KStars es un software de astronomía gratuito y de código abierto diseñado par
 <img src="/assets/img/openmusic.png" alt="celestia"/>
 OpenMusic es un entorno de programación visual para la composición asistida por ordenador. Se basa en la manipulación de objetos musicales y estructuras algorítmicas, permitiendo a los compositores crear y experimentar con modelos musicales de manera flexible.
 
-<a href="[https://celestiaproject.space](https://openmusic-project.github.io/)/" target="_blank">web</a>
+<a href="https://openmusic-project.github.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
