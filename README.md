@@ -20,6 +20,9 @@
  - Audio
    - Composición
      - [OpenMusic](#openmusic)
+- Bases de datos
+   - MySQL
+     - [MariaDB](#mariadb)
 
 
 ### Astronomía
@@ -29,7 +32,7 @@
 <img src="/assets/img/celestia.png" alt="celestia"/>
 Celestia es un programa de simulación espacial en 3D que permite a los usuarios explorar el universo de manera interactiva. Con Celestia, puedes viajar a través del espacio y visitar planetas, lunas, estrellas y galaxias, todo en tiempo real. Es una herramienta educativa y visualmente impresionante que ofrece una experiencia inmersiva para aprender sobre astronomía y el cosmos.
 
-<a href="https://celestiaproject.space/" target="_blank">web</a>
+<a href="https://celestiaproject.space" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
@@ -38,7 +41,7 @@ Celestia es un programa de simulación espacial en 3D que permite a los usuarios
 <img src="/assets/img/kstars.png" alt="kstars"/>
 KStars es un software de astronomía gratuito y de código abierto diseñado para ofrecer una simulación gráfica del cielo nocturno. Este programa permite observar hasta 100 millones de estrellas, 10,000 objetos de cielo profundo, cometas, asteroides y planetas, todo en tiempo real. Además, incluye herramientas avanzadas para la planificación de observaciones, cálculos astronómicos y un flujo de trabajo completo para astrofotografía1. Es ideal para estudiantes, educadores, astrónomos aficionados y entusiastas de la astronomía.
 
-<a href="https://kstars.kde.org/" target="_blank">web</a>
+<a href="https://kstars.kde.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
@@ -50,6 +53,18 @@ KStars es un software de astronomía gratuito y de código abierto diseñado par
 <img src="/assets/img/openmusic.png" alt="celestia"/>
 OpenMusic es un entorno de programación visual para la composición asistida por ordenador. Se basa en la manipulación de objetos musicales y estructuras algorítmicas, permitiendo a los compositores crear y experimentar con modelos musicales de manera flexible.
 
-<a href="https://openmusic-project.github.io/" target="_blank">web</a>
+<a href="https://openmusic-project.github.io" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### Bases de datos
+---
+#### MySQL
+<a name="mariadb"></a>
+##### MariaDB
+<img src="/assets/img/mariadb.png" alt="MariaDB"/>
+MariaDB es un sistema de gestión de bases de datos relacionales de código abierto. Es una alternativa a MySQL y se utiliza para almacenar, gestionar y acceder a datos de manera eficiente. Ofrece alta disponibilidad, rendimiento optimizado y compatibilidad con diversas aplicaciones.
+
+<a href="https://mariadb.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
