@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido  
+## Contenido (4 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
