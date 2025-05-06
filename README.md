@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (4 programas listados) 
+## Contenido (5 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -23,6 +23,9 @@
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
+- Desarrollo Web
+   - CMS
+     - [CMS Made Simple](#cmsmadesimple)  
 
 
 ### Astronomía
@@ -66,5 +69,17 @@ OpenMusic es un entorno de programación visual para la composición asistida po
 MariaDB es un sistema de gestión de bases de datos relacionales de código abierto. Es una alternativa a MySQL y se utiliza para almacenar, gestionar y acceder a datos de manera eficiente. Ofrece alta disponibilidad, rendimiento optimizado y compatibilidad con diversas aplicaciones.
 
 <a href="https://mariadb.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### Desarrollo Web
+---
+#### CMS
+<a name="cmsmadesimple"></a>
+##### CMS Made Simple
+<img src="/assets/img/cmsms.png" alt="CMS Made Simple"/>
+CMS Made Simple es un sistema de gestión de contenidos (CMS) de código abierto diseñado para facilitar la creación y administración de sitios web. Su interfaz es intuitiva y permite a los editores actualizar su contenido de manera sencilla, mientras que los diseñadores tienen libertad total para personalizar la apariencia del sitio sin restricciones de plantillas predefinidas. Además, los desarrolladores pueden aprovechar su potente API y el motor de plantillas Smarty para crear módulos y funcionalidades avanzadas. Es una opción flexible y escalable para quienes buscan un CMS eficiente y fácil de usar.
+
+<a href="https://www.cmsmadesimple.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
