@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (5 programas listados) 
+## Contenido (6 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -25,8 +25,9 @@
      - [MariaDB](#mariadb)
 - Desarrollo Web
    - CMS
-     - [CMS Made Simple](#cmsmadesimple)  
-
+     - [CMS Made Simple](#cmsmadesimple)
+- DOS 
+  - [DOSBox](#dosbox)
 
 ### Astronomía
 ---
@@ -81,5 +82,16 @@ MariaDB es un sistema de gestión de bases de datos relacionales de código abie
 CMS Made Simple es un sistema de gestión de contenidos (CMS) de código abierto diseñado para facilitar la creación y administración de sitios web. Su interfaz es intuitiva y permite a los editores actualizar su contenido de manera sencilla, mientras que los diseñadores tienen libertad total para personalizar la apariencia del sitio sin restricciones de plantillas predefinidas. Además, los desarrolladores pueden aprovechar su potente API y el motor de plantillas Smarty para crear módulos y funcionalidades avanzadas. Es una opción flexible y escalable para quienes buscan un CMS eficiente y fácil de usar.
 
 <a href="https://www.cmsmadesimple.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### DOS
+---
+<a name="dosbox"></a>
+##### DOSBox
+<img src="/assets/img/dosbox.png" alt="dosbox"/>
+DOSBox es un programa que emula el sistema operativo MS-DOS, permitiendo ejecutar aplicaciones y videojuegos antiguos diseñados para ese entorno. Es especialmente útil para revivir títulos clásicos de los años 80 y 90 que ya no son compatibles con los sistemas modernos.
+
+<a href="http://www.dosbox.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
