@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (6 programas listados) 
+## Contenido (7 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -28,6 +28,9 @@
      - [CMS Made Simple](#cmsmadesimple)
 - DOS 
   - [DOSBox](#dosbox)
+- Educativos
+  - Editores gráficos infantiles
+     - [Tux Paint](#tuxpaint)
 
 ### Astronomía
 ---
@@ -93,5 +96,17 @@ CMS Made Simple es un sistema de gestión de contenidos (CMS) de código abierto
 DOSBox es un programa que emula el sistema operativo MS-DOS, permitiendo ejecutar aplicaciones y videojuegos antiguos diseñados para ese entorno. Es especialmente útil para revivir títulos clásicos de los años 80 y 90 que ya no son compatibles con los sistemas modernos.
 
 <a href="http://www.dosbox.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### Educativos
+---
+#### Editores gráficos infantiles
+<a name="tuxpaint"></a>
+##### Tux Paint
+<img src="/assets/img/tuxpaint.png" alt="tuxpaint"/>
+Tux Paint es un editor de imágenes libre diseñado especialmente para niños pequeños. Su interfaz es intuitiva y divertida, con herramientas de dibujo básicas y efectos especiales que permiten a los niños crear ilustraciones de manera sencilla. Además, incluye sonidos y una mascota interactiva (Tux, el pingüino de Linux) para hacer la experiencia más atractiva.
+
+<a href="https://tuxpaint.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
