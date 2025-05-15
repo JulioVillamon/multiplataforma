@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (7 programas listados) 
+## Contenido (8 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -31,6 +31,9 @@
 - Educativos
   - Editores gráficos infantiles
      - [Tux Paint](#tuxpaint)
+- Fuentes
+  - Editores
+     - [BirdFont](#birdfont)
 
 ### Astronomía
 ---
@@ -108,5 +111,17 @@ DOSBox es un programa que emula el sistema operativo MS-DOS, permitiendo ejecuta
 Tux Paint es un editor de imágenes libre diseñado especialmente para niños pequeños. Su interfaz es intuitiva y divertida, con herramientas de dibujo básicas y efectos especiales que permiten a los niños crear ilustraciones de manera sencilla. Además, incluye sonidos y una mascota interactiva (Tux, el pingüino de Linux) para hacer la experiencia más atractiva.
 
 <a href="https://tuxpaint.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### Fuentes
+---
+#### Editores
+<a name="birdfont"></a>
+##### BirdFont
+<img src="/assets/img/birdfont.png" alt="birdfont"/>
+BirdFont es un editor de fuentes multiplataforma diseñado para la creación de tipografías personalizadas mediante gráficos vectoriales. Permite exportar fuentes en formatos TTF, EOT y SVG, además de importar y manipular imágenes vectoriales en SVG. Entre sus características destacan las curvas Bézier cuadráticas y cúbicas, la posibilidad de combinar e invertir caminos y la opción de insertar imágenes de fondo como guía para diseñar fuentes a partir de escritura manuscrita. Es una herramienta potente para diseñadores gráficos que buscan crear tipografías únicas y originales.
+
+<a href="https://birdfont.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
