@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (8 programas listados) 
+## Contenido (9 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -34,6 +34,9 @@
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
+- Gráficos
+  - 3D
+     - [Art of Illusion](#artofillusion)
 
 ### Astronomía
 ---
@@ -57,7 +60,7 @@ KStars es un software de astronomía gratuito y de código abierto diseñado par
 
 ### Audio
 ---
-#### Composición
+#### ***** Composición
 <a name="openmusic"></a>
 ##### OpenMusic
 <img src="/assets/img/openmusic.png" alt="celestia"/>
@@ -69,7 +72,7 @@ OpenMusic es un entorno de programación visual para la composición asistida po
 
 ### Bases de datos
 ---
-#### MySQL
+#### ***** MySQL
 <a name="mariadb"></a>
 ##### MariaDB
 <img src="/assets/img/mariadb.png" alt="MariaDB"/>
@@ -104,7 +107,7 @@ DOSBox es un programa que emula el sistema operativo MS-DOS, permitiendo ejecuta
 
 ### Educativos
 ---
-#### Editores gráficos infantiles
+#### ***** Editores gráficos infantiles
 <a name="tuxpaint"></a>
 ##### Tux Paint
 <img src="/assets/img/tuxpaint.png" alt="tuxpaint"/>
@@ -116,12 +119,24 @@ Tux Paint es un editor de imágenes libre diseñado especialmente para niños pe
 
 ### Fuentes
 ---
-#### Editores
+#### ***** Editores 
 <a name="birdfont"></a>
 ##### BirdFont
 <img src="/assets/img/birdfont.png" alt="birdfont"/>
 BirdFont es un editor de fuentes multiplataforma diseñado para la creación de tipografías personalizadas mediante gráficos vectoriales. Permite exportar fuentes en formatos TTF, EOT y SVG, además de importar y manipular imágenes vectoriales en SVG. Entre sus características destacan las curvas Bézier cuadráticas y cúbicas, la posibilidad de combinar e invertir caminos y la opción de insertar imágenes de fondo como guía para diseñar fuentes a partir de escritura manuscrita. Es una herramienta potente para diseñadores gráficos que buscan crear tipografías únicas y originales.
 
 <a href="https://birdfont.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### Gráficos
+---
+#### ***** 3D 
+<a name="artofillusion"></a>
+##### Art of Illusion
+<img src="/assets/img/artofillusion.png" alt="artofillusion"/>
+Art of Illusion es un software gratuito y de código abierto para modelado y renderizado en 3D. Ofrece herramientas avanzadas que rivalizan con programas comerciales, incluyendo modelado basado en superficies de subdivisión, animación con esqueletos y un lenguaje gráfico para diseñar texturas y materiales procedurales. También permite exportar modelos para impresión 3D en formato STL. Está desarrollado en Java.
+
+<a href="http://www.artofillusion.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
