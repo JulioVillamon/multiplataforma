@@ -40,6 +40,9 @@
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
+- Juegos
+  - Ajedrez
+     - [ChessX](#chessx)  
 
 ### Astronomía
 ---
@@ -153,5 +156,17 @@ Art of Illusion es un software gratuito y de código abierto para modelado y ren
 Element Desktop es una aplicación de escritorio basada en el protocolo Matrix, diseñada para ofrecer comunicación segura y descentralizada. Permite mensajería instantánea, videollamadas y colaboración en tiempo real, con cifrado de extremo a extremo para garantizar la privacidad.
 
 <a href="https://element.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### Juegos
+---
+#### ***** Ajedrez 
+<a name="chessx"></a>
+##### ChessX
+<img src="/assets/img/chessx.png" alt="chessx"/>
+ChessX es una aplicación para gestionar bases de datos de ajedrez, permite a los usuarios almacenar, clasificar, analizar y buscar partidas en formato PGN. Puede usar motores como Stockfish o Leela para análisis, explorar aperturas con árboles de variaciones, y preparar partidas con estadísticas personalizadas. También incluye funciones como lector de movimientos para personas con discapacidad visual y un tema oscuro.
+
+<a href="https://chessx.sourceforge.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
