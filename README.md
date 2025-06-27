@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (11 programas listados) 
+## Contenido (12 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -42,7 +42,9 @@
      - [Element Desktop](#element-desktop)
 - Juegos
   - Ajedrez
-     - [ChessX](#chessx)  
+     - [ChessX](#chessx)
+- MATEMÁTICAS 
+  - [Gap](#gap)  
 
 ### Astronomía
 ---
@@ -168,5 +170,16 @@ Element Desktop es una aplicación de escritorio basada en el protocolo Matrix, 
 ChessX es una aplicación para gestionar bases de datos de ajedrez, permite a los usuarios almacenar, clasificar, analizar y buscar partidas en formato PGN. Puede usar motores como Stockfish o Leela para análisis, explorar aperturas con árboles de variaciones, y preparar partidas con estadísticas personalizadas. También incluye funciones como lector de movimientos para personas con discapacidad visual y un tema oscuro.
 
 <a href="https://chessx.sourceforge.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### MATEMÁTICAS
+---
+<a name="gap"></a>
+##### Gap
+<img src="/assets/img/gap2.png" alt="gap"/>
+GAP (Groups, Algorithms, Programming) está diseñado para realizar cálculos algebraicos, especialmente en el campo de la teoría de grupos finitos. Ofrece un lenguaje de programación propio y una extensa biblioteca de funciones matemáticas que permiten estudiar estructuras algebraicas como grupos, anillos, cuerpos y módulos. Se usa ampliamente en investigación y educación matemática para explorar propiedades algebraicas, realizar cálculos simbólicos y automatizar razonamientos teóricos.
+
+<a href="https://www.gap-system.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
