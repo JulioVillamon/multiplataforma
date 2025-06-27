@@ -173,7 +173,7 @@ ChessX es una aplicación para gestionar bases de datos de ajedrez, permite a lo
 
 [Subir al inicio](#contenido)
 
-### MATEMÁTICAS
+### Matemáticas
 ---
 <a name="gap"></a>
 ##### Gap
