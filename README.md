@@ -43,8 +43,9 @@
 - Juegos
   - Ajedrez
      - [ChessX](#chessx)
-- MATEMÁTICAS 
-  - [Gap](#gap)  
+- Matemáticas
+  - Álgebra  
+    - [Gap](#gap)  
 
 ### Astronomía
 ---
