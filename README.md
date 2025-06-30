@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (12 programas listados) 
+## Contenido (13 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -45,7 +45,10 @@
      - [ChessX](#chessx)
 - Matemáticas
   - Álgebra  
-    - [Gap](#gap)  
+    - [Gap](#gap)
+- Ofimática
+  - Agendas y calendarios  
+    - [GTD-Free](#gtdfree)  
 
 ### Astronomía
 ---
@@ -176,11 +179,24 @@ ChessX es una aplicación para gestionar bases de datos de ajedrez, permite a lo
 
 ### Matemáticas
 ---
+#### ***** Álgebra
 <a name="gap"></a>
 ##### Gap
 <img src="/assets/img/gap2.png" alt="gap"/>
 GAP (Groups, Algorithms, Programming) está diseñado para realizar cálculos algebraicos, especialmente en el campo de la teoría de grupos finitos. Ofrece un lenguaje de programación propio y una extensa biblioteca de funciones matemáticas que permiten estudiar estructuras algebraicas como grupos, anillos, cuerpos y módulos. Se usa ampliamente en investigación y educación matemática para explorar propiedades algebraicas, realizar cálculos simbólicos y automatizar razonamientos teóricos.
 
 <a href="https://www.gap-system.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### Ofimática
+---
+#### ***** Agendas y calendarios
+<a name="gtdfree"></a>
+##### Gap
+<img src="/assets/img/gtdfree.png" alt="gtdfree"/>
+GTD-Free es un programa para ayudarte a gestionar tus tareas pendientes siguiendo la metodología Getting Things Done (GTD) de David Allen. Su objetivo es guiar al usuario a través de un flujo de trabajo eficiente. Tiene una interfaz sencilla y clara, enfocada en que dediques el menor tiempo posible a la herramienta y más a completar tus tareas. Está desarrollado en Java, por lo que requiere tener instalado el entorno Java Runtime Environment, pero no necesita instalación: se ejecuta directamente.
+
+<a href="https://gtd-free.sourceforge.net/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
