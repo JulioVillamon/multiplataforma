@@ -193,7 +193,7 @@ GAP (Groups, Algorithms, Programming) está diseñado para realizar cálculos al
 ---
 #### ***** Agendas y calendarios
 <a name="gtdfree"></a>
-##### Gap
+##### GTD-Free
 <img src="/assets/img/gtdfree.png" alt="gtdfree"/>
 GTD-Free es un programa para ayudarte a gestionar tus tareas pendientes siguiendo la metodología Getting Things Done (GTD) de David Allen. Su objetivo es guiar al usuario a través de un flujo de trabajo eficiente. Tiene una interfaz sencilla y clara, enfocada en que dediques el menor tiempo posible a la herramienta y más a completar tus tareas. Está desarrollado en Java, por lo que requiere tener instalado el entorno Java Runtime Environment, pero no necesita instalación: se ejecuta directamente.
 
