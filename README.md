@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (14 programas listados) 
+## Contenido (15 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -51,7 +51,10 @@
     - [GTD-Free](#gtdfree)
 - Programación
   - .NET  
-    - [Mono](#mono)  
+    - [Mono](#mono)
+- Utilidades
+  - Accesibilidad  
+    - [eSpeak](#espeak)  
 
 ### Astronomía
 ---
@@ -213,5 +216,17 @@ GTD-Free es un programa para ayudarte a gestionar tus tareas pendientes siguiend
 Mono es una plataforma de desarrollo de código abierto que permite ejecutar y crear aplicaciones .NET en sistemas como Linux, macOS y Windows. Proporciona un entorno de ejecución (CLR), compiladores y bibliotecas compatibles con los estándares de Microsoft. Es ideal para la portabilidad de software .NET fuera de Windows.
 
 <a href="https://www.mono-project.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+### Utilidades
+---
+#### ***** Accesibilidad
+<a name="espeak"></a>
+##### eSpeak
+<img src="/assets/img/espeak.png" alt="espeak"/>
+eSpeak NG (Next Generation) es un sintetizador de voz de código abierto que convierte texto en habla. Es compacto, multiplataforma y compatible con una amplia variedad de idiomas y dialectos, lo que lo hace ideal para aplicaciones de accesibilidad, como lectores de pantalla o asistentes de voz.
+
+<a href="https://github.com/espeak-ng/espeak-ng" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
