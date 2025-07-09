@@ -13,10 +13,11 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (16 programas listados) 
+## Contenido (17 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
+   - [PreviSat](#previsat)
  - Audio
    - Composición
      - [OpenMusic](#openmusic)
@@ -76,6 +77,15 @@ Celestia es un programa de simulación espacial en 3D que permite a los usuarios
 KStars es un software de astronomía gratuito y de código abierto diseñado para ofrecer una simulación gráfica del cielo nocturno. Este programa permite observar hasta 100 millones de estrellas, 10,000 objetos de cielo profundo, cometas, asteroides y planetas, todo en tiempo real. Además, incluye herramientas avanzadas para la planificación de observaciones, cálculos astronómicos y un flujo de trabajo completo para astrofotografía1. Es ideal para estudiantes, educadores, astrónomos aficionados y entusiastas de la astronomía.
 
 <a href="https://kstars.kde.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="previsat"></a>
+##### PreviSat
+<img src="/assets/img/previsat.png" alt="previsat"/>
+Software de seguimiento de satélites artificiales. Permite visualizar en tiempo real o en modo manual la posición de satélites sobre un mapa mundial o celeste. Calcula con precisión los pasos visibles desde cualquier ubicación, incluyendo tránsitos frente al Sol o la Luna y destellos de satélites como Starlink. Usa el modelo orbital SGP4 para determinar posiciones geocéntricas a partir de elementos orbitales. Ofrece herramientas para actualizar y gestionar elementos orbitales en formatos GP y TLE.
+
+<a href="https://previsat.sourceforge.net" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
