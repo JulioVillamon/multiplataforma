@@ -25,8 +25,7 @@
    - MySQL
      - [MariaDB](#mariadb)
   - NoSQL
-     - MongoDB
-      - [MongoDB](#mongodb)
+     - [MongoDB](#mongodb)
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
