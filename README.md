@@ -1,6 +1,6 @@
 <img src="/assets/img/banner.png" alt="logo" width="48" />
 
-# Software Libre Multiplataforma 
+# Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
 ![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![Docker](https://img.shields.io/badge/Docker-purple) ![Java](https://img.shields.io/badge/Java-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple)
