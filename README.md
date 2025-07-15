@@ -3,7 +3,7 @@
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
-![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![Docker](https://img.shields.io/badge/Docker-purple) ![Java](https://img.shields.io/badge/Java-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple)
+![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![Docker](https://img.shields.io/badge/Docker-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple)
 
 [![Licencia: CC0-1.0](https://img.shields.io/badge/Licencia-CC0--1.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/) ![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-green) 
 
@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (19 programas listados) 
+## Contenido (20 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -31,6 +31,8 @@
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
+   - Editores Web
+     - [Aptana Studio](#aptana)
 - DOS 
   - [DOSBox](#dosbox)
 - Educativos
@@ -146,6 +148,16 @@ MongoDB es una base de datos NoSQL orientada a documentos que permite almacenar 
 CMS Made Simple es un sistema de gestión de contenidos (CMS) de código abierto diseñado para facilitar la creación y administración de sitios web. Su interfaz es intuitiva y permite a los editores actualizar su contenido de manera sencilla, mientras que los diseñadores tienen libertad total para personalizar la apariencia del sitio sin restricciones de plantillas predefinidas. Además, los desarrolladores pueden aprovechar su potente API y el motor de plantillas Smarty para crear módulos y funcionalidades avanzadas. Es una opción flexible y escalable para quienes buscan un CMS eficiente y fácil de usar.
 
 <a href="https://www.cmsmadesimple.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Editores Web
+<a name="aptana"></a>
+##### Aptana Studio
+<img src="/assets/img/aptana.png" alt="Aptana Studio"/>
+Aptana Studio es un entorno de desarrollo integrado (IDE) de código abierto diseñado para crear aplicaciones web. Soporta lenguajes como HTML, CSS, JavaScript, PHP, Python y Ruby, y ofrece herramientas como asistencia de código, depuración y vista previa en navegador. Aunque ya no se mantiene activamente, sigue disponible para descarga y uso en proyectos web.
+
+<a href="https://www.axway.com/en/aptana" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
