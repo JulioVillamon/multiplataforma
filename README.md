@@ -189,7 +189,7 @@ Tux Paint es un editor de imágenes libre diseñado especialmente para niños pe
 #### ***** Educación Infantil
 <a name="eduActiv8"></a>
 ##### eduActiv8
-<img src="/assets/img/eduActiv8.png" alt="eduActiv8"/>
+<img src="/assets/img/eduActiv8.png" alt="eduactiv8"/>
 eduActiv8 es una aplicación educativa gratuita y de código abierto que ofrece actividades interactivas para niños en edad preescolar y primaria. Funciona sin conexión y cubre áreas como matemáticas, lenguaje, lógica, memoria y arte mediante juegos, simulaciones y fichas. Es ideal para familias, docentes y profesionales de educación especial.
 
 <a href="https://www.eduactiv8.org" target="_blank">web</a>
