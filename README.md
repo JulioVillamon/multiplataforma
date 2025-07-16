@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (20 programas listados) 
+## Contenido (21 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -38,6 +38,8 @@
 - Educativos
   - Editores gráficos infantiles
      - [Tux Paint](#tuxpaint)
+  - Educación Infantil
+     - [eduActiv8](#eduActiv8)
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
@@ -181,6 +183,16 @@ DOSBox es un programa que emula el sistema operativo MS-DOS, permitiendo ejecuta
 Tux Paint es un editor de imágenes libre diseñado especialmente para niños pequeños. Su interfaz es intuitiva y divertida, con herramientas de dibujo básicas y efectos especiales que permiten a los niños crear ilustraciones de manera sencilla. Además, incluye sonidos y una mascota interactiva (Tux, el pingüino de Linux) para hacer la experiencia más atractiva.
 
 <a href="https://tuxpaint.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Educación Infantil
+<a name="eduActiv8"></a>
+##### eduActiv8
+<img src="/assets/img/eduActiv8.png" alt="eduActiv8"/>
+eduActiv8 es una aplicación educativa gratuita y de código abierto que ofrece actividades interactivas para niños en edad preescolar y primaria. Funciona sin conexión y cubre áreas como matemáticas, lenguaje, lógica, memoria y arte mediante juegos, simulaciones y fichas. Es ideal para familias, docentes y profesionales de educación especial.
+
+<a href="https://www.eduactiv8.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
