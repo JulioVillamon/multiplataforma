@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (21 programas listados) 
+## Contenido (22 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -43,6 +43,8 @@
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
+  - OTF
+     - [GNU FreeFont](#ttf)
 - Gráficos
   - 3D
      - [Art of Illusion](#artofillusion)
@@ -205,6 +207,16 @@ eduActiv8 es una aplicación educativa gratuita y de código abierto que ofrece 
 BirdFont es un editor de fuentes multiplataforma diseñado para la creación de tipografías personalizadas mediante gráficos vectoriales. Permite exportar fuentes en formatos TTF, EOT y SVG, además de importar y manipular imágenes vectoriales en SVG. Entre sus características destacan las curvas Bézier cuadráticas y cúbicas, la posibilidad de combinar e invertir caminos y la opción de insertar imágenes de fondo como guía para diseñar fuentes a partir de escritura manuscrita. Es una herramienta potente para diseñadores gráficos que buscan crear tipografías únicas y originales.
 
 <a href="https://birdfont.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** OTF 
+<a name="ttf"></a>
+##### GNU FreeFont
+<img src="/assets/img/ttf.png" alt="ttf"/>
+Conjunto de fuentes tipográficas libres que incluye variantes en los estilos Serif, Sans y Monospace. Su objetivo principal es proporcionar tipografías de alta calidad que sean completamente libres para usar, modificar y distribuir, tanto en proyectos personales como comerciales.
+
+<a href="http://www.gnu.org/software/freefont" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
