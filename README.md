@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (22 programas listados) 
+## Contenido (23 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -48,6 +48,8 @@
 - Gráficos
   - 3D
      - [Art of Illusion](#artofillusion)
+  - CAD
+     - [BRL-CAD](#brl-cad)
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
@@ -229,6 +231,16 @@ Conjunto de fuentes tipográficas libres que incluye variantes en los estilos Se
 Art of Illusion es un software gratuito y de código abierto para modelado y renderizado en 3D. Ofrece herramientas avanzadas que rivalizan con programas comerciales, incluyendo modelado basado en superficies de subdivisión, animación con esqueletos y un lenguaje gráfico para diseñar texturas y materiales procedurales. También permite exportar modelos para impresión 3D en formato STL. Está desarrollado en Java.
 
 <a href="http://www.artofillusion.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** CAD 
+<a name="brl-cad"></a>
+##### BRL-CAD
+<img src="/assets/img/brl-cad.png" alt="brl-cad"/>
+BRL-CAD es un sistema de modelado sólido multiplataforma y de código abierto, desarrollado desde 1979. Ofrece edición geométrica interactiva, trazado de rayos de alto rendimiento y herramientas para análisis geométrico. Ha sido utilizado por el ejército de EE. UU. para modelar sistemas de armas.
+
+<a href="https://brlcad.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
