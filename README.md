@@ -264,7 +264,7 @@ Element Desktop es una aplicación de escritorio basada en el protocolo Matrix, 
 <img src="/assets/img/sylpheed.png" alt="sylpheed"/>
 Sylpheed es un cliente de correo electrónico ligero, rápido y fácil de usar, ideal para usuarios que valoran la eficiencia. Ofrece funciones avanzadas como filtrado de mensajes, control de spam, cifrado con GnuPG y compatibilidad con SSL/TLS. Es multiplataforma y está diseñado para operar cómodamente con teclado.
 
-<a href="https://sylpheed.sraoss.jp/en" target="_blank">web</a>
+<a href="https://sylpheed.sraoss.jp/en/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
