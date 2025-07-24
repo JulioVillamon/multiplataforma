@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (23 programas listados) 
+## Contenido (24 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -53,6 +53,8 @@
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
+  - Correo Electrónico
+     - [Sylpheed](#sylpheed)
 - Juegos
   - Ajedrez
      - [ChessX](#chessx)
@@ -253,6 +255,16 @@ BRL-CAD es un sistema de modelado sólido multiplataforma y de código abierto, 
 Element Desktop es una aplicación de escritorio basada en el protocolo Matrix, diseñada para ofrecer comunicación segura y descentralizada. Permite mensajería instantánea, videollamadas y colaboración en tiempo real, con cifrado de extremo a extremo para garantizar la privacidad.
 
 <a href="https://element.io" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Correo Electrónico 
+<a name="sylpheed"></a>
+##### Sylpheed
+<img src="/assets/img/sylpheed.png" alt="sylpheed"/>
+Sylpheed es un cliente de correo electrónico ligero, rápido y fácil de usar, ideal para usuarios que valoran la eficiencia. Ofrece funciones avanzadas como filtrado de mensajes, control de spam, cifrado con GnuPG y compatibilidad con SSL/TLS. Es multiplataforma y está diseñado para operar cómodamente con teclado.
+
+<a href="https://https://sylpheed.sraoss.jp/en" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
