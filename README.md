@@ -59,7 +59,7 @@
   - Ajedrez
      - [ChessX](#chessx)
   - Arcade
-     - [Astromenace](#astromenace)
+     - [AstroMenace](#astromenace)
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
