@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (24 programas listados) 
+## Contenido (25 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -58,6 +58,8 @@
 - Juegos
   - Ajedrez
      - [ChessX](#chessx)
+  - Arcade
+     - [Astromenace](#astromenace)
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
@@ -277,6 +279,16 @@ Sylpheed es un cliente de correo electrónico ligero, rápido y fácil de usar, 
 ChessX es una aplicación para gestionar bases de datos de ajedrez, permite a los usuarios almacenar, clasificar, analizar y buscar partidas en formato PGN. Puede usar motores como Stockfish o Leela para análisis, explorar aperturas con árboles de variaciones, y preparar partidas con estadísticas personalizadas. También incluye funciones como lector de movimientos para personas con discapacidad visual y un tema oscuro.
 
 <a href="https://chessx.sourceforge.io" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Arcade 
+<a name="astromenace"></a>
+##### AstroMenace
+<img src="/assets/img/astromenace.png" alt="astromenace"/>
+AstroMenace es un juego de disparos espacial en 3D con desplazamiento vertical, donde enfrentas oleadas de enemigos alienígenas en intensas batallas. Puedes mejorar tu nave con armas y equipos recolectando recursos durante el combate, eligiendo entre 22 modelos distintos. Su jugabilidad es frenética y personalizable, con gráficos detallados y efectos visuales que lo convierten en una experiencia arcade envolvente.
+
+<a href="https://viewizard.com" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
