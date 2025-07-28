@@ -63,7 +63,7 @@
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
-- Calculadoras  
+  - Calculadoras  
     - [SpeedCrunch](#speedcrunch2)
 - Ofimática
   - Agendas y calendarios  
