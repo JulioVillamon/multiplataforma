@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (25 programas listados) 
+## Contenido (26 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -63,6 +63,8 @@
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
+- Calculadoras  
+    - [SpeedCrunch](#speedcrunch2)
 - Ofimática
   - Agendas y calendarios  
     - [GTD-Free](#gtdfree)
@@ -301,6 +303,16 @@ AstroMenace es un juego de disparos espacial en 3D con desplazamiento vertical, 
 GAP (Groups, Algorithms, Programming) está diseñado para realizar cálculos algebraicos, especialmente en el campo de la teoría de grupos finitos. Ofrece un lenguaje de programación propio y una extensa biblioteca de funciones matemáticas que permiten estudiar estructuras algebraicas como grupos, anillos, cuerpos y módulos. Se usa ampliamente en investigación y educación matemática para explorar propiedades algebraicas, realizar cálculos simbólicos y automatizar razonamientos teóricos.
 
 <a href="https://www.gap-system.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Calculadoras
+<a name="speedcrunch2"></a>
+##### speedCrunch
+<img src="/assets/img/speedcrunch2.png" alt="speedcrunch"/>
+SpeedCrunch es una calculadora científica de alta precisión, diseñada para realizar cálculos complejos de forma rápida y eficiente. Su interfaz basada en teclado permite introducir expresiones matemáticas y ver resultados en tiempo real. Incluye más de 80 funciones, constantes científicas, historial de operaciones y soporte para variables y funciones definidas por el usuario.
+
+<a href="https://www.speedcrunch.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
