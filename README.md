@@ -308,7 +308,7 @@ GAP (Groups, Algorithms, Programming) está diseñado para realizar cálculos al
 
 #### ***** Calculadoras
 <a name="speedcrunch2"></a>
-##### speedCrunch
+##### SpeedCrunch
 <img src="/assets/img/speedcrunch2.png" alt="speedcrunch"/>
 SpeedCrunch es una calculadora científica de alta precisión, diseñada para realizar cálculos complejos de forma rápida y eficiente. Su interfaz basada en teclado permite introducir expresiones matemáticas y ver resultados en tiempo real. Incluye más de 80 funciones, constantes científicas, historial de operaciones y soporte para variables y funciones definidas por el usuario.
 
