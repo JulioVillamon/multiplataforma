@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (26 programas listados) 
+## Contenido (27 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -68,6 +68,8 @@
 - Ofimática
   - Agendas y calendarios  
     - [GTD-Free](#gtdfree)
+  - Colecciones  
+    - [Data Crow](#datacrow)
 - Programación
   - .NET  
     - [Mono](#mono)
@@ -325,6 +327,16 @@ SpeedCrunch es una calculadora científica de alta precisión, diseñada para re
 GTD-Free es un programa para ayudarte a gestionar tus tareas pendientes siguiendo la metodología Getting Things Done (GTD) de David Allen. Su objetivo es guiar al usuario a través de un flujo de trabajo eficiente. Tiene una interfaz sencilla y clara, enfocada en que dediques el menor tiempo posible a la herramienta y más a completar tus tareas. Está desarrollado en Java, por lo que requiere tener instalado el entorno Java Runtime Environment, pero no necesita instalación: se ejecuta directamente.
 
 <a href="https://gtd-free.sourceforge.net" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Colecciones
+<a name="datacrow"></a>
+##### Data Crow
+<img src="/assets/img/datacrow.png" alt="datacrow"/>
+Data Crow es un potente organizador de colecciones multimedia que permite catalogar libros, películas, música, software e imágenes. Automatiza la búsqueda de información desde servicios online como IMDb y Amazon, además de importar datos desde archivos. Ofrece módulos personalizables y servidor integrado para compartir colecciones por red o web.
+
+<a href="https://www.datacrow.net" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
