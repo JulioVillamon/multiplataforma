@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (27 programas listados) 
+## Contenido (28 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -73,6 +73,8 @@
 - Programación
   - .NET  
     - [Mono](#mono)
+  - BASIC  
+    - [QB64](#qb64)
 - Utilidades
   - Accesibilidad  
     - [eSpeak](#espeak)
@@ -349,6 +351,16 @@ Data Crow es un potente organizador de colecciones multimedia que permite catalo
 Mono es una plataforma de desarrollo de código abierto que permite ejecutar y crear aplicaciones .NET en sistemas como Linux, macOS y Windows. Proporciona un entorno de ejecución (CLR), compiladores y bibliotecas compatibles con los estándares de Microsoft. Es ideal para la portabilidad de software .NET fuera de Windows.
 
 <a href="https://www.mono-project.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** BASIC
+<a name="qb64"></a>
+##### QB64
+<img src="/assets/img/qb64.png" alt="qb64"/>
+QB64 es un lenguaje de programación moderno basado en BASIC que conserva la compatibilidad con QBasic y QuickBASIC. Permite desarrollar aplicaciones gráficas mediante OpenGL y compilar ejecutables nativos para Windows, Linux y macOS. Es ideal para revivir proyectos clásicos o crear nuevos desde un entorno sencillo y potente.
+
+<a href="https://github.com/QB64Team/qb64" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
