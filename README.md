@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (28 programas listados) 
+## Contenido (29 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -78,6 +78,8 @@
 - Utilidades
   - Accesibilidad  
     - [eSpeak](#espeak)
+  - Antivirus  
+    - [ClamAV](#clamav)
 - Vídeo y Multimedia
   - Convertidores  
     - [Handbrake](#handbrake)   
@@ -373,6 +375,16 @@ QB64 es un lenguaje de programación moderno basado en BASIC que conserva la com
 eSpeak NG (Next Generation) es un sintetizador de voz de código abierto que convierte texto en habla. Es compacto, multiplataforma y compatible con una amplia variedad de idiomas y dialectos, lo que lo hace ideal para aplicaciones de accesibilidad, como lectores de pantalla o asistentes de voz.
 
 <a href="https://github.com/espeak-ng/espeak-ng" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Antivirus
+<a name="clamav"></a>
+##### ClamAV
+<img src="/assets/img/clamav.png" alt="clamav"/>
+ClamAV es un motor antivirus de código abierto diseñado principalmente para detectar malware, troyanos y otros archivos maliciosos en sistemas Unix. Se usa comúnmente en servidores de correo para escanear adjuntos y proteger contra amenazas. Su arquitectura flexible permite integraciones personalizadas y escaneos automáticos en tiempo real.
+
+<a href="https://www.clamav.net" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
