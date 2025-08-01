@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (29 programas listados) 
+## Contenido (30 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -82,7 +82,9 @@
     - [ClamAV](#clamav)
 - Vídeo y Multimedia
   - Convertidores  
-    - [Handbrake](#handbrake)   
+    - [Handbrake](#handbrake)
+  - Editores  
+    - [Avidemux](#avidemux)    
 
 ### Astronomía
 ---
@@ -397,5 +399,15 @@ ClamAV es un motor antivirus de código abierto diseñado principalmente para de
 HandBrake es un conversor de vídeo gratuito y de código abierto. Permite transformar archivos a formatos como MP4 o MKV, ajustar la calidad, los subtítulos y el audio. Ideal para adaptar vídeos a distintos dispositivos o reducir su tamaño sin perder calidad.
 
 <a href="https://handbrake.fr" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Editores
+<a name="avidemux"></a>
+##### Avidemux
+<img src="/assets/img/avidemux.png" alt="avidemux"/>
+Avidemux es un editor de vídeo gratuito diseñado para tareas simples como cortar, filtrar y codificar. Soporta múltiples formatos (AVI, MP4, MPEG, etc.) y diversos códecs para facilitar la edición básica. Permite automatizar procesos mediante proyectos, cola de tareas y scripts.
+
+<a href="http://fixounet.free.fr/avidemux/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
