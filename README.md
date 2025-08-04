@@ -13,11 +13,12 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (30 programas listados) 
+## Contenido (31 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
    - [PreviSat](#previsat)
+   - [Stellarium](#stellarium)
  - Audio
    - Composición
      - [OpenMusic](#openmusic)
@@ -112,6 +113,15 @@ KStars es un software de astronomía gratuito y de código abierto diseñado par
 Software de seguimiento de satélites artificiales. Permite visualizar en tiempo real o en modo manual la posición de satélites sobre un mapa mundial o celeste. Calcula con precisión los pasos visibles desde cualquier ubicación, incluyendo tránsitos frente al Sol o la Luna y destellos de satélites como Starlink. Usa el modelo orbital SGP4 para determinar posiciones geocéntricas a partir de elementos orbitales. Ofrece herramientas para actualizar y gestionar elementos orbitales en formatos GP y TLE.
 
 <a href="https://previsat.sourceforge.net" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="stellarium"></a>
+##### Stellarium
+<img src="/assets/img/stellarium.png" alt="stellarium"/>
+Stellarium es un software planetario gratuito y de código abierto que simula el cielo nocturno en 3D, tal como se ve a simple vista, con binoculares o telescopio. Permite explorar estrellas, planetas, constelaciones y objetos del cielo profundo, con datos de más de 220 millones de estrellas y 1 millón de objetos celestes. 🛠Incluye funciones como control de telescopios, simulación de eclipses y visualización de exoplanetas.
+
+<a href="https://stellarium.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
