@@ -119,7 +119,7 @@ Software de seguimiento de satélites artificiales. Permite visualizar en tiempo
 <a name="stellarium"></a>
 ##### Stellarium
 <img src="/assets/img/stellarium.png" alt="stellarium"/>
-Stellarium es un software planetario gratuito y de código abierto que simula el cielo nocturno en 3D, tal como se ve a simple vista, con binoculares o telescopio. Permite explorar estrellas, planetas, constelaciones y objetos del cielo profundo, con datos de más de 220 millones de estrellas y 1 millón de objetos celestes. 🛠Incluye funciones como control de telescopios, simulación de eclipses y visualización de exoplanetas.
+Stellarium es un software planetario gratuito y de código abierto que simula el cielo nocturno en 3D, tal como se ve a simple vista, con binoculares o telescopio. Permite explorar estrellas, planetas, constelaciones y objetos del cielo profundo, con datos de más de 220 millones de estrellas y 1 millón de objetos celestes. Incluye funciones como control de telescopios, simulación de eclipses y visualización de exoplanetas.
 
 <a href="https://stellarium.org" target="_blank">web</a>
 
