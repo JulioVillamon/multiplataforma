@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (31 programas listados) 
+## Contenido (32 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -24,6 +24,8 @@
      - [OpenMusic](#openmusic)
    - Descarga
      - [gPodder](#gpodder)
+   - DJ
+     - [Giada](#giada)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -144,6 +146,16 @@ OpenMusic es un entorno de programación visual para la composición asistida po
 Cliente de podcast que permite suscribirse, descargar y organizar episodios de audio y video. Su interfaz sencilla facilita la gestión de contenidos, con funciones como sincronización en la nube y soporte para OPML. Es ideal para quienes buscan una herramienta ligera y eficiente para seguir sus podcasts favoritos.
 
 <a href="https://gpodder.github.io" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** DJ
+<a name="giada"></a>
+##### Giada
+<img src="/assets/img/giada.png" alt="giada"/>
+Giada es una herramienta minimalista y de código abierto para la producción musical, pensada para DJs, músicos electrónicos y actuaciones en vivo. Permite crear canciones en tiempo real mediante loops, controlar dispositivos MIDI, y aplicar efectos con plugins VST. Su interfaz ligera y potente está disponible para Linux, Windows, macOS y FreeBSD.
+
+<a href="https://www.giadamusic.com" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
