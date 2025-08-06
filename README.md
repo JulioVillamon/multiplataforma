@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (32 programas listados) 
+## Contenido (33 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -31,6 +31,8 @@
      - [MariaDB](#mariadb)
   - NoSQL
      - [MongoDB](#mongodb)
+  - Otras
+     - [DB Browser for SQLite](#sqlitebrowser)
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
@@ -178,6 +180,16 @@ MariaDB es un sistema de gestión de bases de datos relacionales de código abie
 MongoDB es una base de datos NoSQL orientada a documentos que permite almacenar información en estructuras flexibles similares a JSON. Está diseñada para ofrecer alta escalabilidad, rendimiento y facilidad de uso, ideal para aplicaciones modernas que manejan grandes volúmenes de datos. Su modelo dinámico permite adaptar los datos sin necesidad de esquemas fijos, lo que facilita el desarrollo ágil. Además, incluye funciones avanzadas como replicación, indexación y consultas en tiempo real.
 
 <a href="https://www.mongodb.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Otras
+<a name="sqlitebrowser"></a>
+##### DB Browser for SQLite
+<img src="/assets/img/sqlitebrowser.png" alt="SQLitebrowser"/>
+DB Browser for SQLite es una herramienta visual y de código abierto para crear, editar y consultar bases de datos SQLite o SQLCipher. Ofrece una interfaz tipo hoja de cálculo y permite ejecutar consultas SQL, importar/exportar datos y gestionar tablas e índices. Es compatible con Windows, macOS y Linux.
+
+<a href="https://www.sqlitebrowser.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
