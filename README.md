@@ -13,7 +13,7 @@
 </a>
 
 <a name="contenido"></a>
-## Contenido (33 programas listados) 
+## Contenido (34 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -38,6 +38,8 @@
      - [CMS Made Simple](#cmsmadesimple)
    - Editores Web
      - [Aptana Studio](#aptana)
+   - PHP
+     - [Composer](#composer)
 - DOS 
   - [DOSBox](#dosbox)
 - Educativos
@@ -212,6 +214,16 @@ CMS Made Simple es un sistema de gestión de contenidos (CMS) de código abierto
 Aptana Studio es un entorno de desarrollo integrado (IDE) de código abierto diseñado para crear aplicaciones web. Soporta lenguajes como HTML, CSS, JavaScript, PHP, Python y Ruby, y ofrece herramientas como asistencia de código, depuración y vista previa en navegador. Aunque ya no se mantiene activamente, sigue disponible para descarga y uso en proyectos web.
 
 <a href="https://www.axway.com/en/aptana" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** PHP
+<a name="composer"></a>
+##### Composer
+<img src="/assets/img/composer.png" alt="Composer"/>
+Composer es un gestor de dependencias para PHP que permite declarar las bibliotecas que tu proyecto necesita y las instala automáticamente. Facilita la gestión de versiones y la integración de paquetes desde el repositorio Packagist. Es una herramienta esencial para desarrolladores que buscan mantener sus proyectos organizados y actualizados.
+
+<a href="https://getcomposer.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
