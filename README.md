@@ -3,7 +3,7 @@
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
-![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![Docker](https://img.shields.io/badge/Docker-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
+![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
 
 [![Licencia: CC0-1.0](https://img.shields.io/badge/Licencia-CC0--1.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/) ![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-green) 
 
@@ -12,8 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
+**Última actualización:** *10/09/2025*
+
 <a name="contenido"></a>
-## Contenido (34 programas listados) 
+## Contenido (35 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -42,6 +44,7 @@
      - [Composer](#composer)
 - DOS 
   - [DOSBox](#dosbox)
+  - [FreeDOS (Sistema Operativo)](#freedos)
 - Educativos
   - Editores gráficos infantiles
      - [Tux Paint](#tuxpaint)
@@ -235,6 +238,15 @@ Composer es un gestor de dependencias para PHP que permite declarar las bibliote
 DOSBox es un programa que emula el sistema operativo MS-DOS, permitiendo ejecutar aplicaciones y videojuegos antiguos diseñados para ese entorno. Es especialmente útil para revivir títulos clásicos de los años 80 y 90 que ya no son compatibles con los sistemas modernos.
 
 <a href="http://www.dosbox.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="freedos"></a>
+##### FreeDOS
+<img src="/assets/img/freedos.png" alt="freedos"/>
+FreeDOS es un sistema operativo libre y compatible con MS-DOS, diseñado para ejecutar programas antiguos, juegos clásicos y software empresarial heredado. Permite desarrollar nuevas aplicaciones en DOS gracias a sus herramientas de programación incluidas. Es ideal para entusiastas retro y desarrolladores que buscan un entorno DOS moderno.
+
+<a href="" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
