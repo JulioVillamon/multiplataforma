@@ -246,7 +246,7 @@ DOSBox es un programa que emula el sistema operativo MS-DOS, permitiendo ejecuta
 <img src="/assets/img/freedos.png" alt="freedos"/>
 FreeDOS es un sistema operativo libre y compatible con MS-DOS, diseñado para ejecutar programas antiguos, juegos clásicos y software empresarial heredado. Permite desarrollar nuevas aplicaciones en DOS gracias a sus herramientas de programación incluidas. Es ideal para entusiastas retro y desarrolladores que buscan un entorno DOS moderno.
 
-<a href="" target="_blank">web</a>
+<a href="https://freedos.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
