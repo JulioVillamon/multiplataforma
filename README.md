@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *10/09/2025*
+**Última actualización:** *11/09/2025*
 
 <a name="contenido"></a>
-## Contenido (35 programas listados) 
+## Contenido (36 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -50,6 +50,8 @@
      - [Tux Paint](#tuxpaint)
   - Educación Infantil
      - [eduActiv8](#eduActiv8)
+  - Genealogía
+     - [Genealogyj](#genealogyj)
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
@@ -269,6 +271,16 @@ Tux Paint es un editor de imágenes libre diseñado especialmente para niños pe
 eduActiv8 es una aplicación educativa gratuita y de código abierto que ofrece actividades interactivas para niños en edad preescolar y primaria. Funciona sin conexión y cubre áreas como matemáticas, lenguaje, lógica, memoria y arte mediante juegos, simulaciones y fichas. Es ideal para familias, docentes y profesionales de educación especial.
 
 <a href="https://www.eduactiv8.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Genealogía
+<a name="genealogyj"></a>
+##### Genealogyj
+<img src="/assets/img/genealogyj.png" alt="genealogyj"/>
+GenealogyJ es un programa de código abierto para visualizar y editar datos genealógicos, ideal para aficionados e investigadores familiares. Está desarrollado en Java y compatible con el estándar GEDCOM, ofreciendo múltiples vistas como árbol familiar, línea de tiempo, tabla y mapa geográfico. Funciona en sistemas Linux, Windows y Mac, y está disponible en varios idiomas.
+
+<a href="https://sourceforge.net/projects/genj" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
