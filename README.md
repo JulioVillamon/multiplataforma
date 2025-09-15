@@ -12,7 +12,7 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *11/09/2025*
+**Última actualización:** *15/09/2025*
 
 <a name="contenido"></a>
 ## Contenido (37 programas listados) 
