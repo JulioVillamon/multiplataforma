@@ -15,7 +15,7 @@
 **Última actualización:** *11/09/2025*
 
 <a name="contenido"></a>
-## Contenido (36 programas listados) 
+## Contenido (37 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -50,6 +50,8 @@
      - [Tux Paint](#tuxpaint)
   - Educación Infantil
      - [eduActiv8](#eduActiv8)
+  - Electrónica
+     - [Arduino](#arduino)
   - Genealogía
      - [Genealogyj](#genealogyj)
 - Fuentes
@@ -271,6 +273,16 @@ Tux Paint es un editor de imágenes libre diseñado especialmente para niños pe
 eduActiv8 es una aplicación educativa gratuita y de código abierto que ofrece actividades interactivas para niños en edad preescolar y primaria. Funciona sin conexión y cubre áreas como matemáticas, lenguaje, lógica, memoria y arte mediante juegos, simulaciones y fichas. Es ideal para familias, docentes y profesionales de educación especial.
 
 <a href="https://www.eduactiv8.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Electrónica
+<a name="arduino"></a>
+##### Arduino
+<img src="/assets/img/arduino.png" alt="arduino"/>
+Arduino es una plataforma de código abierto que permite crear objetos electrónicos interactivos mediante placas programables y software intuitivo. Es ampliamente utilizada en proyectos de robótica, domótica e Internet de las cosas (IoT). Su comunidad global impulsa la innovación en educación, industria y desarrollo personal.
+
+<a href="https://www.arduino.cc" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
