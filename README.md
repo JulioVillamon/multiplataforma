@@ -3,7 +3,7 @@
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
-![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
+![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/Web%20App-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
 
 [![Licencia: CC0-1.0](https://img.shields.io/badge/Licencia-CC0--1.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/) ![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-green) 
 
@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *15/09/2025*
+**Última actualización:** *16/09/2025*
 
 <a name="contenido"></a>
-## Contenido (37 programas listados) 
+## Contenido (38 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -59,6 +59,8 @@
      - [BirdFont](#birdfont)
   - OTF
      - [GNU FreeFont](#ttf)
+  - TTF
+     - [DejaVu Fonts](#ttf2)
 - Gráficos
   - 3D
      - [Art of Illusion](#artofillusion)
@@ -315,6 +317,16 @@ BirdFont es un editor de fuentes multiplataforma diseñado para la creación de 
 Conjunto de fuentes tipográficas libres que incluye variantes en los estilos Serif, Sans y Monospace. Su objetivo principal es proporcionar tipografías de alta calidad que sean completamente libres para usar, modificar y distribuir, tanto en proyectos personales como comerciales.
 
 <a href="http://www.gnu.org/software/freefont" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** TTF 
+<a name="ttf2"></a>
+##### DejaVu Fonts
+<img src="/assets/img/ttf.png" alt="ttf"/>
+Las fuentes DejaVu son una familia tipográfica libre basada en las Vera Fonts, diseñada para ampliar la cobertura de caracteres manteniendo su estilo original. Soportan múltiples alfabetos como latino, griego, cirílico, armenio y georgiano, además de símbolos matemáticos y patrones braille. El proyecto se desarrolla de forma colaborativa y está abierto a contribuciones a través de GitHub.
+
+<a href="https://dejavu-fonts.github.io" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
