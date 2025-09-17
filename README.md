@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *16/09/2025*
+**Última actualización:** *17/09/2025*
 
 <a name="contenido"></a>
-## Contenido (38 programas listados) 
+## Contenido (39 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -66,6 +66,8 @@
      - [Art of Illusion](#artofillusion)
   - CAD
      - [BRL-CAD](#brl-cad)
+  - Cámaras fotográficas
+     - [UFRaw](#ufraw)
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
@@ -349,6 +351,16 @@ Art of Illusion es un software gratuito y de código abierto para modelado y ren
 BRL-CAD es un sistema de modelado sólido multiplataforma y de código abierto, desarrollado desde 1979. Ofrece edición geométrica interactiva, trazado de rayos de alto rendimiento y herramientas para análisis geométrico. Ha sido utilizado por el ejército de EE. UU. para modelar sistemas de armas.
 
 <a href="https://brlcad.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Cámaras Fotográficas 
+<a name="ufraw"></a>
+##### UFRaw
+<img src="/assets/img/ufraw.png" alt="ufraw"/>
+UFRaw (Unidentified Flying Raw) es una herramienta libre para leer y procesar imágenes RAW de cámaras digitales. Puede funcionar como aplicación independiente o como complemento de GIMP, ofreciendo control detallado sobre exposición, balance de blancos y gestión de color con perfiles ICC. Soporta múltiples formatos RAW y realiza ediciones en 16 bits para preservar la calidad de imagen.
+
+<a href="https://ufraw.sourceforge.net" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
