@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *17/09/2025*
+**Última actualización:** *18/09/2025*
 
 <a name="contenido"></a>
-## Contenido (39 programas listados) 
+## Contenido (40 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -73,6 +73,8 @@
      - [Element Desktop](#element-desktop)
   - Correo Electrónico
      - [Sylpheed](#sylpheed)
+  - Fediverso
+     - [Fedistar](#fedistar)
 - Juegos
   - Ajedrez
      - [ChessX](#chessx)
@@ -383,6 +385,16 @@ Element Desktop es una aplicación de escritorio basada en el protocolo Matrix, 
 Sylpheed es un cliente de correo electrónico ligero, rápido y fácil de usar, ideal para usuarios que valoran la eficiencia. Ofrece funciones avanzadas como filtrado de mensajes, control de spam, cifrado con GnuPG y compatibilidad con SSL/TLS. Es multiplataforma y está diseñado para operar cómodamente con teclado.
 
 <a href="https://sylpheed.sraoss.jp/en/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Fediverso 
+<a name="fedistar"></a>
+##### Fedistar
+<img src="/assets/img/fedistar.png" alt="fedistar"/>
+Fedistar es una aplicación de escritorio para el Fediverso que permite gestionar múltiples cuentas en redes federadas como Mastodon. Su interfaz de columnas facilita la visualización simultánea de diferentes líneas de tiempo y conversaciones. Está diseñada para ofrecer una experiencia fluida y potente en entornos federados.
+
+<a href="https://fedistar.net" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
