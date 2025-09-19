@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *18/09/2025*
+**Última actualización:** *19/09/2025*
 
 <a name="contenido"></a>
-## Contenido (40 programas listados) 
+## Contenido (41 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -80,6 +80,8 @@
      - [ChessX](#chessx)
   - Arcade
      - [AstroMenace](#astromenace)
+  - Aventuras Conversacionales
+     - [Ink](#inky)
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
@@ -417,6 +419,16 @@ ChessX es una aplicación para gestionar bases de datos de ajedrez, permite a lo
 AstroMenace es un juego de disparos espacial en 3D con desplazamiento vertical, donde enfrentas oleadas de enemigos alienígenas en intensas batallas. Puedes mejorar tu nave con armas y equipos recolectando recursos durante el combate, eligiendo entre 22 modelos distintos. Su jugabilidad es frenética y personalizable, con gráficos detallados y efectos visuales que lo convierten en una experiencia arcade envolvente.
 
 <a href="https://viewizard.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Aventuras Conversacionales 
+<a name="inky"></a>
+##### Ink
+<img src="/assets/img/inky.png" alt="inky"/>
+Ink es un lenguaje de scripting narrativo diseñado para crear historias interactivas en videojuegos. Su sintaxis es sencilla y elegante, centrada en el texto, lo que permite escribir narrativas ramificadas sin conocimientos técnicos avanzados. Además, ofrece integración con Unity y Unreal, y es completamente de código abierto.
+
+<a href="https://www.inklestudios.com/ink/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
