@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *19/09/2025*
+**Última actualización:** *22/09/2025*
 
 <a name="contenido"></a>
-## Contenido (41 programas listados) 
+## Contenido (42 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -87,6 +87,8 @@
     - [Gap](#gap)
   - Calculadoras  
     - [SpeedCrunch](#speedcrunch2)
+  - Convertidores de unidades  
+    - [JConvert](#jconvert)
 - Ofimática
   - Agendas y calendarios  
     - [GTD-Free](#gtdfree)
@@ -451,6 +453,16 @@ GAP (Groups, Algorithms, Programming) está diseñado para realizar cálculos al
 SpeedCrunch es una calculadora científica de alta precisión, diseñada para realizar cálculos complejos de forma rápida y eficiente. Su interfaz basada en teclado permite introducir expresiones matemáticas y ver resultados en tiempo real. Incluye más de 80 funciones, constantes científicas, historial de operaciones y soporte para variables y funciones definidas por el usuario.
 
 <a href="https://www.speedcrunch.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Convertidores de uniddes
+<a name="jconvert"></a>
+##### JConvert
+<img src="/assets/img/jconvert.png" alt="jconvert"/>
+JConvert es un programa gratuito de conversión de unidades desarrollado en Java, con una interfaz amigable y soporte multilingüe. Permite modificar o añadir nuevas conversiones fácilmente, y puede integrarse con aplicaciones externas. Está orientado a usuarios de ciencia, educación y negocios.
+
+<a href="https://sourceforge.net/projects/jconvert" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
