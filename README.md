@@ -492,7 +492,7 @@ Data Crow es un potente organizador de colecciones multimedia que permite catalo
 
 #### ***** Diagramas
 <a name="dia"></a>
-##### Diagramas
+##### Dia
 <img src="/assets/img/dia.png" alt="dia"/>
 Dia es una herramienta de código abierto para crear diagramas estructurados como diagramas de flujo, redes, UML y más. Funciona en Windows, macOS y Linux, y permite exportar los diagramas en múltiples formatos. Es ideal para tareas de documentación técnica, diseño y planificación visual.
 
