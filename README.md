@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *22/09/2025*
+**Última actualización:** *23/09/2025*
 
 <a name="contenido"></a>
-## Contenido (42 programas listados) 
+## Contenido (43 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -94,6 +94,8 @@
     - [GTD-Free](#gtdfree)
   - Colecciones  
     - [Data Crow](#datacrow)
+  - Diagramas  
+    - [Dia](#dia)
 - Programación
   - .NET  
     - [Mono](#mono)
@@ -485,6 +487,16 @@ GTD-Free es un programa para ayudarte a gestionar tus tareas pendientes siguiend
 Data Crow es un potente organizador de colecciones multimedia que permite catalogar libros, películas, música, software e imágenes. Automatiza la búsqueda de información desde servicios online como IMDb y Amazon, además de importar datos desde archivos. Ofrece módulos personalizables y servidor integrado para compartir colecciones por red o web.
 
 <a href="https://www.datacrow.net" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Diagramas
+<a name="dia"></a>
+##### Diagramas
+<img src="/assets/img/dia.png" alt="dia"/>
+Dia es una herramienta de código abierto para crear diagramas estructurados como diagramas de flujo, redes, UML y más. Funciona en Windows, macOS y Linux, y permite exportar los diagramas en múltiples formatos. Es ideal para tareas de documentación técnica, diseño y planificación visual.
+
+<a href="http://dia-installer.de/index.html.es" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
