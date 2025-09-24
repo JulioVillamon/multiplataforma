@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *23/09/2025*
+**Última actualización:** *24/09/2025*
 
 <a name="contenido"></a>
-## Contenido (43 programas listados) 
+## Contenido (44 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -101,6 +101,8 @@
     - [Mono](#mono)
   - BASIC  
     - [QB64](#qb64)
+  - C/C++  
+    - [Code::Blocks](#codeblocks)
 - Utilidades
   - Accesibilidad  
     - [eSpeak](#espeak)
@@ -519,6 +521,16 @@ Mono es una plataforma de desarrollo de código abierto que permite ejecutar y c
 QB64 es un lenguaje de programación moderno basado en BASIC que conserva la compatibilidad con QBasic y QuickBASIC. Permite desarrollar aplicaciones gráficas mediante OpenGL y compilar ejecutables nativos para Windows, Linux y macOS. Es ideal para revivir proyectos clásicos o crear nuevos desde un entorno sencillo y potente.
 
 <a href="https://github.com/QB64Team/qb64" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** C/C++
+<a name="codeblocks"></a>
+##### Code::Blocks
+<img src="/assets/img/codeblocks.png" alt="codeblocks"/>
+Code::Blocks es un entorno de desarrollo integrado (IDE) gratuito para C, C++ y Fortran, diseñado para ser altamente extensible y configurable. Funciona mediante un sistema de plugins que permite añadir funcionalidades como compilación y depuración. Es multiplataforma y ofrece una experiencia coherente en distintos sistemas operativos.
+
+<a href="https://www.codeblocks.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
