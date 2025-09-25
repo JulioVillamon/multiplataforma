@@ -584,7 +584,7 @@ Avidemux es un editor de vídeo gratuito diseñado para tareas simples como cort
 <a name="kodi"></a>
 ##### Kodi
 <img src="/assets/img/kodi.png" alt="kodi"/>
-Kodi es un centro multimedia de código abierto que permite reproducir música, películas, series, fotos, juegos y televisión en vivo desde una interfaz atractiva y personalizable. Funciona en múltiples plataformas como Windows, Linux, Android, macOS y Raspberry Pi. Además, ofrece miles de complementos para ampliar sus funciones y adaptar la experiencia a cada usuario.
+Kodi es un centro multimedia de código abierto que permite reproducir música, películas, series, fotos, juegos y televisión en vivo desde una interfaz atractiva y personalizable. Funciona en múltiples plataformas como Windows, Linux, Android, macOS, Raspberry Pi y webOS. Además, ofrece miles de complementos para ampliar sus funciones y adaptar la experiencia a cada usuario.
 
 <a href="https://kodi.tv" target="_blank">web</a>
 
