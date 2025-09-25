@@ -3,7 +3,7 @@
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
-![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/.ttf-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
+![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.apk (android)](https://img.shields.io/badge/.apk%(Android)-purple) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![.ipk (webOS)](https://img.shields.io/badge/.ipk%(webOS)-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/.ttf-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
 
 [![Licencia: CC0-1.0](https://img.shields.io/badge/Licencia-CC0--1.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/) ![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-green) 
 
@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *24/09/2025*
+**Última actualización:** *25/09/2025*
 
 <a name="contenido"></a>
-## Contenido (44 programas listados) 
+## Contenido (45 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -112,7 +112,9 @@
   - Convertidores  
     - [Handbrake](#handbrake)
   - Editores  
-    - [Avidemux](#avidemux)    
+    - [Avidemux](#avidemux)
+  - Media Center  
+    - [Kodi](#kodi)    
 
 ### Astronomía
 ---
@@ -575,5 +577,15 @@ HandBrake es un conversor de vídeo gratuito y de código abierto. Permite trans
 Avidemux es un editor de vídeo gratuito diseñado para tareas simples como cortar, filtrar y codificar. Soporta múltiples formatos (AVI, MP4, MPEG, etc.) y diversos códecs para facilitar la edición básica. Permite automatizar procesos mediante proyectos, cola de tareas y scripts.
 
 <a href="http://fixounet.free.fr/avidemux/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Media Center
+<a name="kodi"></a>
+##### Kodi
+<img src="/assets/img/kodi.png" alt="kodi"/>
+Kodi es un centro multimedia de código abierto que permite reproducir música, películas, series, fotos, juegos y televisión en vivo desde una interfaz atractiva y personalizable. Funciona en múltiples plataformas como Windows, Linux, Android, macOS y Raspberry Pi. Además, ofrece miles de complementos para ampliar sus funciones y adaptar la experiencia a cada usuario.
+
+<a href="https://kodi.tv" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
