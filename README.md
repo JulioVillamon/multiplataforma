@@ -12,14 +12,15 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *25/09/2025*
+**Última actualización:** *26/09/2025*
 
 <a name="contenido"></a>
-## Contenido (45 programas listados) 
+## Contenido (46 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
    - [PreviSat](#previsat)
+   - [Sky Chart](#skychart)
    - [Stellarium](#stellarium)
  - Audio
    - Composición
@@ -142,6 +143,15 @@ KStars es un software de astronomía gratuito y de código abierto diseñado par
 Software de seguimiento de satélites artificiales. Permite visualizar en tiempo real o en modo manual la posición de satélites sobre un mapa mundial o celeste. Calcula con precisión los pasos visibles desde cualquier ubicación, incluyendo tránsitos frente al Sol o la Luna y destellos de satélites como Starlink. Usa el modelo orbital SGP4 para determinar posiciones geocéntricas a partir de elementos orbitales. Ofrece herramientas para actualizar y gestionar elementos orbitales en formatos GP y TLE.
 
 <a href="https://previsat.sourceforge.net" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="skychart"></a>
+##### Sky Chart
+<img src="/assets/img/skychart.png" alt="skychart"/>
+SkyChart (Cartes du Ciel) es un software gratuito que permite generar cartas celestes detalladas para sesiones de observación astronómica. Utiliza múltiples catálogos de estrellas, nebulosas, planetas y cometas, con opciones avanzadas de personalización visual. Es compatible con Linux, Windows y macOS, y se distribuye bajo licencia GPL.
+
+<a href="https://ap-i.net/skychart/es/start" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
