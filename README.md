@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *26/09/2025*
+**Última actualización:** *29/09/2025*
 
 <a name="contenido"></a>
-## Contenido (46 programas listados) 
+## Contenido (47 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -29,6 +29,8 @@
      - [gPodder](#gpodder)
    - DJ
      - [Giada](#giada)
+   - Editores
+     - [Audacity](#audacity)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -193,6 +195,16 @@ Cliente de podcast que permite suscribirse, descargar y organizar episodios de a
 Giada es una herramienta minimalista y de código abierto para la producción musical, pensada para DJs, músicos electrónicos y actuaciones en vivo. Permite crear canciones en tiempo real mediante loops, controlar dispositivos MIDI, y aplicar efectos con plugins VST. Su interfaz ligera y potente está disponible para Linux, Windows, macOS y FreeBSD.
 
 <a href="https://www.giadamusic.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Editores
+<a name="audacity"></a>
+##### Audacity
+<img src="/assets/img/audacity.png" alt="audacity"/>
+Audacity es un editor y grabador de audio gratuito y de código abierto, disponible para Windows, macOS y Linux. Permite editar múltiples pistas, aplicar efectos en tiempo real y convertir entre formatos como WAV, MP3 y FLAC. Es ideal para crear música, podcasts o cualquier proyecto sonoro con herramientas potentes y accesibles.
+
+<a href="https://www.audacityteam.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
