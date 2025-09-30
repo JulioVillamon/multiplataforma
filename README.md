@@ -3,7 +3,7 @@
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
-![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.apk](https://img.shields.io/badge/.apk-purple) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![.ipk](https://img.shields.io/badge/.ipk-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/.ttf-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
+![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.apk](https://img.shields.io/badge/.apk-purple) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![.ipk](https://img.shields.io/badge/.ipk-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/.ttf-purple) ![.txz](https://img.shields.io/badge/.txz-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
 
 [![Licencia: CC0-1.0](https://img.shields.io/badge/Licencia-CC0--1.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/) ![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-green) 
 
@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *29/09/2025*
+**Última actualización:** *30/09/2025*
 
 <a name="contenido"></a>
-## Contenido (47 programas listados) 
+## Contenido (48 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -34,6 +34,7 @@
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
+     - [MySQL](#mysql)
   - NoSQL
      - [MongoDB](#mongodb)
   - Otras
@@ -217,6 +218,15 @@ Audacity es un editor y grabador de audio gratuito y de código abierto, disponi
 MariaDB es un sistema de gestión de bases de datos relacionales de código abierto. Es una alternativa a MySQL y se utiliza para almacenar, gestionar y acceder a datos de manera eficiente. Ofrece alta disponibilidad, rendimiento optimizado y compatibilidad con diversas aplicaciones.
 
 <a href="https://mariadb.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="mysql"></a>
+##### MySQL
+<img src="/assets/img/mysql.png" alt="MySQL"/>
+MySQL es un sistema de gestión de bases de datos relacional de código abierto, ampliamente utilizado para almacenar, organizar y acceder a datos de forma rápida y segura. Funciona mediante lenguaje SQL y es compatible con múltiples plataformas. Es la base de muchos sitios web, aplicaciones empresariales y servicios en la nube.
+
+<a href="https://www.mysql.com" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
