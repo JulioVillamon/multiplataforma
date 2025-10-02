@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *30/09/2025*
+**Última actualización:** *02/10/2025*
 
 <a name="contenido"></a>
-## Contenido (48 programas listados) 
+## Contenido (49 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -46,6 +46,8 @@
      - [Aptana Studio](#aptana)
    - PHP
      - [Composer](#composer)
+   - PHP Editores
+     - [Eclipse](#eclipse)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -279,6 +281,16 @@ Aptana Studio es un entorno de desarrollo integrado (IDE) de código abierto dis
 Composer es un gestor de dependencias para PHP que permite declarar las bibliotecas que tu proyecto necesita y las instala automáticamente. Facilita la gestión de versiones y la integración de paquetes desde el repositorio Packagist. Es una herramienta esencial para desarrolladores que buscan mantener sus proyectos organizados y actualizados.
 
 <a href="https://getcomposer.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** PHP Editores
+<a name="eclipse"></a>
+##### Eclipse
+<img src="/assets/img/eclipse.png" alt="Eclipse"/>
+Eclipse es un entorno de desarrollo integrado (IDE) de código abierto que facilita la creación de software en múltiples lenguajes como Java, C++, Python y más. Proporciona herramientas avanzadas para edición, depuración y gestión de proyectos. Además, impulsa la colaboración en proyectos de código abierto a través de su comunidad global.
+
+<a href="https://www.eclipse.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
