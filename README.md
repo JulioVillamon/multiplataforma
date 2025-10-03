@@ -3,7 +3,7 @@
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
-![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.apk](https://img.shields.io/badge/.apk-purple) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![.ipk](https://img.shields.io/badge/.ipk-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/.ttf-purple) ![.txz](https://img.shields.io/badge/.txz-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
+![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.pkg.tar.zst](https://img.shields.io/badge/.pkg.tar.zst-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.apk](https://img.shields.io/badge/.apk-purple) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![.ipk](https://img.shields.io/badge/.ipk-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/.ttf-purple) ![.txz](https://img.shields.io/badge/.txz-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
 
 [![Licencia: CC0-1.0](https://img.shields.io/badge/Licencia-CC0--1.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/) ![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-green) 
 
@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *02/10/2025*
+**Última actualización:** *03/10/2025*
 
 <a name="contenido"></a>
-## Contenido (49 programas listados) 
+## Contenido (50 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -60,6 +60,8 @@
      - [Arduino](#arduino)
   - Genealogía
      - [Genealogyj](#genealogyj)
+  - Geografía
+     - [GPXSee](#gpxsee)
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
@@ -353,6 +355,16 @@ Arduino es una plataforma de código abierto que permite crear objetos electrón
 GenealogyJ es un programa de código abierto para visualizar y editar datos genealógicos, ideal para aficionados e investigadores familiares. Está desarrollado en Java y compatible con el estándar GEDCOM, ofreciendo múltiples vistas como árbol familiar, línea de tiempo, tabla y mapa geográfico. Funciona en sistemas Linux, Windows y Mac, y está disponible en varios idiomas.
 
 <a href="https://sourceforge.net/projects/genj" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Geografía
+<a name="gpxsee"></a>
+##### GPXSee
+<img src="/assets/img/gpxsee.png" alt="gpxsee"/>
+GPXSee es un visor y analizador de archivos de registro GPS compatible con múltiples formatos como GPX, TCX, KML, FIT y NMEA. Permite visualizar rutas sobre mapas online y offline, además de mostrar datos como altitud, velocidad, ritmo cardíaco o temperatura. Es multiplataforma, libre y diseñado para ser rápido y sin dependencias innecesarias.
+
+<a href="https://www.gpxsee.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
