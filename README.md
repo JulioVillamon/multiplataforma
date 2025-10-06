@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *03/10/2025*
+**Última actualización:** *06/10/2025*
 
 <a name="contenido"></a>
-## Contenido (50 programas listados) 
+## Contenido (51 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -65,6 +65,7 @@
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
+     - [FontForge](#fontforge)
   - OTF
      - [GNU FreeFont](#ttf)
   - TTF
@@ -377,6 +378,15 @@ GPXSee es un visor y analizador de archivos de registro GPS compatible con múlt
 BirdFont es un editor de fuentes multiplataforma diseñado para la creación de tipografías personalizadas mediante gráficos vectoriales. Permite exportar fuentes en formatos TTF, EOT y SVG, además de importar y manipular imágenes vectoriales en SVG. Entre sus características destacan las curvas Bézier cuadráticas y cúbicas, la posibilidad de combinar e invertir caminos y la opción de insertar imágenes de fondo como guía para diseñar fuentes a partir de escritura manuscrita. Es una herramienta potente para diseñadores gráficos que buscan crear tipografías únicas y originales.
 
 <a href="https://birdfont.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="fontforge"></a>
+##### FontForge
+<img src="/assets/img/fontforge.png" alt="fontforge"/>
+FontForge es un editor de fuentes libre y de código abierto que permite crear, modificar y convertir tipografías en formatos como TTF, OTF y SVG. Ofrece herramientas avanzadas para diseñar contornos, ajustar métricas y corregir errores en fuentes existentes. Es ideal tanto para diseñadores como para desarrolladores que trabajan con tipografía digital.
+
+<a href="https://fontforge.org/en-US/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
