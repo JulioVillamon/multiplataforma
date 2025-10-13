@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *06/10/2025*
+**Última actualización:** *13/10/2025*
 
 <a name="contenido"></a>
-## Contenido (51 programas listados) 
+## Contenido (52 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -77,6 +77,8 @@
      - [BRL-CAD](#brl-cad)
   - Cámaras fotográficas
      - [UFRaw](#ufraw)
+  - Editores de animaciones
+     - [Glaxnimate](#glaxnimate)
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
@@ -439,6 +441,16 @@ BRL-CAD es un sistema de modelado sólido multiplataforma y de código abierto, 
 UFRaw (Unidentified Flying Raw) es una herramienta libre para leer y procesar imágenes RAW de cámaras digitales. Puede funcionar como aplicación independiente o como complemento de GIMP, ofreciendo control detallado sobre exposición, balance de blancos y gestión de color con perfiles ICC. Soporta múltiples formatos RAW y realiza ediciones en 16 bits para preservar la calidad de imagen.
 
 <a href="https://ufraw.sourceforge.net" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Editores de animaciones 
+<a name="glaxnimate"></a>
+##### Glaxnimate
+<img src="/assets/img/glaxnimate.png" alt="glaxnimate"/>
+Glaxnimate es una aplicación de escritorio de código abierto para diseño de animaciones vectoriales y motion graphics. Permite crear animaciones suaves con gráficos vectoriales, compatibles con formatos como Lottie, GIF animado y SVG animadoglaxnimate.org. Es multiplataforma, personalizable y extensible mediante scripts en Python.
+
+<a href="https://glaxnimate.org/es/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
