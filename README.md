@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *13/10/2025*
+**Última actualización:** *16/10/2025*
 
 <a name="contenido"></a>
-## Contenido (52 programas listados) 
+## Contenido (53 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -86,6 +86,8 @@
      - [Sylpheed](#sylpheed)
   - Fediverso
      - [Fedistar](#fedistar)
+  - FTP
+     - [Filezilla](#filezilla)
 - Juegos
   - Ajedrez
      - [ChessX](#chessx)
@@ -483,6 +485,16 @@ Sylpheed es un cliente de correo electrónico ligero, rápido y fácil de usar, 
 Fedistar es una aplicación de escritorio para el Fediverso que permite gestionar múltiples cuentas en redes federadas como Mastodon. Su interfaz de columnas facilita la visualización simultánea de diferentes líneas de tiempo y conversaciones. Está diseñada para ofrecer una experiencia fluida y potente en entornos federados.
 
 <a href="https://fedistar.net" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** FTP 
+<a name="filezilla"></a>
+##### Filezilla
+<img src="/assets/img/filezilla.png" alt="filezilla"/>
+FileZilla es un cliente y servidor FTP gratuito y de código abierto que permite transferir archivos de forma segura entre ordenadores y servidores remotos. Soporta protocolos como FTP, FTPS y SFTP, y su versión Pro añade compatibilidad con servicios en la nube como Google Drive, Dropbox o Amazon S3. Es multiplataforma, fácil de usar y ampliamente utilizado para gestionar sitios web y copias de seguridad.
+
+<a href="https://filezilla-project.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
