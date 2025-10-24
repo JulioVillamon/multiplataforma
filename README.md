@@ -143,7 +143,7 @@ Celestia es un programa de simulación espacial en 3D que permite a los usuarios
 <a name="kstars"></a>
 ##### KStars
 <img src="/assets/img/kstars.png" alt="kstars"/>
-KStars es un software de astronomía gratuito y de código abierto diseñado para ofrecer una simulación gráfica del cielo nocturno. Este programa permite observar hasta 100 millones de estrellas, 10,000 objetos de cielo profundo, cometas, asteroides y planetas, todo en tiempo real. Además, incluye herramientas avanzadas para la planificación de observaciones, cálculos astronómicos y un flujo de trabajo completo para astrofotografía. Es ideal para estudiantes, educadores, astrónomos aficionados y entusiastas de la astronomía.
+KStars es un software de astronomía gratuito y de código abierto diseñado para ofrecer una simulación gráfica del cielo nocturno. Este programa permite observar hasta 100 millones de estrellas, 10.000 objetos de cielo profundo, cometas, asteroides y planetas, todo en tiempo real. Además, incluye herramientas avanzadas para la planificación de observaciones, cálculos astronómicos y un flujo de trabajo completo para astrofotografía. Es ideal para estudiantes, educadores, astrónomos aficionados y entusiastas de la astronomía.
 
 <a href="https://kstars.kde.org" target="_blank">web</a>
 
