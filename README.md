@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *16/10/2025*
+**Última actualización:** *27/10/2025*
 
 <a name="contenido"></a>
-## Contenido (53 programas listados) 
+## Contenido (54 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -95,6 +95,8 @@
      - [AstroMenace](#astromenace)
   - Aventuras Conversacionales
      - [Ink](#inky)
+  - Bomberman
+     - [I have no tomatoes](#ihavenotomatoes)
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
@@ -527,6 +529,16 @@ AstroMenace es un juego de disparos espacial en 3D con desplazamiento vertical, 
 Ink es un lenguaje de scripting narrativo diseñado para crear historias interactivas en videojuegos. Su sintaxis es sencilla y elegante, centrada en el texto, lo que permite escribir narrativas ramificadas sin conocimientos técnicos avanzados. Además, ofrece integración con Unity y Unreal, y es completamente de código abierto.
 
 <a href="https://www.inklestudios.com/ink/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Bomberman 
+<a name="ihavenotomatoes"></a>
+##### I have no tomatoes
+<img src="/assets/img/ihavenotomatoes.png" alt="ihavenotomatoes"/>
+"I Have No Tomatoes" es un juego arcade gratuito con vista cenital, inspirado en el estilo de Bomberman. El jugador debe colocar bombas estratégicamente para destruir enemigos y recolectar tomates, todo dentro de un límite de tiempo. Su dinámica combina acción rápida, laberintos y potenciadores que modifican el entorno.
+
+<a href="https://tomatoes.sourceforge.net/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
