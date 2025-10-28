@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *27/10/2025*
+**Última actualización:** *28/10/2025*
 
 <a name="contenido"></a>
-## Contenido (54 programas listados) 
+## Contenido (55 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -104,6 +104,8 @@
     - [SpeedCrunch](#speedcrunch2)
   - Convertidores de unidades  
     - [JConvert](#jconvert)
+  - Cálculo Numérico  
+    - [FreeMat](#freemat)
 - Ofimática
   - Agendas y calendarios  
     - [GTD-Free](#gtdfree)
@@ -571,6 +573,16 @@ SpeedCrunch es una calculadora científica de alta precisión, diseñada para re
 JConvert es un programa gratuito de conversión de unidades desarrollado en Java, con una interfaz amigable y soporte multilingüe. Permite modificar o añadir nuevas conversiones fácilmente, y puede integrarse con aplicaciones externas. Está orientado a usuarios de ciencia, educación y negocios.
 
 <a href="https://sourceforge.net/projects/jconvert" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Cálculo numérico
+<a name="freemat"></a>
+##### FreeMat
+<img src="/assets/img/freemat.png" alt="freemat"/>
+FreeMat es un entorno libre para prototipado rápido en ingeniería y procesamiento científico de datos, similar a MATLAB o IDL. Permite realizar cálculos numéricos, visualización 2D/3D y manipulación de matrices multidimensionales. Es multiplataforma, de código abierto y compatible con C/C++ y FORTRAN para tareas avanzadas.
+
+<a href="https://freemat.sourceforge.net/index.html" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
