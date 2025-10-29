@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *28/10/2025*
+**Última actualización:** *29/10/2025*
 
 <a name="contenido"></a>
-## Contenido (55 programas listados) 
+## Contenido (56 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -113,6 +113,8 @@
     - [Data Crow](#datacrow)
   - Diagramas  
     - [Dia](#dia)
+  - Diccionarios  
+    - [Babiloo](#babiloo)
 - Programación
   - .NET  
     - [Mono](#mono)
@@ -615,6 +617,16 @@ Data Crow es un potente organizador de colecciones multimedia que permite catalo
 Dia es una herramienta de código abierto para crear diagramas estructurados como diagramas de flujo, redes, UML y más. Funciona en Windows, macOS y Linux, y permite exportar los diagramas en múltiples formatos. Es ideal para tareas de documentación técnica, diseño y planificación visual.
 
 <a href="http://dia-installer.de/index.html.es" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Diccionarios
+<a name="babiloo"></a>
+##### Babiloo
+<img src="/assets/img/babiloo.png" alt="babiloo"/>
+Babiloo es un diccionario digital de código abierto que permite consultar definiciones en múltiples idiomas sin conexión a internet. Soporta distintos formatos de diccionario y es compatible con Windows y Linux. Su interfaz es sencilla y está pensada para facilitar el acceso rápido al contenido lingüístico.
+
+<a href="http://code.google.com/archive/p/babiloo" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
