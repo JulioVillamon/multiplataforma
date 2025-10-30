@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *29/10/2025*
+**Última actualización:** *30/10/2025*
 
 <a name="contenido"></a>
-## Contenido (56 programas listados) 
+## Contenido (57 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -122,6 +122,8 @@
     - [QB64](#qb64)
   - C/C++  
     - [Code::Blocks](#codeblocks)
+  - Doxygen  
+    - [Doxygen](#doxygen)
 - Utilidades
   - Accesibilidad  
     - [eSpeak](#espeak)
@@ -659,6 +661,16 @@ QB64 es un lenguaje de programación moderno basado en BASIC que conserva la com
 Code::Blocks es un entorno de desarrollo integrado (IDE) gratuito para C, C++ y Fortran, diseñado para ser altamente extensible y configurable. Funciona mediante un sistema de plugins que permite añadir funcionalidades como compilación y depuración. Es multiplataforma y ofrece una experiencia coherente en distintos sistemas operativos.
 
 <a href="https://www.codeblocks.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Doxygen
+<a name="doxygen"></a>
+##### Doxygen
+<img src="/assets/img/doxygen.png" alt="doxygen"/>
+Doxygen es una herramienta de documentación automática para proyectos en C, C++, Java, Python y otros lenguajes. Genera documentación estructurada a partir del código fuente, incluyendo diagramas, referencias cruzadas y navegación web. Es ideal para mantener documentación técnica sincronizada con el desarrollo del software.
+
+<a href="https://www.doxygen.nl/index.html" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
