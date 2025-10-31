@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *30/10/2025*
+**Última actualización:** *31/10/2025*
 
 <a name="contenido"></a>
-## Contenido (57 programas listados) 
+## Contenido (58 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -129,6 +129,8 @@
     - [eSpeak](#espeak)
   - Antivirus  
     - [ClamAV](#clamav)
+  - Archivos y carpetas  
+    - [Metamorphose](#metamorphose)
 - Vídeo y Multimedia
   - Convertidores  
     - [Handbrake](#handbrake)
@@ -693,6 +695,16 @@ eSpeak NG (Next Generation) es un sintetizador de voz de código abierto que con
 ClamAV es un motor antivirus de código abierto diseñado principalmente para detectar malware, troyanos y otros archivos maliciosos en sistemas Unix. Se usa comúnmente en servidores de correo para escanear adjuntos y proteger contra amenazas. Su arquitectura flexible permite integraciones personalizadas y escaneos automáticos en tiempo real.
 
 <a href="https://www.clamav.net" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Archivos y carpetas
+<a name="metamorphose"></a>
+##### Metamorphose
+<img src="/assets/img/metamorphose.png" alt="metamorphose"/>
+Metamorphose es un programa de renombrado masivo de archivos y carpetas. Permite aplicar múltiples operaciones de renombrado de forma flexible y rápida, incluyendo el uso de expresiones regulares, metadatos, numeración secuencial y estilos de texto. Es ideal para organizar colecciones de fotos, música o documentos en distintos sistemas operativos. Puede ejecutarse en macOS utilizando el paquete de fuentes en Python.
+
+<a href="https://file-folder-ren.sourceforge.net" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
