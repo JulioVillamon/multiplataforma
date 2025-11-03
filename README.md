@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *31/10/2025*
+**Última actualización:** *03/11/2025*
 
 <a name="contenido"></a>
-## Contenido (58 programas listados) 
+## Contenido (59 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -137,7 +137,9 @@
   - Editores  
     - [Avidemux](#avidemux)
   - Media Center  
-    - [Kodi](#kodi)    
+    - [Kodi](#kodi)
+  - Reproductores  
+    - [Bino](#bino)      
 
 ### Astronomía
 ---
@@ -737,5 +739,15 @@ Avidemux es un editor de vídeo gratuito diseñado para tareas simples como cort
 Kodi es un centro multimedia de código abierto que permite reproducir música, películas, series, fotos, juegos y televisión en vivo desde una interfaz atractiva y personalizable. Funciona en múltiples plataformas como Windows, Linux, Android, macOS, Raspberry Pi y webOS. Además, ofrece miles de complementos para ampliar sus funciones y adaptar la experiencia a cada usuario.
 
 <a href="https://kodi.tv" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Reproductores
+<a name="bino"></a>
+##### Bino
+<img src="/assets/img/bino.png" alt="bino"/>
+Bino es un reproductor de vídeo especializado en formatos 3D y entornos de realidad virtual. Permite visualizar vídeos en 360° y 180°, con o sin 3D, y es compatible con múltiples modos de visualización y sistemas como SteamVR y CAVEs. Está desarrollado con Qt, es software libre bajo licencia GPL y no requiere bibliotecas adicionales.
+
+<a href="https://bino3d.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
