@@ -12,7 +12,7 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *03/11/2025*
+**Última actualización:** *04/11/2025*
 
 <a name="contenido"></a>
 ## Contenido (59 programas listados) 
@@ -31,6 +31,8 @@
      - [Giada](#giada)
    - Editores
      - [Audacity](#audacity)
+   - Reproductores
+     - [Audacious](#audacious)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -227,6 +229,16 @@ Giada es una herramienta minimalista y de código abierto para la producción mu
 Audacity es un editor y grabador de audio gratuito y de código abierto, disponible para Windows, macOS y Linux. Permite editar múltiples pistas, aplicar efectos en tiempo real y convertir entre formatos como WAV, MP3 y FLAC. Es ideal para crear música, podcasts o cualquier proyecto sonoro con herramientas potentes y accesibles.
 
 <a href="https://www.audacityteam.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Reproductores
+<a name="audacious"></a>
+##### Audacious
+<img src="/assets/img/audacious.png" alt="audacious"/>
+Audacious es un reproductor de audio gratuito y de código abierto, diseñado para ofrecer una experiencia ligera y eficiente. Permite reproducir archivos en múltiples formatos (como MP3, FLAC y WAV), gestionar listas de reproducción y aplicar efectos de sonido. Su interfaz sencilla y personalizable lo hace ideal para usuarios que buscan rendimiento sin complicaciones.
+
+<a href="https://audacious-media-player.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
