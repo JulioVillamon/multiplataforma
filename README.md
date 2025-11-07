@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *04/11/2025*
+**Última actualización:** *07/11/2025*
 
 <a name="contenido"></a>
-## Contenido (60 programas listados) 
+## Contenido (61 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -37,6 +37,7 @@
    - MySQL
      - [MariaDB](#mariadb)
      - [MySQL](#mysql)
+     - [phpMyAdmin](#phpmyadmin)
   - NoSQL
      - [MongoDB](#mongodb)
   - Otras
@@ -260,6 +261,15 @@ MariaDB es un sistema de gestión de bases de datos relacionales de código abie
 MySQL es un sistema de gestión de bases de datos relacional de código abierto, ampliamente utilizado para almacenar, organizar y acceder a datos de forma rápida y segura. Funciona mediante lenguaje SQL y es compatible con múltiples plataformas. Es la base de muchos sitios web, aplicaciones empresariales y servicios en la nube.
 
 <a href="https://www.mysql.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="phpmyadmin"></a>
+##### phpMyAdmin
+<img src="/assets/img/phpmyadmin.png" alt="phpmyadmin"/>
+phpMyAdmin es una herramienta web de código abierto que permite administrar bases de datos MySQL y MariaDB de forma visual e intuitiva. Facilita tareas como la creación, edición y eliminación de bases de datos, tablas y registros mediante una interfaz gráfica. Es ampliamente utilizada por desarrolladores y administradores para gestionar datos sin necesidad de escribir comandos SQL manualmente.
+
+<a href="https://www.phpmyadmin.net" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
