@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *07/11/2025*
+**Última actualización:** *10/11/2025*
 
 <a name="contenido"></a>
-## Contenido (61 programas listados) 
+## Contenido (62 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -51,6 +51,8 @@
      - [Composer](#composer)
    - PHP Editores
      - [Eclipse](#eclipse)
+   - PHP Frameworks
+     - [CakePHP](#cakephp)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -332,6 +334,16 @@ Composer es un gestor de dependencias para PHP que permite declarar las bibliote
 Eclipse es un entorno de desarrollo integrado (IDE) de código abierto que facilita la creación de software en múltiples lenguajes como Java, C++, Python y más. Proporciona herramientas avanzadas para edición, depuración y gestión de proyectos. Además, impulsa la colaboración en proyectos de código abierto a través de su comunidad global.
 
 <a href="https://www.eclipse.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** PHP Frameworks
+<a name="cakephp"></a>
+##### CakePHP
+<img src="/assets/img/cakephp.png" alt="CakePHP"/>
+CakePHP es un framework de código abierto para PHP que facilita el desarrollo rápido de aplicaciones web. Utiliza el patrón de diseño Modelo-Vista-Controlador (MVC) y promueve el principio de “Convención sobre Configuración”, lo que reduce la necesidad de escribir código repetitivo. Es ideal para crear aplicaciones estructuradas, seguras y escalables con menos esfuerzo.
+
+<a href="https://cakephp.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
