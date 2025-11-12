@@ -3,7 +3,7 @@
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
-![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.pkg.tar.zst](https://img.shields.io/badge/.pkg.tar.zst-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.apk](https://img.shields.io/badge/.apk-purple) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![.ipa](https://img.shields.io/badge/.ipa-purple) ![.ipk](https://img.shields.io/badge/.ipk-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/.ttf-purple) ![.txz](https://img.shields.io/badge/.txz-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
+![.bin](https://img.shields.io/badge/.bin-orange) ![.deb](https://img.shields.io/badge/.deb-orange) ![.Flatpak](https://img.shields.io/badge/Flatpak-orange) ![.pkg.tar.zst](https://img.shields.io/badge/.pkg.tar.zst-orange) ![.rpm](https://img.shields.io/badge/.rpm-orange) ![.run](https://img.shields.io/badge/.run-orange) ![.Snap](https://img.shields.io/badge/Snap-orange) ![.tar.gz](https://img.shields.io/badge/.tar.gz-orange) ![.tgz](https://img.shields.io/badge/.tgz-orange) ![.zip](https://img.shields.io/badge/.zip-orange) ![.app](https://img.shields.io/badge/.app-yellow) ![.dmg](https://img.shields.io/badge/.dmg-yellow) ![.pkg](https://img.shields.io/badge/Homebrew-yellow) ![.pkg](https://img.shields.io/badge/.pkg-yellow) ![.exe](https://img.shields.io/badge/.exe-blue) ![.msi](https://img.shields.io/badge/.msi-blue) ![.apk](https://img.shields.io/badge/.apk-purple) ![.bat](https://img.shields.io/badge/.bat-purple) ![.com](https://img.shields.io/badge/.com-purple) ![Docker](https://img.shields.io/badge/Docker-purple) ![.ipa](https://img.shields.io/badge/.ipa-purple) ![.ipk](https://img.shields.io/badge/.ipk-purple) ![Java](https://img.shields.io/badge/Java-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-purple) ![.otf](https://img.shields.io/badge/.otf-purple) ![PHP](https://img.shields.io/badge/PHP-purple) ![Python](https://img.shields.io/badge/Python-purple) ![.ttf](https://img.shields.io/badge/.ttf-purple) ![.txz](https://img.shields.io/badge/.txz-purple) ![Web App](https://img.shields.io/badge/Web%20App-purple)
 
 [![Licencia: CC0-1.0](https://img.shields.io/badge/Licencia-CC0--1.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/) ![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-green) 
 
@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *11/11/2025*
+**Última actualización:** *12/11/2025*
 
 <a name="contenido"></a>
-## Contenido (63 programas listados) 
+## Contenido (64 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -75,6 +75,7 @@
      - [FontForge](#fontforge)
   - OTF
      - [GNU FreeFont](#ttf)
+     - [STIX Fonts](#stixfonts)
   - TTF
      - [DejaVu Fonts](#ttf2)
 - Gráficos
@@ -459,6 +460,15 @@ FontForge es un editor de fuentes libre y de código abierto que permite crear, 
 Conjunto de fuentes tipográficas libres que incluye variantes en los estilos Serif, Sans y Monospace. Su objetivo principal es proporcionar tipografías de alta calidad que sean completamente libres para usar, modificar y distribuir, tanto en proyectos personales como comerciales.
 
 <a href="http://www.gnu.org/software/freefont" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="stixfonts"></a>
+##### STIX Fonts
+<img src="/assets/img/stixfonts.png" alt="stixfonts"/>
+STIX Fonts es un proyecto que desarrolla un conjunto completo de tipografías diseñadas para la comunidad científica y técnica. Ofrece cobertura extensa de caracteres matemáticos, latinos, griegos y cirílicos basados en Unicode, facilitando la creación y publicación de manuscritos en formatos digitales e impresos. Las fuentes se distribuyen de forma gratuita bajo licencia abierta, fomentando su uso por editores, desarrolladores, investigadores y estudiantes.
+
+<a href="https://www.stixfonts.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
