@@ -532,7 +532,7 @@ Glaxnimate es una aplicación de escritorio de código abierto para diseño de a
 <img src="/assets/img/digikam.png" alt="digikam"/>
 digiKam es un programa libre y multiplataforma para gestionar grandes colecciones de fotografías y vídeos. Permite importar, organizar y buscar imágenes mediante álbumes, etiquetas, metadatos y reconocimiento facial. Además, incluye herramientas de edición avanzada, soporte para archivos RAW y opciones de exportación a redes sociales o galerías web.
 
-<a href="https://www.digicam.org" target="_blank">web</a>
+<a href="https://www.digikam.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
