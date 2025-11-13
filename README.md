@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *12/11/2025*
+**Última actualización:** *13/11/2025*
 
 <a name="contenido"></a>
-## Contenido (64 programas listados) 
+## Contenido (65 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -87,6 +87,8 @@
      - [UFRaw](#ufraw)
   - Editores de animaciones
      - [Glaxnimate](#glaxnimate)
+  - Editores gráficos
+     - [digiKam](#digikam)
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
@@ -521,6 +523,16 @@ UFRaw (Unidentified Flying Raw) es una herramienta libre para leer y procesar im
 Glaxnimate es una aplicación de escritorio de código abierto para diseño de animaciones vectoriales y motion graphics. Permite crear animaciones suaves con gráficos vectoriales, compatibles con formatos como Lottie, GIF animado y SVG animadoglaxnimate.org. Es multiplataforma, personalizable y extensible mediante scripts en Python.
 
 <a href="https://glaxnimate.org/es/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Editores gráficos 
+<a name="digikam"></a>
+##### digiKam
+<img src="/assets/img/digikam.png" alt="digikam"/>
+digiKam es un programa libre y multiplataforma para gestionar grandes colecciones de fotografías y vídeos. Permite importar, organizar y buscar imágenes mediante álbumes, etiquetas, metadatos y reconocimiento facial. Además, incluye herramientas de edición avanzada, soporte para archivos RAW y opciones de exportación a redes sociales o galerías web.
+
+<a href="https://www.digicam.org" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
