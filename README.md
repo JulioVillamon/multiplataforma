@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *13/11/2025*
+**Última actualización:** *20/11/2025*
 
 <a name="contenido"></a>
-## Contenido (65 programas listados) 
+## Contenido (66 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -98,6 +98,8 @@
      - [Fedistar](#fedistar)
   - FTP
      - [Filezilla](#filezilla)
+  - Gestores de Descargas
+     - [Drifty](#drifty)
 - Juegos
   - Ajedrez
      - [ChessX](#chessx)
@@ -575,6 +577,16 @@ Fedistar es una aplicación de escritorio para el Fediverso que permite gestiona
 FileZilla es un cliente y servidor FTP gratuito y de código abierto que permite transferir archivos de forma segura entre ordenadores y servidores remotos. Soporta protocolos como FTP, FTPS y SFTP, y su versión Pro añade compatibilidad con servicios en la nube como Google Drive, Dropbox o Amazon S3. Es multiplataforma, fácil de usar y ampliamente utilizado para gestionar sitios web y copias de seguridad.
 
 <a href="https://filezilla-project.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Gestores de Descargas 
+<a name="drifty"></a>
+##### Drifty
+<img src="/assets/img/drifty.png" alt="drifty"/>
+Drifty es un programa de descarga multiplataforma, rápido y ligero, desarrollado en Java. Permite bajar vídeos, imágenes y documentos desde cualquier sitio web o red social, incluyendo YouTube e Instagram. Además, soporta descargas simultáneas, múltiples formatos y ofrece tanto interfaz gráfica como modo de línea de comandos
+
+<a href="https://drifty.vercel.app/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
