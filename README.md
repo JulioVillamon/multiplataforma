@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *20/11/2025*
+**Última actualización:** *21/11/2025*
 
 <a name="contenido"></a>
-## Contenido (66 programas listados) 
+## Contenido (67 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -109,6 +109,8 @@
      - [Ink](#inky)
   - Bomberman
      - [I have no tomatoes](#ihavenotomatoes)
+  - Carreras de Coches
+     - [SuperTuxKart](#supertuxkart2)
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
@@ -629,6 +631,16 @@ Ink es un lenguaje de scripting narrativo diseñado para crear historias interac
 "I Have No Tomatoes" es un juego arcade gratuito con vista cenital, inspirado en el estilo de Bomberman. El jugador debe colocar bombas estratégicamente para destruir enemigos y recolectar tomates, todo dentro de un límite de tiempo. Su dinámica combina acción rápida, laberintos y potenciadores que modifican el entorno.
 
 <a href="https://tomatoes.sourceforge.net/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Carreras de Coches 
+<a name="supertuxkart2"></a>
+##### SuperTuxKart
+<img src="/assets/img/supertuxkart2.png" alt="supertuxkart"/>
+SuperTuxKart es un juego de carreras de karts gratuito y de código abierto, inspirado en títulos como Mario Kart. Permite competir en diversos circuitos con personajes del mundo del software libre, ofreciendo modos de juego individuales y multijugador. Destaca por su estilo divertido y accesible, con gráficos en 3D, power-ups y pistas creativas que hacen cada carrera única.
+
+<a href="https://supertuxkart.net/Main_Page" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
