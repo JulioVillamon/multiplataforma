@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *21/11/2025*
+**Última actualización:** *24/11/2025*
 
 <a name="contenido"></a>
-## Contenido (67 programas listados) 
+## Contenido (68 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -120,6 +120,8 @@
     - [JConvert](#jconvert)
   - Cálculo Numérico  
     - [FreeMat](#freemat)
+  - Cálculo Simbólico  
+    - [Maxima](#maxima)
 - Ofimática
   - Agendas y calendarios  
     - [GTD-Free](#gtdfree)
@@ -683,6 +685,16 @@ JConvert es un programa gratuito de conversión de unidades desarrollado en Java
 FreeMat es un entorno libre para prototipado rápido en ingeniería y procesamiento científico de datos, similar a MATLAB o IDL. Permite realizar cálculos numéricos, visualización 2D/3D y manipulación de matrices multidimensionales. Es multiplataforma, de código abierto y compatible con C/C++ y FORTRAN para tareas avanzadas.
 
 <a href="https://freemat.sourceforge.net/index.html" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Cálculo simbólico
+<a name="maxima"></a>
+##### Maxima
+<img src="/assets/img/maxima.png" alt="maxima"/>
+Maxima es un sistema de álgebra computacional que permite manipular expresiones simbólicas y numéricas, incluyendo derivadas, integrales, series de Taylor y ecuaciones diferenciales. Ofrece resultados de alta precisión mediante fracciones exactas y enteros de precisión arbitraria, además de gráficos en 2D y 3D. Es software libre, descendiente de Macsyma, y funciona en múltiples plataformas como Windows, Linux y macOS.
+
+<a href="https://maxima.sourceforge.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
