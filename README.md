@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *24/11/2025*
+**Última actualización:** *25/11/2025*
 
 <a name="contenido"></a>
-## Contenido (68 programas listados) 
+## Contenido (69 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -131,6 +131,8 @@
     - [Dia](#dia)
   - Diccionarios  
     - [Babiloo](#babiloo)
+  - DjVu  
+    - [DjVuLibre](#djvulibre)
 - Programación
   - .NET  
     - [Mono](#mono)
@@ -737,6 +739,16 @@ Dia es una herramienta de código abierto para crear diagramas estructurados com
 Babiloo es un diccionario digital de código abierto que permite consultar definiciones en múltiples idiomas sin conexión a internet. Soporta distintos formatos de diccionario y es compatible con Windows, Linux y macOS. Su interfaz es sencilla y está pensada para facilitar el acceso rápido al contenido lingüístico.
 
 <a href="http://code.google.com/archive/p/babiloo" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** DjVu
+<a name="djvulibre"></a>
+##### DjVuLibre
+<img src="/assets/img/djvulibre.png" alt="djvulibre"/>
+DjVuLibre es una implementación libre y de código abierto del formato DjVu. Permite visualizar, comprimir y convertir documentos e imágenes escaneadas con gran eficiencia, logrando archivos mucho más ligeros que PDF, TIFF o JPEG. Incluye visor independiente, plugins para navegadores y herramientas de línea de comandos para manipular y distribuir documentos digitales.
+
+<a href="https://djvu.sourceforge.net/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
