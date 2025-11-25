@@ -738,7 +738,7 @@ Dia es una herramienta de código abierto para crear diagramas estructurados com
 <img src="/assets/img/babiloo.png" alt="babiloo"/>
 Babiloo es un diccionario digital de código abierto que permite consultar definiciones en múltiples idiomas sin conexión a internet. Soporta distintos formatos de diccionario y es compatible con Windows, Linux y macOS. Su interfaz es sencilla y está pensada para facilitar el acceso rápido al contenido lingüístico.
 
-<a href="http://code.google.com/archive/p/babiloo" target="_blank">web</a>
+<a href="https://code.google.com/archive/p/babiloo" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
