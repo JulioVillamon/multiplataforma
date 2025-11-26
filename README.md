@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *25/11/2025*
+**Última actualización:** *26/11/2025*
 
 <a name="contenido"></a>
-## Contenido (69 programas listados) 
+## Contenido (70 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -140,8 +140,10 @@
     - [QB64](#qb64)
   - C/C++  
     - [Code::Blocks](#codeblocks)
-  - Doxygen  
+  - Documentación  
     - [Doxygen](#doxygen)
+  - Editores  
+    - [CudaText](#cudatext)
 - Utilidades
   - Accesibilidad  
     - [eSpeak](#espeak)
@@ -784,13 +786,23 @@ Code::Blocks es un entorno de desarrollo integrado (IDE) gratuito para C, C++ y 
 
 [Subir al inicio](#contenido)
 
-#### ***** Doxygen
+#### ***** Documentación
 <a name="doxygen"></a>
 ##### Doxygen
 <img src="/assets/img/doxygen.png" alt="doxygen"/>
 Doxygen es una herramienta de documentación automática para proyectos en C, C++, Java, Python y otros lenguajes. Genera documentación estructurada a partir del código fuente, incluyendo diagramas, referencias cruzadas y navegación web. Es ideal para mantener documentación técnica sincronizada con el desarrollo del software.
 
 <a href="https://www.doxygen.nl/index.html" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Editores
+<a name="cudatext"></a>
+##### CudaText
+<img src="/assets/img/cudatext.png" alt="cudatext"/>
+CudaText es un editor de texto y código multiplataforma, gratuito y de código abierto. Permite trabajar con más de 300 lenguajes gracias a su sistema de resaltado de sintaxis, soporta múltiples cursores, plegado de código y vista en pestañas. Además, es extensible mediante complementos en Python, ofreciendo funciones avanzadas como autocompletado, gestor de proyectos y soporte para grandes archivos.
+
+<a href="https://cudatext.github.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
