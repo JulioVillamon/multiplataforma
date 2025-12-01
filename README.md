@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *26/11/2025*
+**Última actualización:** *01/12/2025*
 
 <a name="contenido"></a>
-## Contenido (70 programas listados) 
+## Contenido (71 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -151,6 +151,8 @@
     - [ClamAV](#clamav)
   - Archivos y carpetas  
     - [Metamorphose](#metamorphose)
+  - Borrado y Recuperación de Archivos  
+    - [Test Disk](#testdisk)
 - Vídeo y Multimedia
   - Convertidores  
     - [Handbrake](#handbrake)
@@ -835,6 +837,16 @@ ClamAV es un motor antivirus de código abierto diseñado principalmente para de
 Metamorphose es un programa de renombrado masivo de archivos y carpetas. Permite aplicar múltiples operaciones de renombrado de forma flexible y rápida, incluyendo el uso de expresiones regulares, metadatos, numeración secuencial y estilos de texto. Es ideal para organizar colecciones de fotos, música o documentos en distintos sistemas operativos. Puede ejecutarse en macOS utilizando el paquete de fuentes en Python.
 
 <a href="https://file-folder-ren.sourceforge.net" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Borrado y Recuperación de Archivos
+<a name="testdisk"></a>
+##### Test Disk
+<img src="/assets/img/testdisk.png" alt="testdisk"/>
+TestDisk es un software libre de recuperación de datos que permite reparar tablas de particiones dañadas y recuperar particiones eliminadas. También puede reconstruir sectores de arranque FAT/NTFS, reparar sistemas de archivos y recuperar archivos borrados en FAT, exFAT, NTFS y ext2/ext3/ext4. Es una herramienta potente y multiplataforma, útil tanto para principiantes como para expertos en recuperación.
+
+<a href="https://www.cgsecurity.org/wiki/TestDisk" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
