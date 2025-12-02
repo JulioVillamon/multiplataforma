@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *01/12/2025*
+**Última actualización:** *02/12/2025*
 
 <a name="contenido"></a>
-## Contenido (71 programas listados) 
+## Contenido (72 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -161,7 +161,9 @@
   - Media Center  
     - [Kodi](#kodi)
   - Reproductores  
-    - [Bino](#bino)      
+    - [Bino](#bino)
+  - Subtítulos  
+    - [Subtitler](#subtitler)   
 
 ### Astronomía
 ---
@@ -889,5 +891,15 @@ Kodi es un centro multimedia de código abierto que permite reproducir música, 
 Bino es un reproductor de vídeo especializado en formatos 3D y entornos de realidad virtual. Permite visualizar vídeos en 360° y 180°, con o sin 3D, y es compatible con múltiples modos de visualización y sistemas como SteamVR y CAVEs. Está desarrollado con Qt, es software libre bajo licencia GPL y no requiere bibliotecas adicionales.
 
 <a href="https://bino3d.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Subtítulos
+<a name="subtitler"></a>
+##### Subtitler
+<img src="/assets/img/subtitler.png" alt="subtiler"/>
+Subtitler es una aplicación gratuita de escritorio que permite buscar y descargar subtítulos de forma rápida. Está disponible para Mac, Windows y Linux, ofreciendo un acceso sencillo y veloz a subtítulos de distintas fuentes. Su objetivo es facilitar al usuario la obtención del subtítulo correcto sin complicaciones técnicas.
+
+<a href="https://s8sachin.github.io/subtitler/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
