@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *02/12/2025*
+**Última actualización:** *03/12/2025*
 
 <a name="contenido"></a>
-## Contenido (72 programas listados) 
+## Contenido (73 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -33,6 +33,8 @@
      - [Audacity](#audacity)
    - Reproductores
      - [Audacious](#audacious)
+   - Sintetizadores
+     - [Bespoke](#bespoke)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -261,6 +263,16 @@ Audacity es un editor y grabador de audio gratuito y de código abierto, disponi
 Audacious es un reproductor de audio gratuito y de código abierto, diseñado para ofrecer una experiencia ligera y eficiente. Permite reproducir archivos en múltiples formatos (como MP3, FLAC y WAV), gestionar listas de reproducción y aplicar efectos de sonido. Su interfaz sencilla y personalizable lo hace ideal para usuarios que buscan rendimiento sin complicaciones.
 
 <a href="https://audacious-media-player.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Sintetizadores
+<a name="bespoke"></a>
+##### Bespoke
+<img src="/assets/img/bespoke.png" alt="bespoke"/>
+Bespoke es un sintetizador modular virtual y estación de trabajo digital (DAW) para Mac, Windows y Linux. Permite conectar más de 190 módulos de forma libre, creando entornos personalizados para experimentar y producir sonido. Está orientado al jamming y la exploración musical, es open source, gratuito y altamente personalizable.
+
+<a href="https://www.bespokesynth.com" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
