@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *03/12/2025*
+**Última actualización:** *04/12/2025*
 
 <a name="contenido"></a>
-## Contenido (73 programas listados) 
+## Contenido (74 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -44,6 +44,7 @@
      - [MongoDB](#mongodb)
   - Otras
      - [DB Browser for SQLite](#sqlitebrowser)
+     - [DBeaver Community](#dbeaver)
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
@@ -323,6 +324,15 @@ MongoDB es una base de datos NoSQL orientada a documentos que permite almacenar 
 DB Browser for SQLite es una herramienta visual y de código abierto para crear, editar y consultar bases de datos SQLite o SQLCipher. Ofrece una interfaz tipo hoja de cálculo y permite ejecutar consultas SQL, importar/exportar datos y gestionar tablas e índices. Es compatible con Windows, macOS y Linux.
 
 <a href="https://www.sqlitebrowser.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="dbeaver"></a>
+##### DBeaver Community
+<img src="/assets/img/dbeaver.png" alt="DBeaver Community"/>
+DBeaver Community es una herramienta gratuita y de código abierto para gestionar bases de datos SQL y NoSQL. Permite explorar, editar y administrar esquemas, datos y consultas en sistemas como MySQL, PostgreSQL, SQLite, Oracle, entre otros. Incluye editor SQL avanzado, visualización de datos y soporte para múltiples formatos y conexiones.
+
+<a href="https://dbeaver.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
