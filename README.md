@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *04/12/2025*
+**Última actualización:** *05/12/2025*
 
 <a name="contenido"></a>
-## Contenido (74 programas listados) 
+## Contenido (75 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -56,6 +56,8 @@
      - [Eclipse](#eclipse)
    - PHP Frameworks
      - [CakePHP](#cakephp)
+   - Servidores Locales
+     - [XAMPP](#xampp)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -385,6 +387,16 @@ Eclipse es un entorno de desarrollo integrado (IDE) de código abierto que facil
 CakePHP es un framework de código abierto para PHP que facilita el desarrollo rápido de aplicaciones web. Utiliza el patrón de diseño Modelo-Vista-Controlador (MVC) y promueve el principio de “Convención sobre Configuración”, lo que reduce la necesidad de escribir código repetitivo. Es ideal para crear aplicaciones estructuradas, seguras y escalables con menos esfuerzo.
 
 <a href="https://cakephp.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Servidores Locales
+<a name="xampp"></a>
+##### XAMPP
+<img src="/assets/img/xampp.png" alt="XAMPP"/>
+XAMPP es un entorno de desarrollo gratuito que integra Apache, MariaDB, PHP y Perl en un solo paquete. Su objetivo es simplificar la instalación y uso de servidores locales para probar aplicaciones web sin complicaciones. Gracias a su carácter multiplataforma y comunidad activa, es una herramienta muy utilizada por desarrolladores para crear y depurar proyectos web.
+
+<a href="https://www.apachefriends.org/index.html" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
