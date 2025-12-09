@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *05/12/2025*
+**Última actualización:** *09/12/2025*
 
 <a name="contenido"></a>
-## Contenido (75 programas listados) 
+## Contenido (76 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -74,6 +74,8 @@
      - [GPXSee](#gpxsee)
   - Herramientas de autor
      - [JClic](#jclic)
+  - Idiomas
+     - [Tagaini Jisho](#tagaini)
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
@@ -479,6 +481,16 @@ GPXSee es un visor y analizador de archivos de registro GPS compatible con múlt
 JClic es una herramienta educativa para crear, realizar y gestionar actividades multimedia interactivas. Está orientada a entornos escolares y permite desarrollar ejercicios como puzzles, asociaciones, sopas de letras o actividades de texto. Es multiplataforma, gratuita y muy utilizada en contextos de enseñanza-aprendizaje.
 
 <a href="https://projectes.xtec.cat/clic/es/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Idiomas
+<a name="tagaini"></a>
+##### Tagaini Jisho
+<img src="/assets/img/tagaini.png" alt="Tagaini Jisho"/>
+Tagaini Jisho es un diccionario japonés gratuito y asistente de estudio disponible para Windows, macOS y Linux. Permite buscar vocabulario y kanjis, añadir notas y etiquetas, practicar con modos tipo tarjetas y seguir tu progreso en el aprendizaje. Además, incluye animaciones de orden de trazos para más de 6000 kanjis y opciones para imprimir cuadernos de repaso.
+
+<a href="https://tagaini.net/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
