@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *09/12/2025*
+**Última actualización:** *11/12/2025*
 
 <a name="contenido"></a>
-## Contenido (76 programas listados) 
+## Contenido (77 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -85,6 +85,7 @@
      - [STIX Fonts](#stixfonts)
   - TTF
      - [DejaVu Fonts](#ttf2)
+     - [Google Fonts](#googlefonts)
 - Gráficos
   - 3D
      - [Art of Illusion](#artofillusion)
@@ -537,10 +538,19 @@ STIX Fonts es un proyecto que desarrolla un conjunto completo de tipografías di
 #### ***** TTF 
 <a name="ttf2"></a>
 ##### DejaVu Fonts
-<img src="/assets/img/ttf.png" alt="ttf"/>
+<img src="/assets/img/ttf.png" alt="DejaVu Fonts"/>
 Las fuentes DejaVu son una familia tipográfica libre basada en las Vera Fonts, diseñada para ampliar la cobertura de caracteres manteniendo su estilo original. Soportan múltiples alfabetos como latino, griego, cirílico, armenio y georgiano, además de símbolos matemáticos y patrones braille. El proyecto se desarrolla de forma colaborativa y está abierto a contribuciones a través de GitHub.
 
 <a href="https://dejavu-fonts.github.io" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="googlefonts"></a>
+##### Google Fonts
+<img src="/assets/img/googlefonts.png" alt="Google Fonts"/>
+Google Fonts es una plataforma gratuita de Google que ofrece un catálogo abierto de tipografías e iconos para usar en sitios web y aplicaciones. Permite integrar fácilmente fuentes mediante su API o descargarlas para auto‑alojarlas, optimizando rendimiento y compatibilidad. Su objetivo es hacer la web más atractiva, rápida y accesible a través de tipografía de calidad.
+
+<a href="https://fonts.google.com" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
