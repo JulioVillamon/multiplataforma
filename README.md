@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *11/12/2025*
+**Última actualización:** *12/12/2025*
 
 <a name="contenido"></a>
-## Contenido (77 programas listados) 
+## Contenido (78 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -97,6 +97,8 @@
      - [Glaxnimate](#glaxnimate)
   - Editores gráficos
      - [digiKam](#digikam)
+  - Lectores de cómics
+     - [YACReader](#yacreader)
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
@@ -603,6 +605,16 @@ Glaxnimate es una aplicación de escritorio de código abierto para diseño de a
 digiKam es un programa libre y multiplataforma para gestionar grandes colecciones de fotografías y vídeos. Permite importar, organizar y buscar imágenes mediante álbumes, etiquetas, metadatos y reconocimiento facial. Además, incluye herramientas de edición avanzada, soporte para archivos RAW y opciones de exportación a redes sociales o galerías web.
 
 <a href="https://www.digikam.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Lectores de cómics 
+<a name="yacreader"></a>
+##### YACReader
+<img src="/assets/img/yacreader.png" alt="YACReader"/>
+YACReader es un programa multiplataforma diseñado para leer cómics y mangas en formato digital, ofreciendo una experiencia fluida y personalizable. Incluye YACReaderLibrary, que permite organizar colecciones, añadir portadas personalizadas y gestionar metadatos. Además, cuenta con aplicaciones móviles y servidor remoto para acceder a tus cómics desde cualquier dispositivo.
+
+<a href="https://www.yacreader.com" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
