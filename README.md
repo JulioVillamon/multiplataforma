@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *12/12/2025*
+**Última actualización:** *15/12/2025*
 
 <a name="contenido"></a>
-## Contenido (78 programas listados) 
+## Contenido (79 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -110,6 +110,8 @@
      - [Filezilla](#filezilla)
   - Gestores de Descargas
      - [Drifty](#drifty)
+  - IRC
+     - [KVIrc](#kvirc2)
 - Juegos
   - Ajedrez
      - [ChessX](#chessx)
@@ -664,9 +666,19 @@ FileZilla es un cliente y servidor FTP gratuito y de código abierto que permite
 <a name="drifty"></a>
 ##### Drifty
 <img src="/assets/img/drifty.png" alt="drifty"/>
-Drifty es un programa de descarga multiplataforma, rápido y ligero, desarrollado en Java. Permite bajar vídeos, imágenes y documentos desde cualquier sitio web o red social, incluyendo YouTube e Instagram. Además, soporta descargas simultáneas, múltiples formatos y ofrece tanto interfaz gráfica como modo de línea de comandos
+Drifty es un programa de descarga multiplataforma, rápido y ligero, desarrollado en Java. Permite bajar vídeos, imágenes y documentos desde cualquier sitio web o red social, incluyendo YouTube e Instagram. Además, soporta descargas simultáneas, múltiples formatos y ofrece tanto interfaz gráfica como modo de línea de comandos.
 
 <a href="https://drifty.vercel.app/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** IRC 
+<a name="kvirc2"></a>
+##### KVIrc
+<img src="/assets/img/kvirc2.png" alt="KVIrc"/>
+KVIrc es un cliente de IRC gratuito y multiplataforma diseñado con la librería gráfica Qt. Permite conectarse a canales de chat en tiempo real, gestionar múltiples servidores y personalizar la experiencia con scripts y extensiones. Su objetivo es ofrecer una interfaz visual potente y flexible para usuarios que participan en comunidades IRC.
+
+<a href="https://www.kvirc.net/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
