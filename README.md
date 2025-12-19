@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *16/12/2025*
+**Última actualización:** *19/12/2025*
 
 <a name="contenido"></a>
-## Contenido (80 programas listados) 
+## Contenido (81 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -136,6 +136,8 @@
     - [FreeMat](#freemat)
   - Cálculo Simbólico  
     - [Maxima](#maxima)
+  - Estadística  
+    - [PSPP](#pspp)
 - Ofimática
   - Agendas y calendarios  
     - [GTD-Free](#gtdfree)
@@ -795,6 +797,16 @@ FreeMat es un entorno libre para prototipado rápido en ingeniería y procesamie
 Maxima es un sistema de álgebra computacional que permite manipular expresiones simbólicas y numéricas, incluyendo derivadas, integrales, series de Taylor y ecuaciones diferenciales. Ofrece resultados de alta precisión mediante fracciones exactas y enteros de precisión arbitraria, además de gráficos en 2D y 3D. Es software libre, descendiente de Macsyma, y funciona en múltiples plataformas como Windows, Linux y macOS.
 
 <a href="https://maxima.sourceforge.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Estadística
+<a name="pspp"></a>
+##### PSPP
+<img src="/assets/img/pspp.png" alt="PSPP"/>
+PSPP es un programa libre para análisis estadístico de datos muestreados, diseñado como alternativa a SPSS. Permite realizar pruebas como T-tests, ANOVA, regresiones, análisis de fiabilidad y más, sin limitaciones de casos o variables. Su interfaz gráfica y sintaxis compatible con SPSS lo hacen útil para estudiantes, científicos sociales y estadísticos.
+
+<a href="https://www.gnu.org/software/pspp/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
