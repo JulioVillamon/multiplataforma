@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *19/12/2025*
+**Última actualización:** *22/12/2025*
 
 <a name="contenido"></a>
-## Contenido (81 programas listados) 
+## Contenido (82 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -149,6 +149,8 @@
     - [Babiloo](#babiloo)
   - DjVu  
     - [DjVuLibre](#djvulibre)
+  - Escáner  
+    - [NAPS2](#naps)
 - Programación
   - .NET  
     - [Mono](#mono)
@@ -859,6 +861,16 @@ Babiloo es un diccionario digital de código abierto que permite consultar defin
 DjVuLibre es una implementación libre y de código abierto del formato DjVu. Permite visualizar, comprimir y convertir documentos e imágenes escaneadas con gran eficiencia, logrando archivos mucho más ligeros que PDF, TIFF o JPEG. Incluye visor independiente, plugins para navegadores y herramientas de línea de comandos para manipular y distribuir documentos digitales.
 
 <a href="https://djvu.sourceforge.net/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Escáner
+<a name="naps"></a>
+##### NAPS2
+<img src="/assets/img/naps.png" alt="NAPS2"/>
+NAPS2 es un programa gratuito y de código abierto para escanear documentos de forma sencilla en Windows, macOS y Linux. Permite digitalizar desde escáneres comunes y guardar en PDF, TIFF, JPEG o PNG, además de ofrecer herramientas de edición básicas. Incluye OCR en más de 100 idiomas y opciones avanzadas como uso de drivers TWAIN/WIA, escaneo en red y automatización por línea de comandos.
+
+<a href="https://www.naps2.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
