@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *22/12/2025*
+**Última actualización:** *23/12/2025*
 
 <a name="contenido"></a>
-## Contenido (82 programas listados) 
+## Contenido (83 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -162,6 +162,8 @@
     - [Doxygen](#doxygen)
   - Editores  
     - [CudaText](#cudatext)
+  - Electron  
+    - [Electron Fiddle](#electron)
 - Utilidades
   - Accesibilidad  
     - [eSpeak](#espeak)
@@ -923,6 +925,16 @@ Doxygen es una herramienta de documentación automática para proyectos en C, C+
 CudaText es un editor de texto y código multiplataforma, gratuito y de código abierto. Permite trabajar con más de 300 lenguajes gracias a su sistema de resaltado de sintaxis, soporta múltiples cursores, plegado de código y vista en pestañas. Además, es extensible mediante complementos en Python, ofreciendo funciones avanzadas como autocompletado, gestor de proyectos y soporte para grandes archivos.
 
 <a href="https://cudatext.github.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Electron
+<a name="electron"></a>
+##### Electron Fiddle
+<img src="/assets/img/electron.png" alt="Electron Fiddle"/>
+Electron Fiddle es una herramienta que permite crear y probar pequeños experimentos con Electron de forma inmediata, sin necesidad de configurar un entorno complejo. Ofrece plantillas listas para ejecutar, ejemplos de todas las APIs y un editor integrado basado en Monaco para escribir y modificar código fácilmente. Además, permite guardar proyectos, compartirlos como Gists y empaquetarlos como aplicaciones para Windows, macOS o Linux.
+
+<a href="https://www.electronjs.org/fiddle" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
