@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *23/12/2025*
+**Última actualización:** *08/01/2026*
 
 <a name="contenido"></a>
-## Contenido (83 programas listados) 
+## Contenido (84 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -171,8 +171,10 @@
     - [ClamAV](#clamav)
   - Archivos y carpetas  
     - [Metamorphose](#metamorphose)
-  - Borrado y Recuperación de Archivos  
+  - Borrado y recuperación de archivos  
     - [Test Disk](#testdisk)
+  - Comparadores de archivos  
+    - [QuickHash](#quickhash)
 - Vídeo y Multimedia
   - Convertidores  
     - [Handbrake](#handbrake)
@@ -970,13 +972,23 @@ Metamorphose es un programa de renombrado masivo de archivos y carpetas. Permite
 
 [Subir al inicio](#contenido)
 
-#### ***** Borrado y Recuperación de Archivos
+#### ***** Borrado y recuperación de archivos
 <a name="testdisk"></a>
 ##### Test Disk
 <img src="/assets/img/testdisk.png" alt="testdisk"/>
 TestDisk es un software libre de recuperación de datos que permite reparar tablas de particiones dañadas y recuperar particiones eliminadas. También puede reconstruir sectores de arranque FAT/NTFS, reparar sistemas de archivos y recuperar archivos borrados en FAT, exFAT, NTFS y ext2/ext3/ext4. Es una herramienta potente y multiplataforma, útil tanto para principiantes como para expertos en recuperación.
 
 <a href="https://www.cgsecurity.org/wiki/TestDisk" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Comparadores de archivos
+<a name="quickhash"></a>
+##### QuickHash
+<img src="/assets/img/quickhash.png" alt="QuickHash"/>
+QuickHash es una herramienta gratuita y de código abierto que permite calcular hashes de archivos, carpetas, texto y discos de forma rápida y sencilla. Es útil para verificar la integridad de datos, detectar corrupción o asegurar que dos copias son idénticas. Soporta múltiples algoritmos como MD5, SHA1, SHA256, SHA512, SHA‑3, xxHash o Blake3.
+
+<a href="https://www.quickhash-gui.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
