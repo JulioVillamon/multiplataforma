@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *08/01/2026*
+**Última actualización:** *09/01/2026*
 
 <a name="contenido"></a>
-## Contenido (84 programas listados) 
+## Contenido (85 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -1041,5 +1041,15 @@ Bino es un reproductor de vídeo especializado en formatos 3D y entornos de real
 Subtitler es una aplicación gratuita de escritorio que permite buscar y descargar subtítulos de forma rápida. Está disponible para Mac, Windows y Linux, ofreciendo un acceso sencillo y veloz a subtítulos de distintas fuentes. Su objetivo es facilitar al usuario la obtención del subtítulo correcto sin complicaciones técnicas.
 
 <a href="https://s8sachin.github.io/subtitler/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Varios
+<a name="dvdstyler"></a>
+##### DVDStyler
+<img src="/assets/img/dvdstyler.png" alt="DVDStyler"/>
+DVDStyler es una aplicación gratuita para crear DVDs con menús interactivos y aspecto profesional. Permite diseñar menús personalizados, añadir subtítulos, varias pistas de audio y presentaciones fotográficas. Además, soporta numerosos formatos multimedia y genera DVDs compatibles con la mayoría de reproductores domésticos.
+
+<a href="https://www.dvdstyler.org/en/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
