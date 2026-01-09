@@ -185,7 +185,9 @@
   - Reproductores  
     - [Bino](#bino)
   - Subtítulos  
-    - [Subtitler](#subtitler)   
+    - [Subtitler](#subtitler)
+  - Varios  
+    - [DVDStyler](#dvdstyler)     
 
 ### Astronomía
 ---
