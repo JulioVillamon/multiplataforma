@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *09/01/2026*
+**Última actualización:** *12/01/2026*
 
 <a name="contenido"></a>
-## Contenido (85 programas listados) 
+## Contenido (86 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -35,6 +35,8 @@
      - [Audacious](#audacious)
    - Sintetizadores
      - [Bespoke](#bespoke)
+   - Varios
+     - [FLAC](#flac)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -295,6 +297,16 @@ Audacious es un reproductor de audio gratuito y de código abierto, diseñado pa
 Bespoke es un sintetizador modular virtual y estación de trabajo digital (DAW) para Mac, Windows y Linux. Permite conectar más de 190 módulos de forma libre, creando entornos personalizados para experimentar y producir sonido. Está orientado al jamming y la exploración musical, es open source, gratuito y altamente personalizable.
 
 <a href="https://www.bespokesynth.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Varios
+<a name="flac"></a>
+##### FLAC
+<img src="/assets/img/flac.png" alt="flac"/>
+FLAC es un códec de audio libre y sin pérdidas, capaz de comprimir música sin sacrificar calidad. Funciona de forma similar a un archivo ZIP, pero optimizado para audio, logrando mejor compresión y reproducción directa en la mayoría de reproductores. Es el formato lossless más rápido y ampliamente soportado, totalmente abierto, sin patentes y con especificación pública.
+
+<a href="https://xiph.org/flac/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
