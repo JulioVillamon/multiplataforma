@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *12/01/2026*
+**Última actualización:** *13/01/2026*
 
 <a name="contenido"></a>
-## Contenido (86 programas listados) 
+## Contenido (87 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -47,6 +47,7 @@
   - Otras
      - [DB Browser for SQLite](#sqlitebrowser)
      - [DBeaver Community](#dbeaver)
+     - [Firebird](#firebird)
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
@@ -366,6 +367,15 @@ DB Browser for SQLite es una herramienta visual y de código abierto para crear,
 DBeaver Community es una herramienta gratuita y de código abierto para gestionar bases de datos SQL y NoSQL. Permite explorar, editar y administrar esquemas, datos y consultas en sistemas como MySQL, PostgreSQL, SQLite, Oracle, entre otros. Incluye editor SQL avanzado, visualización de datos y soporte para múltiples formatos y conexiones.
 
 <a href="https://dbeaver.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="firebird"></a>
+##### Firebird
+<img src="/assets/img/firebird.png" alt="Firebirdy"/>
+Firebird es un sistema de gestión de bases de datos relacional de código abierto, multiplataforma y muy ligero. Ofrece un motor SQL potente, estable y adecuado tanto para aplicaciones pequeñas como para sistemas empresariales. Su comunidad mantiene un desarrollo activo, con actualizaciones, herramientas y documentación para aprovechar al máximo sus capacidades.
+
+<a href="https://www.firebirdsql.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
