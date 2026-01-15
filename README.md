@@ -15,7 +15,7 @@
 **Última actualización:** *13/01/2026*
 
 <a name="contenido"></a>
-## Contenido (87 programas listados) 
+## Contenido (88 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -61,6 +61,8 @@
      - [CakePHP](#cakephp)
    - Servidores Locales
      - [XAMPP](#xampp)
+   - Wiki
+     - [DocuWiki](#dokuwiki)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -438,6 +440,16 @@ CakePHP es un framework de código abierto para PHP que facilita el desarrollo r
 XAMPP es un entorno de desarrollo gratuito que integra Apache, MariaDB, PHP y Perl en un solo paquete. Su objetivo es simplificar la instalación y uso de servidores locales para probar aplicaciones web sin complicaciones. Gracias a su carácter multiplataforma y comunidad activa, es una herramienta muy utilizada por desarrolladores para crear y depurar proyectos web.
 
 <a href="https://www.apachefriends.org/index.html" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Wiki
+<a name="dokuwiki"></a>
+##### DokuWiki
+<img src="/assets/img/dokuwiki.png" alt="DokuWiki"/>
+DokuWiki es un software wiki de código abierto diseñado para crear y gestionar documentación de forma sencilla, sin necesidad de base de datos. Destaca por su sintaxis limpia, su fácil mantenimiento y su amplio ecosistema de plugins y plantillas. Es una opción muy utilizada en empresas, proyectos y entornos colaborativos por su control de acceso integrado y su gran versatilidad.
+
+<a href="https://www.dukuwiki.org/dokuwiki" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
