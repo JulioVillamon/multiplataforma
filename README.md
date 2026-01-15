@@ -12,7 +12,7 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *13/01/2026*
+**Última actualización:** *15/01/2026*
 
 <a name="contenido"></a>
 ## Contenido (88 programas listados) 
@@ -449,7 +449,7 @@ XAMPP es un entorno de desarrollo gratuito que integra Apache, MariaDB, PHP y Pe
 <img src="/assets/img/dokuwiki.png" alt="DokuWiki"/>
 DokuWiki es un software wiki de código abierto diseñado para crear y gestionar documentación de forma sencilla, sin necesidad de base de datos. Destaca por su sintaxis limpia, su fácil mantenimiento y su amplio ecosistema de plugins y plantillas. Es una opción muy utilizada en empresas, proyectos y entornos colaborativos por su control de acceso integrado y su gran versatilidad.
 
-<a href="https://www.dukuwiki.org/dokuwiki" target="_blank">web</a>
+<a href="https://www.dokuwiki.org/dokuwiki" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
