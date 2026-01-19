@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *15/01/2026*
+**Última actualización:** *19/01/2026*
 
 <a name="contenido"></a>
-## Contenido (88 programas listados) 
+## Contenido (89 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -81,6 +81,8 @@
      - [JClic](#jclic)
   - Idiomas
      - [Tagaini Jisho](#tagaini)
+  - Argunet
+     - [Argunet](#argunet)
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
@@ -542,6 +544,16 @@ JClic es una herramienta educativa para crear, realizar y gestionar actividades 
 Tagaini Jisho es un diccionario japonés gratuito y asistente de estudio disponible para Windows, macOS y Linux. Permite buscar vocabulario y kanjis, añadir notas y etiquetas, practicar con modos tipo tarjetas y seguir tu progreso en el aprendizaje. Además, incluye animaciones de orden de trazos para más de 6000 kanjis y opciones para imprimir cuadernos de repaso.
 
 <a href="https://tagaini.net/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Mapas conceptuales
+<a name="argunet"></a>
+##### Argunet
+<img src="/assets/img/argunet.png" alt="Argunet"/>
+Argunet es una herramienta de software libre diseñada para analizar y visualizar debates complejos mediante mapas de argumentos. Permite reconstruir discusiones, organizar premisas y conclusiones de forma clara y compartir los mapas a través de un servidor propio. Está orientado a investigación, docencia y cualquier contexto donde se necesite estructurar razonamientos de manera visual. 
+
+<a href="https://sourceforge.net/projects/argunet/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
