@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *19/01/2026*
+**Última actualización:** *20/01/2026*
 
 <a name="contenido"></a>
-## Contenido (89 programas listados) 
+## Contenido (90 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -93,6 +93,7 @@
   - TTF
      - [DejaVu Fonts](#ttf2)
      - [Google Fonts](#googlefonts)
+     - [Liberation Fonts](#liberationfonts)
 - Gráficos
   - 3D
      - [Art of Illusion](#artofillusion)
@@ -613,6 +614,16 @@ Las fuentes DejaVu son una familia tipográfica libre basada en las Vera Fonts, 
 Google Fonts es una plataforma gratuita de Google que ofrece un catálogo abierto de tipografías e iconos para usar en sitios web y aplicaciones. Permite integrar fácilmente fuentes mediante su API o descargarlas para auto‑alojarlas, optimizando rendimiento y compatibilidad. Su objetivo es hacer la web más atractiva, rápida y accesible a través de tipografía de calidad.
 
 <a href="https://fonts.google.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="liberationfonts"></a>
+##### Liberation Fonts
+<img src="/assets/img/ttf.png" alt="Liberation Fonts"/>
+Liberation Fonts es una familia tipográfica libre diseñada para ser métricamente compatible con Arial, Times New Roman y Courier New, permitiendo mantener el mismo diseño y paginación en documentos.  
+Sirve como sustituto abierto en entornos donde no pueden usarse fuentes propietarias, garantizando compatibilidad visual en sistemas Linux, Windows o macOS. Es ideal para oficinas, administración y proyectos que requieren coherencia tipográfica sin depender de licencias comerciales.
+
+<a href="https://github.com/liberationfonts/liberation-fonts" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
