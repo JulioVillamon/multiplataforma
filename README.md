@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *20/01/2026*
+**Última actualización:** *21/01/2026*
 
 <a name="contenido"></a>
-## Contenido (90 programas listados) 
+## Contenido (91 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -107,6 +107,8 @@
      - [digiKam](#digikam)
   - Lectores de cómics
      - [YACReader](#yacreader)
+  - Navegadores de imágenes
+     - [nomacs](#nomacs)
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
@@ -686,6 +688,16 @@ digiKam es un programa libre y multiplataforma para gestionar grandes coleccione
 YACReader es un programa multiplataforma diseñado para leer cómics y mangas en formato digital, ofreciendo una experiencia fluida y personalizable. Incluye YACReaderLibrary, que permite organizar colecciones, añadir portadas personalizadas y gestionar metadatos. Además, cuenta con aplicaciones móviles y servidor remoto para acceder a tus cómics desde cualquier dispositivo.
 
 <a href="https://www.yacreader.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Navegadores de imágenes 
+<a name="nomacs"></a>
+##### nomacs
+<img src="/assets/img/nomacs.png" alt="nomacs"/>
+Nomacs es un visor de imágenes libre y de código abierto, disponible para Windows, Linux, macOS y otros sistemas. Permite visualizar prácticamente cualquier formato, incluidos RAW y PSD, con herramientas ligeras para comparar, sincronizar y gestionar imágenes. Su diseño es rápido, multiplataforma y extensible mediante plugins, pensado para un flujo de trabajo visual ágil y limpio.
+
+<a href="https://github.com/nomacs/nomacs" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
