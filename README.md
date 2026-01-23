@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *21/01/2026*
+**Última actualización:** *23/01/2026*
 
 <a name="contenido"></a>
-## Contenido (91 programas listados) 
+## Contenido (92 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -118,10 +118,12 @@
      - [Fedistar](#fedistar)
   - FTP
      - [Filezilla](#filezilla)
-  - Gestores de Descargas
+  - Gestores de descargas
      - [Drifty](#drifty)
   - IRC
      - [KVIrc](#kvirc2)
+  - Mensajería instantánea
+     - [Pidgin](#pidgin)
 - Juegos
   - Ajedrez
      - [ChessX](#chessx)
@@ -743,7 +745,7 @@ FileZilla es un cliente y servidor FTP gratuito y de código abierto que permite
 
 [Subir al inicio](#contenido)
 
-#### ***** Gestores de Descargas 
+#### ***** Gestores de descargas 
 <a name="drifty"></a>
 ##### Drifty
 <img src="/assets/img/drifty.png" alt="drifty"/>
@@ -760,6 +762,16 @@ Drifty es un programa de descarga multiplataforma, rápido y ligero, desarrollad
 KVIrc es un cliente de IRC gratuito y multiplataforma diseñado con la librería gráfica Qt. Permite conectarse a canales de chat en tiempo real, gestionar múltiples servidores y personalizar la experiencia con scripts y extensiones. Su objetivo es ofrecer una interfaz visual potente y flexible para usuarios que participan en comunidades IRC.
 
 <a href="https://www.kvirc.net/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Mensajería instantánea 
+<a name="pidgin"></a>
+##### Pidgin
+<img src="/assets/img/pidgin.png" alt="Pidgin"/>
+Pidgin es un cliente de mensajería multiprotocolo que permite iniciar sesión en varias redes de chat al mismo tiempo, como XMPP o IRC. Funciona en Windows, Linux y otros sistemas tipo UNIX, ampliando sus capacidades mediante plugins. Es software libre, sin publicidad y compatible con funciones como transferencia de archivos, iconos de usuario y notificaciones de escritura.
+
+<a href="https://pidgin.im/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
