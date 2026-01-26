@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *23/01/2026*
+**Última actualización:** *26/01/2026*
 
 <a name="contenido"></a>
-## Contenido (92 programas listados) 
+## Contenido (93 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -137,6 +137,8 @@
      - [SuperTuxKart](#supertuxkart2)
   - Cartas
      - [Cockatrice](#cockatrice)
+  - Combate
+     - [Hedgewars](#hedgewars)
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
@@ -834,6 +836,16 @@ SuperTuxKart es un juego de carreras de karts gratuito y de código abierto, ins
 Cockatrice es un programa multiplataforma y de código abierto que permite jugar juegos de cartas de mesa en red. Ofrece modo multijugador con servidores que evitan trampas y también un modo de un jugador para crear y probar mazos sin conexión. Incluye herramientas como la base de datos Oracle para gestionar cartas y facilita importar, construir y testear barajas.
 
 <a href="https://cockatrice.github.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Combate 
+<a name="hedgewars"></a>
+##### Hedgewars
+<img src="/assets/img/hedgewars.png" alt="Hedgewars"/>
+Hedgewars es un juego de estrategia por turnos en el que equipos de erizos armados se enfrentan en mapas destructibles usando física estilo Worms. Ofrece modos para un jugador y multijugador, gran variedad de armas y escenarios personalizables. Es un proyecto libre y comunitario que sigue recibiendo mejoras, contenidos y soporte. 
+
+<a href="https://www.hedgewars.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
