@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *26/01/2026*
+**Última actualización:** *28/01/2026*
 
 <a name="contenido"></a>
-## Contenido (93 programas listados) 
+## Contenido (94 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -152,6 +152,8 @@
     - [Maxima](#maxima)
   - Estadística  
     - [PSPP](#pspp)
+  - Fractales  
+    - [FFFF Fast Floating Fractal Fun](#ffff)
 - Ofimática
   - Agendas y calendarios  
     - [GTD-Free](#gtdfree)
@@ -908,6 +910,16 @@ Maxima es un sistema de álgebra computacional que permite manipular expresiones
 PSPP es un programa libre para análisis estadístico de datos muestreados, diseñado como alternativa a SPSS. Permite realizar pruebas como T-tests, ANOVA, regresiones, análisis de fiabilidad y más, sin limitaciones de casos o variables. Su interfaz gráfica y sintaxis compatible con SPSS lo hacen útil para estudiantes, científicos sociales y estadísticos.
 
 <a href="https://www.gnu.org/software/pspp/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Fractales
+<a name="ffff"></a>
+##### FFFF Fast Floating Fractal Fun
+<img src="/assets/img/ffff.png" alt="FFFF"/>
+FFFF Fast Floating Fractal Fun es un generador de fractales Mandelbrot extremadamente rápido para Windows, macOS y Linux. Permite hacer zoom en tiempo real gracias a optimizaciones en OpenGL, SSE/AltiVec y cálculo multiprocesador. Está orientado a exploración visual y benchmarking de rendimiento en cálculos fractales.
+
+<a href="https://sourceforge-net/projects/ffff/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
