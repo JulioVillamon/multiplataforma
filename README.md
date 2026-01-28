@@ -919,7 +919,7 @@ PSPP es un programa libre para análisis estadístico de datos muestreados, dise
 <img src="/assets/img/ffff.png" alt="FFFF"/>
 FFFF Fast Floating Fractal Fun es un generador de fractales Mandelbrot extremadamente rápido para Windows, macOS y Linux. Permite hacer zoom en tiempo real gracias a optimizaciones en OpenGL, SSE/AltiVec y cálculo multiprocesador. Está orientado a exploración visual y benchmarking de rendimiento en cálculos fractales.
 
-<a href="https://sourceforge-net/projects/ffff/" target="_blank">web</a>
+<a href="https://sourceforge.net/projects/ffff/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
