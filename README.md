@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *28/01/2026*
+**Última actualización:** *05/02/2026*
 
 <a name="contenido"></a>
-## Contenido (94 programas listados) 
+## Contenido (95 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -167,6 +167,8 @@
     - [DjVuLibre](#djvulibre)
   - Escáner  
     - [NAPS2](#naps)
+  - Finanzas  
+    - [GnuCash](#gnucash)
 - Programación
   - .NET  
     - [Mono](#mono)
@@ -982,6 +984,16 @@ DjVuLibre es una implementación libre y de código abierto del formato DjVu. Pe
 NAPS2 es un programa gratuito y de código abierto para escanear documentos de forma sencilla en Windows, macOS y Linux. Permite digitalizar desde escáneres comunes y guardar en PDF, TIFF, JPEG o PNG, además de ofrecer herramientas de edición básicas. Incluye OCR en más de 100 idiomas y opciones avanzadas como uso de drivers TWAIN/WIA, escaneo en red y automatización por línea de comandos.
 
 <a href="https://www.naps2.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Finanzas
+<a name="gnucash"></a>
+##### GnuCash
+<img src="/assets/img/gnucash.png" alt="GnuCash"/>
+GnuCash es un software libre de contabilidad personal y para pequeñas empresas que permite gestionar cuentas bancarias, ingresos, gastos e inversiones de forma sencilla. Ofrece contabilidad de doble entrada, generación de informes y gráficos, y herramientas para importar datos financieros. Está disponible para Linux, Windows y macOS.
+
+<a href="https://www.gnucash.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
