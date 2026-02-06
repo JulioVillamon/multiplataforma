@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *05/02/2026*
+**Última actualización:** *06/02/2026*
 
 <a name="contenido"></a>
-## Contenido (95 programas listados) 
+## Contenido (96 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -182,6 +182,8 @@
     - [CudaText](#cudatext)
   - Electron  
     - [Electron Fiddle](#electron)
+  - Haxe  
+    - [Haxe](#haxe)
 - Utilidades
   - Accesibilidad  
     - [eSpeak](#espeak)
@@ -1056,6 +1058,16 @@ CudaText es un editor de texto y código multiplataforma, gratuito y de código 
 Electron Fiddle es una herramienta que permite crear y probar pequeños experimentos con Electron de forma inmediata, sin necesidad de configurar un entorno complejo. Ofrece plantillas listas para ejecutar, ejemplos de todas las APIs y un editor integrado basado en Monaco para escribir y modificar código fácilmente. Además, permite guardar proyectos, compartirlos como Gists y empaquetarlos como aplicaciones para Windows, macOS o Linux.
 
 <a href="https://www.electronjs.org/fiddle" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Haxe
+<a name="haxe"></a>
+##### Haxe
+<img src="/assets/img/haxe.png" alt="Haxe"/>
+Haxe es un lenguaje de programación de alto nivel, estrictamente tipado y de código abierto que incluye un compilador capaz de generar aplicaciones para múltiples plataformas desde una sola base de código. Permite compilar a JavaScript, C++, C#, Java, Python, PHP, Lua y más, accediendo además a las capacidades nativas de cada entorno. Su ecosistema incluye un gestor de paquetes (Haxelib) y herramientas propias como HashLink y NekoVM para ejecutar aplicaciones.
+
+<a href="https://haxe.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
