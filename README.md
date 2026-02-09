@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *06/02/2026*
+**Última actualización:** *09/02/2026*
 
 <a name="contenido"></a>
-## Contenido (96 programas listados) 
+## Contenido (97 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -195,6 +195,8 @@
     - [Test Disk](#testdisk)
   - Comparadores de archivos  
     - [QuickHash](#quickhash)
+  - Compresores  
+    - [PeaZip](#peazip)
 - Vídeo y Multimedia
   - Convertidores  
     - [Handbrake](#handbrake)
@@ -1120,6 +1122,16 @@ TestDisk es un software libre de recuperación de datos que permite reparar tabl
 QuickHash es una herramienta gratuita y de código abierto que permite calcular hashes de archivos, carpetas, texto y discos de forma rápida y sencilla. Es útil para verificar la integridad de datos, detectar corrupción o asegurar que dos copias son idénticas. Soporta múltiples algoritmos como MD5, SHA1, SHA256, SHA512, SHA‑3, xxHash o Blake3.
 
 <a href="https://www.quickhash-gui.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Compresores
+<a name="peazip"></a>
+##### PeaZip
+<img src="/assets/img/peazip.png" alt="PeaZip"/>
+PeaZip es un archivador de archivos gratuito y de código abierto que permite comprimir, descomprimir y gestionar más de 200 formatos, incluidos ZIP, RAR, TAR y 7Z. Ofrece funciones avanzadas como cifrado fuerte, autenticación en dos factores y herramientas de gestión de archivos. Está disponible para Linux, macOS y Windows, con versiones portables y una interfaz unificada en todas las plataformas.
+
+<a href="https://peazip.github.io/index.html" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
