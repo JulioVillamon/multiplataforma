@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *09/02/2026*
+**Última actualización:** *10/02/2026*
 
 <a name="contenido"></a>
-## Contenido (97 programas listados) 
+## Contenido (98 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -202,6 +202,7 @@
     - [Handbrake](#handbrake)
   - Editores  
     - [Avidemux](#avidemux)
+    - [Kdenlive](#kdenlive)
   - Media Center  
     - [Kodi](#kodi)
   - Reproductores  
@@ -1154,6 +1155,15 @@ HandBrake es un conversor de vídeo gratuito y de código abierto. Permite trans
 Avidemux es un editor de vídeo gratuito diseñado para tareas simples como cortar, filtrar y codificar. Soporta múltiples formatos (AVI, MP4, MPEG, etc.) y diversos códecs para facilitar la edición básica. Permite automatizar procesos mediante proyectos, cola de tareas y scripts.
 
 <a href="http://fixounet.free.fr/avidemux/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="kdenlive"></a>
+##### Kdenlive
+<img src="/assets/img/kdenlive.png" alt="kdenlive"/>
+Kdenlive es un editor de vídeo no lineal y de código abierto, disponible para Linux, Windows, macOS y BSD. Permite montar, cortar y mezclar vídeos con múltiples pistas, efectos y transiciones de forma profesional. Es una herramienta potente y gratuita, ideal tanto para creadores principiantes como para proyectos avanzados.
+
+<a href="http://kdenlive.org/es/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
