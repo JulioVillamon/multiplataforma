@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *10/02/2026*
+**Última actualización:** *11/02/2026*
 
 <a name="contenido"></a>
-## Contenido (98 programas listados) 
+## Contenido (99 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -25,6 +25,7 @@
  - Audio
    - Composición
      - [OpenMusic](#openmusic)
+     - [Pure Data](#puredata)
    - Descarga
      - [gPodder](#gpodder)
    - DJ
@@ -268,6 +269,15 @@ Stellarium es un software planetario gratuito y de código abierto que simula el
 OpenMusic es un entorno de programación visual para la composición asistida por ordenador. Se basa en la manipulación de objetos musicales y estructuras algorítmicas, permitiendo a los compositores crear y experimentar con modelos musicales de manera flexible.
 
 <a href="https://openmusic-project.github.io" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="puredata"></a>
+##### Pure Data
+<img src="/assets/img/puredata.png" alt="Pure Data"/>
+Pure Data (Pd) es un lenguaje de programación visual y libre orientado a la creación multimedia. Permite generar y procesar audio, vídeo y gráficos mediante objetos conectados en un lienzo, sin necesidad de escribir código. Es ampliamente usado por músicos, artistas y desarrolladores para construir desde proyectos educativos hasta sistemas interactivos complejos.
+
+<a href="https://puredata.info/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
