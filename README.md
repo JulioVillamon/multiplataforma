@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *11/02/2026*
+**Última actualización:** *13/02/2026*
 
 <a name="contenido"></a>
-## Contenido (99 programas listados) 
+## Contenido (100 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -28,6 +28,7 @@
      - [Pure Data](#puredata)
    - Descarga
      - [gPodder](#gpodder)
+     - [Juice](#juice)
    - DJ
      - [Giada](#giada)
    - Editores
@@ -288,6 +289,15 @@ Pure Data (Pd) es un lenguaje de programación visual y libre orientado a la cre
 Cliente de podcast que permite suscribirse, descargar y organizar episodios de audio y video. Su interfaz sencilla facilita la gestión de contenidos, con funciones como sincronización en la nube y soporte para OPML. Es ideal para quienes buscan una herramienta ligera y eficiente para seguir sus podcasts favoritos.
 
 <a href="https://gpodder.github.io" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="juice"></a>
+##### Juice
+<img src="/assets/img/juice.png" alt="Juice"/>
+Juice es un receptor de pódcasts multiplataforma que descarga automáticamente episodios desde tus fuentes favoritas y los organiza para que puedas escucharlos cuando quieras. Facilita la gestión de suscripciones, ofrece un directorio integrado con miles de pódcasts y funciona con varios reproductores de audio. Es software libre y está pensado para que disfrutes de tus programas sin depender de horarios.
+
+<a href="https://juicereceiver.sourceforge.net" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
