@@ -425,7 +425,7 @@ Firebird es un sistema de gestión de bases de datos relacional de código abier
 <img src="/assets/img/flamerobin.png" alt="FlameRobin"/>
 FlameRobin es una herramienta ligera y multiplataforma para administrar bases de datos Firebird. Permite gestionar objetos como tablas, vistas, triggers o procedimientos almacenados, además de ejecutar consultas SQL y revisar estadísticas del servidor. Su objetivo es ofrecer una interfaz rápida, sencilla y portable para desarrolladores y administradores que trabajan con Firebird.
 
-<a href="https://www.flamerobin.org/" target="_blank">web</a>
+<a href="http://flamerobin.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
