@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *13/02/2026*
+**Última actualización:** *04/03/2026*
 
 <a name="contenido"></a>
-## Contenido (100 programas listados) 
+## Contenido (101 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -50,6 +50,7 @@
      - [DB Browser for SQLite](#sqlitebrowser)
      - [DBeaver Community](#dbeaver)
      - [Firebird](#firebird)
+     - [FlameRobin](#flamerobin)
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
@@ -416,6 +417,15 @@ DBeaver Community es una herramienta gratuita y de código abierto para gestiona
 Firebird es un sistema de gestión de bases de datos relacional de código abierto, multiplataforma y muy ligero. Ofrece un motor SQL potente, estable y adecuado tanto para aplicaciones pequeñas como para sistemas empresariales. Su comunidad mantiene un desarrollo activo, con actualizaciones, herramientas y documentación para aprovechar al máximo sus capacidades.
 
 <a href="https://www.firebirdsql.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="flamerobin"></a>
+##### FlameRobin
+<img src="/assets/img/flamerobin.png" alt="FlameRobin"/>
+FlameRobin es una herramienta ligera y multiplataforma para administrar bases de datos Firebird. Permite gestionar objetos como tablas, vistas, triggers o procedimientos almacenados, además de ejecutar consultas SQL y revisar estadísticas del servidor. Su objetivo es ofrecer una interfaz rápida, sencilla y portable para desarrolladores y administradores que trabajan con Firebird.
+
+<a href="https://www.flamerobin.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
