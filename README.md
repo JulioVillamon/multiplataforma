@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *04/03/2026*
+**Última actualización:** *06/03/2026*
 
 <a name="contenido"></a>
-## Contenido (101 programas listados) 
+## Contenido (102 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -66,6 +66,8 @@
      - [XAMPP](#xampp)
    - Wiki
      - [DocuWiki](#dokuwiki)
+   - Otros
+     - [Etherpad](#etherpad)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -498,6 +500,16 @@ XAMPP es un entorno de desarrollo gratuito que integra Apache, MariaDB, PHP y Pe
 DokuWiki es un software wiki de código abierto diseñado para crear y gestionar documentación de forma sencilla, sin necesidad de base de datos. Destaca por su sintaxis limpia, su fácil mantenimiento y su amplio ecosistema de plugins y plantillas. Es una opción muy utilizada en empresas, proyectos y entornos colaborativos por su control de acceso integrado y su gran versatilidad.
 
 <a href="https://www.dokuwiki.org/dokuwiki" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Otros
+<a name="etherpad"></a>
+##### Etherpad
+<img src="/assets/img/etherpad.png" alt="Etherpad"/>
+Etherpad es un editor de texto colaborativo en línea que permite a varias personas escribir y editar simultáneamente en tiempo real, directamente desde el navegador. Ofrece una amplia personalización mediante más de 290 plugins y soporte para más de 100 idiomas, además de funciones de importación y exportación de documentos. Es una herramienta abierta y muy utilizada para crear notas, artículos o listas de forma conjunta sin necesidad de enviar archivos por correo.
+
+<a href="https://etherpad.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
