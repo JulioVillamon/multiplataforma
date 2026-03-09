@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *06/03/2026*
+**Última actualización:** *09/03/2026*
 
 <a name="contenido"></a>
-## Contenido (102 programas listados) 
+## Contenido (103 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -86,8 +86,10 @@
      - [JClic](#jclic)
   - Idiomas
      - [Tagaini Jisho](#tagaini)
-  - Argunet
+  - Mapas conceptuales
      - [Argunet](#argunet)
+  - Matemáticas
+     - [Tuxmathscrabble](#tuxmathscrabble)
 - Fuentes
   - Editores
      - [BirdFont](#birdfont)
@@ -612,6 +614,16 @@ Tagaini Jisho es un diccionario japonés gratuito y asistente de estudio disponi
 Argunet es una herramienta de software libre diseñada para analizar y visualizar debates complejos mediante mapas de argumentos. Permite reconstruir discusiones, organizar premisas y conclusiones de forma clara y compartir los mapas a través de un servidor propio. Está orientado a investigación, docencia y cualquier contexto donde se necesite estructurar razonamientos de manera visual. 
 
 <a href="https://sourceforge.net/projects/argunet/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Matemáticas
+<a name="tuxmathscrabble"></a>
+##### Tuxmathscrabble
+<img src="/assets/img/Tuxmathscrabble.png" alt="Tuxmathscrabble"/>
+TuxMathScrabble es un juego educativo escrito en Python que combina la mecánica del Scrabble con operaciones matemáticas. Está diseñado para estudiantes de 3 a 14 años, ayudando a practicar aritmética, fracciones y álgebra de forma lúdica. Su objetivo es formar expresiones matemáticas válidas en un tablero, fomentando el razonamiento lógico y el aprendizaje activo.. 
+
+<a href="https://github.com/ccosse/tuxmathscrabble/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
