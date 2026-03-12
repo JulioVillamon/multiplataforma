@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *09/03/2026*
+**Última actualización:** *12/03/2026*
 
 <a name="contenido"></a>
-## Contenido (103 programas listados) 
+## Contenido (104 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -101,6 +101,7 @@
      - [DejaVu Fonts](#ttf2)
      - [Google Fonts](#googlefonts)
      - [Liberation Fonts](#liberationfonts)
+     - [Linux Libertine](#linuxlibertine)
 - Gráficos
   - 3D
      - [Art of Illusion](#artofillusion)
@@ -693,6 +694,15 @@ Liberation Fonts es una familia tipográfica libre diseñada para ser métricame
 Sirve como sustituto abierto en entornos donde no pueden usarse fuentes propietarias, garantizando compatibilidad visual en sistemas Linux, Windows o macOS. Es ideal para oficinas, administración y proyectos que requieren coherencia tipográfica sin depender de licencias comerciales.
 
 <a href="https://github.com/liberationfonts/liberation-fonts" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="linuxlibertine"></a>
+##### Linux Libertine
+<img src="/assets/img/ttf.png" alt="Linux Libertne"/>
+Linux Libertine es una familia tipográfica libre y multilingüe diseñada como alternativa profesional a las fuentes estándar más comunes. Ofrece una amplia cobertura de alfabetos (latín, griego, cirílico, hebreo, IPA…) y numerosos detalles tipográficos avanzados como ligaduras, versalitas, números alternativos o fracciones reales. Su objetivo es aportar variedad y calidad tipográfica en proyectos editoriales, académicos y digitales sin depender de fuentes propietarias.
+
+<a href="https://www.linuxlibertine.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
