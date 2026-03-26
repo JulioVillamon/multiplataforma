@@ -12,7 +12,7 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *12/03/2026*
+**Última actualización:** *26/03/2026*
 
 <a name="contenido"></a>
 ## Contenido (104 programas listados) 
@@ -120,6 +120,7 @@
 - Internet
   - Comunicación
      - [Element Desktop](#element-desktop)
+     - [Signal](#signal)
   - Correo Electrónico
      - [Sylpheed](#sylpheed)
   - Fediverso
@@ -787,6 +788,15 @@ Nomacs es un visor de imágenes libre y de código abierto, disponible para Wind
 Element Desktop es una aplicación de escritorio basada en el protocolo Matrix, diseñada para ofrecer comunicación segura y descentralizada. Permite mensajería instantánea, videollamadas y colaboración en tiempo real, con cifrado de extremo a extremo para garantizar la privacidad.
 
 <a href="https://element.io" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="signal"></a>
+##### Signal
+<img src="/assets/img/signal.png" alt="Signal"/>
+Signal es una aplicación de mensajería centrada en la privacidad que ofrece comunicaciones cifradas de extremo a extremo sin recopilar datos personales. Permite enviar mensajes, realizar llamadas de voz y vídeo, y compartir archivos de forma segura y gratuita. Es un proyecto sin ánimo de lucro, sin anuncios ni rastreadores, financiado por donaciones.
+
+<a href="https://signal.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
