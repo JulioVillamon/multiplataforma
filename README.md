@@ -147,9 +147,9 @@
   - Cartas
      - [Cockatrice](#cockatrice)
   - Combate
-     - [Blobby Volley](#blobbyVolley)
-  - Deportes
      - [Hedgewars](#hedgewars)
+  - Deportes
+     - [Blobby Volley](#blobbyvolley)
 - Matemáticas
   - Álgebra  
     - [Gap](#gap)
