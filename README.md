@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *26/03/2026*
+**Última actualización:** *12/04/2026*
 
 <a name="contenido"></a>
-## Contenido (105 programas listados) 
+## Contenido (106 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -147,6 +147,8 @@
   - Cartas
      - [Cockatrice](#cockatrice)
   - Combate
+     - [Blobby Volley](#blobbyVolley)
+  - Deportes
      - [Hedgewars](#hedgewars)
 - Matemáticas
   - Álgebra  
@@ -929,6 +931,16 @@ Cockatrice es un programa multiplataforma y de código abierto que permite jugar
 Hedgewars es un juego de estrategia por turnos en el que equipos de erizos armados se enfrentan en mapas destructibles usando física estilo Worms. Ofrece modos para un jugador y multijugador, gran variedad de armas y escenarios personalizables. Es un proyecto libre y comunitario que sigue recibiendo mejoras, contenidos y soporte. 
 
 <a href="https://www.hedgewars.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Deportes 
+<a name="blobbyvolley"></a>
+##### Blobby Volley
+<img src="/assets/img/blobbyvolley.png" alt="blobbyvolley"/>
+Blobby Volley es un juego de voleibol arcade donde dos personajes “blobby” gelatinosos compiten golpeando una pelota en un campo 2D. Ofrece partidas rápidas, físicas simples y modos local, online y navegador. Su estilo minimalista y su jugabilidad directa lo han convertido en un clásico casual. 
+
+<a href="https://www.blobbyvolley.de/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
