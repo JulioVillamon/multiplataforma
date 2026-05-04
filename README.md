@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *12/04/2026*
+**Última actualización:** *04/05/2026*
 
 <a name="contenido"></a>
-## Contenido (106 programas listados) 
+## Contenido (107 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -165,6 +165,8 @@
     - [PSPP](#pspp)
   - Fractales  
     - [FFFF Fast Floating Fractal Fun](#ffff)
+  - Geometría  
+    - [C.a.R](#car)
 - Ofimática
   - Agendas y calendarios  
     - [GTD-Free](#gtdfree)
@@ -1013,6 +1015,16 @@ PSPP es un programa libre para análisis estadístico de datos muestreados, dise
 FFFF Fast Floating Fractal Fun es un generador de fractales Mandelbrot extremadamente rápido para Windows, macOS y Linux. Permite hacer zoom en tiempo real gracias a optimizaciones en OpenGL, SSE/AltiVec y cálculo multiprocesador. Está orientado a exploración visual y benchmarking de rendimiento en cálculos fractales.
 
 <a href="https://sourceforge.net/projects/ffff/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Geometría
+<a name="car"></a>
+##### C.a.R
+<img src="/assets/img/car.png" alt="CAR"/>
+C.a.R (Compass and Ruler) es un programa de geometría interactiva que permite construir figuras dinámicas como si usaras compás y regla en papel. Al mover puntos básicos, la construcción completa se actualiza, ayudando a explorar propiedades, relaciones y teoremas geométricos. También admite funciones, curvas, macros avanzadas y geometrías no euclidianas, ampliando mucho sus posibilidades educativas y experimentales .
+
+<a href="https://zirkel.sourceforge.net/doc_en/index.html" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
