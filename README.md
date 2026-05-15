@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *04/05/2026*
+**Última actualización:** *15/05/2026*
 
 <a name="contenido"></a>
-## Contenido (107 programas listados) 
+## Contenido (108 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -182,6 +182,8 @@
     - [NAPS2](#naps)
   - Finanzas  
     - [GnuCash](#gnucash)
+  - Gestión de Proyectos  
+    - [GanttProject](#ganttproject)
 - Programación
   - .NET  
     - [Mono](#mono)
@@ -1097,6 +1099,14 @@ NAPS2 es un programa gratuito y de código abierto para escanear documentos de f
 GnuCash es un software libre de contabilidad personal y para pequeñas empresas que permite gestionar cuentas bancarias, ingresos, gastos e inversiones de forma sencilla. Ofrece contabilidad de doble entrada, generación de informes y gráficos, y herramientas para importar datos financieros. Está disponible para Linux, Windows y macOS.
 
 <a href="https://www.gnucash.org/" target="_blank">web</a>
+
+#### ***** Gestión de Proyectos
+<a name="ganttproject"></a>
+##### GanttProject
+<img src="/assets/img/ganttproject3.png" alt="GanttProject"/>
+GanttProject es una aplicación gratuita de gestión de proyectos que permite crear y gestionar diagramas de Gantt de forma sencilla. Facilita dividir tareas, asignar recursos y calcular costes, funcionando en Windows, macOS y Linux sin necesidad de conexión. Además, permite exportar a PDF, PNG, CSV, Excel o Microsoft Project y ofrece opciones de colaboración en la nube.
+
+<a href="https://www.ganttproject.biz/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
