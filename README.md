@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *15/05/2026*
+**Última actualización:** *20/05/2026*
 
 <a name="contenido"></a>
-## Contenido (108 programas listados) 
+## Contenido (109 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -199,6 +199,8 @@
     - [Electron Fiddle](#electron)
   - Haxe  
     - [Haxe](#haxe)
+  - Instaladores  
+    - [JReleaser](#jreleaser)
 - Utilidades
   - Accesibilidad  
     - [eSpeak](#espeak)
@@ -1179,6 +1181,16 @@ Electron Fiddle es una herramienta que permite crear y probar pequeños experime
 Haxe es un lenguaje de programación de alto nivel, estrictamente tipado y de código abierto que incluye un compilador capaz de generar aplicaciones para múltiples plataformas desde una sola base de código. Permite compilar a JavaScript, C++, C#, Java, Python, PHP, Lua y más, accediendo además a las capacidades nativas de cada entorno. Su ecosistema incluye un gestor de paquetes (Haxelib) y herramientas propias como HashLink y NekoVM para ejecutar aplicaciones.
 
 <a href="https://haxe.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Insraladores
+<a name="jreleaser"></a>
+##### JReleaser
+<img src="/assets/img/jreleaser.png" alt="JReleaser"/>
+JReleaser es una herramienta que automatiza el empaquetado, firmado y publicación de proyectos en múltiples lenguajes. Facilita crear releases, generar changelogs, subir artefactos y distribuir paquetes en Homebrew, Snapcraft, Scoop y más. Su objetivo es simplificar todo el proceso de lanzamiento con una sola configuración y un solo comando.
+
+<a href="https://jreleaser.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
