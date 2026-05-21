@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *20/05/2026*
+**Última actualización:** *21/05/2026*
 
 <a name="contenido"></a>
-## Contenido (109 programas listados) 
+## Contenido (110 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -214,6 +214,8 @@
     - [QuickHash](#quickhash)
   - Compresores  
     - [PeaZip](#peazip)
+  - Conexión remota  
+    - [TurboVNC](#turbovnc)
 - Vídeo y Multimedia
   - Convertidores  
     - [Handbrake](#handbrake)
@@ -1253,6 +1255,16 @@ QuickHash es una herramienta gratuita y de código abierto que permite calcular 
 PeaZip es un archivador de archivos gratuito y de código abierto que permite comprimir, descomprimir y gestionar más de 200 formatos, incluidos ZIP, RAR, TAR y 7Z. Ofrece funciones avanzadas como cifrado fuerte, autenticación en dos factores y herramientas de gestión de archivos. Está disponible para Linux, macOS y Windows, con versiones portables y una interfaz unificada en todas las plataformas.
 
 <a href="https://peazip.github.io/index.html" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Conexión Remota
+<a name="turbovnc"></a>
+##### TurboVNC
+<img src="/assets/img/turbovnc.png" alt="TurboVNC"/>
+TurboVNC es un sistema de escritorio remoto de alto rendimiento diseñado para transmitir gráficos y aplicaciones 3D con baja latencia. Utiliza compresión JPEG acelerada para ofrecer una experiencia fluida incluso en entornos exigentes. Es multiplataforma, con visor disponible para Linux, Windows y macOS, facilitando el acceso remoto profesional.
+
+<a href="https://turbovnc.org/Main/HomePage/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
