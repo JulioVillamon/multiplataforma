@@ -1,4 +1,4 @@
-<img src="/assets/img/banner.png" alt="logo" width="48" />
+<img src="/assets/img/logo.png" alt="logo" width="48" />
 
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
