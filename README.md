@@ -12,10 +12,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *21/05/2026*
+**Última actualización:** *13/07/2026*
 
 <a name="contenido"></a>
-## Contenido (110 programas listados) 
+## Contenido (111 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -222,6 +222,7 @@
   - Editores  
     - [Avidemux](#avidemux)
     - [Kdenlive](#kdenlive)
+    - [LosslessCut](#losslesscut)
   - Media Center  
     - [Kodi](#kodi)
   - Reproductores  
@@ -1186,7 +1187,7 @@ Haxe es un lenguaje de programación de alto nivel, estrictamente tipado y de c�
 
 [Subir al inicio](#contenido)
 
-#### ***** Insraladores
+#### ***** Instaladores
 <a name="jreleaser"></a>
 ##### JReleaser
 <img src="/assets/img/jreleaser.png" alt="JReleaser"/>
@@ -1296,6 +1297,15 @@ Avidemux es un editor de vídeo gratuito diseñado para tareas simples como cort
 Kdenlive es un editor de vídeo no lineal y de código abierto, disponible para Linux, Windows, macOS y BSD. Permite montar, cortar y mezclar vídeos con múltiples pistas, efectos y transiciones de forma profesional. Es una herramienta potente y gratuita, ideal tanto para creadores principiantes como para proyectos avanzados.
 
 <a href="http://kdenlive.org/es/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="losslesscut"></a>
+##### LosslessCut
+<img src="/assets/img/losslesscut.png" alt="LosslessCut"/>
+LosslessCut es un editor de vídeo y audio multiplataforma (Windows, macOS y Linux) que recorta, une y manipula archivos sin recodificar, conservando la calidad original. Usa FFmpeg por debajo y es muy rápido: ideal para quitar partes de grabaciones largas (cámara, GoPro, dron), eliminar anuncios o extraer fragmentos sin generar archivos enormes. Además permite fusionar pistas, cambiar de contenedor (por ejemplo MKV a MP4), editar metadatos y trabajar con subtítulos, todo con una interfaz gráfica sencilla.
+
+<a href="https://github.com/mifi/lossless-cut" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
