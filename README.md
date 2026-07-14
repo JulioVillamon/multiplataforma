@@ -1,5 +1,3 @@
-<img src="/assets/img/logo.png" alt="logo" width="48" />
-
 # Software Multiplataforma 
 ![GNU/Linux](https://img.shields.io/badge/GNU/Linux-orange) ![macOS](https://img.shields.io/badge/macOS-yellow) ![Windows](https://img.shields.io/badge/Windows-blue) ![Otros](https://img.shields.io/badge/Otros-purple)
 
@@ -12,10 +10,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *13/07/2026*
+**Última actualización:** *14/07/2026*
 
 <a name="contenido"></a>
-## Contenido (111 programas listados) 
+## Contenido (112 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -33,6 +31,7 @@
      - [Giada](#giada)
    - Editores
      - [Audacity](#audacity)
+     - [LMMS](#lmms)
    - Reproductores
      - [Audacious](#audacious)
    - Sintetizadores
@@ -336,6 +335,15 @@ Giada es una herramienta minimalista y de código abierto para la producción mu
 Audacity es un editor y grabador de audio gratuito y de código abierto, disponible para Windows, macOS y Linux. Permite editar múltiples pistas, aplicar efectos en tiempo real y convertir entre formatos como WAV, MP3 y FLAC. Es ideal para crear música, podcasts o cualquier proyecto sonoro con herramientas potentes y accesibles.
 
 <a href="https://www.audacityteam.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="lmms"></a>
+##### LMMS
+<img src="/assets/img/lmms.png" alt="LMMS"/>
+LMMS es una estación de trabajo de audio digital gratuita y multiplataforma que permite componer, secuenciar y mezclar música. Facilita la creación de melodías, beats y arreglos usando sintetizadores, samples y plugins. Incluye instrumentos, efectos y soporte para MIDI y VST, todo dentro de una interfaz moderna y accesible.
+
+<a href="https://lmms.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
