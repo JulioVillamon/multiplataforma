@@ -10,10 +10,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *14/07/2026*
+**Última actualización:** *15/07/2026*
 
 <a name="contenido"></a>
-## Contenido (112 programas listados) 
+## Contenido (113 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -29,6 +29,7 @@
      - [Juice](#juice)
    - DJ
      - [Giada](#giada)
+     - [Mixxx](#mixxx)
    - Editores
      - [Audacity](#audacity)
      - [LMMS](#lmms)
@@ -325,6 +326,15 @@ Juice es un receptor de pódcasts multiplataforma que descarga automáticamente 
 Giada es una herramienta minimalista y de código abierto para la producción musical, pensada para DJs, músicos electrónicos y actuaciones en vivo. Permite crear canciones en tiempo real mediante loops, controlar dispositivos MIDI, y aplicar efectos con plugins VST. Su interfaz ligera y potente está disponible para Linux, Windows, macOS y FreeBSD.
 
 <a href="https://www.giadamusic.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="mixxx"></a>
+##### Mixxx
+<img src="/assets/img/mixxx.png" alt="mixxx"/>
+Mixxx es un software gratuito y de código abierto para DJs, compatible con Windows, macOS y Linux. Permite realizar mezclas de música en vivo utilizando controladores MIDI, control de vinilo digital (DVS) y efectos de sonido integrados. Además, incluye funciones avanzadas como la detección automática de ritmo (BPM), grabación de sesiones y transmisión directa de radio por internet.
+
+<a href="https://mixxx.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
