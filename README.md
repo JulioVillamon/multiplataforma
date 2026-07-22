@@ -10,10 +10,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *15/07/2026*
+**Última actualización:** *22/07/2026*
 
 <a name="contenido"></a>
-## Contenido (113 programas listados) 
+## Contenido (114 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -35,6 +35,7 @@
      - [LMMS](#lmms)
    - Reproductores
      - [Audacious](#audacious)
+     - [Clementine](#clementine)
    - Sintetizadores
      - [Bespoke](#bespoke)
    - Varios
@@ -363,7 +364,16 @@ LMMS es una estación de trabajo de audio digital gratuita y multiplataforma que
 <img src="/assets/img/audacious.png" alt="audacious"/>
 Audacious es un reproductor de audio gratuito y de código abierto, diseñado para ofrecer una experiencia ligera y eficiente. Permite reproducir archivos en múltiples formatos (como MP3, FLAC y WAV), gestionar listas de reproducción y aplicar efectos de sonido. Su interfaz sencilla y personalizable lo hace ideal para usuarios que buscan rendimiento sin complicaciones.
 
-<a href="https://audacious-media-player.org" target="_blank">web</a>
+<a href="https://audacious-media-player.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="clementine"></a>
+##### Clementine
+<img src="/assets/img/clementine.png" alt="Clementine"/>
+Clementine es un reproductor de audio y organizador de biblioteca musical multiplataforma, libre y de código abierto, inspirado en el clásico Amarok 1.4. Destaca por su interfaz ágil que permite gestionar y reproducir colecciones de música local, escuchar emisoras de radio por internet y conectar con servicios en la nube. Además, incluye herramientas avanzadas como edición de etiquetas de canciones, búsqueda de letras y conversión de formatos de audio.
+
+<a href="https://clementine-player.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
