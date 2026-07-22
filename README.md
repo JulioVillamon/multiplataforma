@@ -373,7 +373,7 @@ Audacious es un reproductor de audio gratuito y de código abierto, diseñado pa
 <img src="/assets/img/clementine.png" alt="Clementine"/>
 Clementine es un reproductor de audio y organizador de biblioteca musical multiplataforma, libre y de código abierto, inspirado en el clásico Amarok 1.4. Destaca por su interfaz ágil que permite gestionar y reproducir colecciones de música local, escuchar emisoras de radio por internet y conectar con servicios en la nube. Además, incluye herramientas avanzadas como edición de etiquetas de canciones, búsqueda de letras y conversión de formatos de audio.
 
-<a href="https://clementine-player.org/" target="_blank">web</a>
+<a href="https://www.clementine-player.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
