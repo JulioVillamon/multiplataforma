@@ -10,10 +10,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *22/07/2026*
+**Última actualización:** *23/07/2026*
 
 <a name="contenido"></a>
-## Contenido (114 programas listados) 
+## Contenido (115 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -36,6 +36,7 @@
    - Reproductores
      - [Audacious](#audacious)
      - [Clementine](#clementine)
+     - [Exaile](#exaile)
    - Sintetizadores
      - [Bespoke](#bespoke)
    - Varios
@@ -374,6 +375,15 @@ Audacious es un reproductor de audio gratuito y de código abierto, diseñado pa
 Clementine es un reproductor de audio y organizador de biblioteca musical multiplataforma, libre y de código abierto, inspirado en el clásico Amarok 1.4. Destaca por su interfaz ágil que permite gestionar y reproducir colecciones de música local, escuchar emisoras de radio por internet y conectar con servicios en la nube. Además, incluye herramientas avanzadas como edición de etiquetas de canciones, búsqueda de letras y conversión de formatos de audio.
 
 <a href="https://www.clementine-player.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="exaile"></a>
+##### Exaile
+<img src="/assets/img/exaile.png" alt="Exaile"/>
+Exaile es un reproductor de audio y gestor de música multiplataforma de código abierto, diseñado con una interfaz sencilla pero potente basada en GTK. Permite administrar grandes colecciones de música mediante listas de reproducción inteligentes, edición avanzada de etiquetas (tags), búsqueda de portadas y letras, y reproducción de radio en línea y podcasts. Además, destaca por su arquitectura altamente extensible que permite añadir más de 50 complementos como compatibilidad con Last.fm, dispositivos portátiles y ecualizadores.
+
+<a href="https://exaile.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
