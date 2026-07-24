@@ -10,7 +10,7 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-Este listado también se publica de forma sincronizada en mi web personal → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
+Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
 **Última actualización:** *24/07/2026*
 
