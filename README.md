@@ -10,10 +10,10 @@
    alt="Incluido en cdlibre.org" title="Incluido en cdlibre.org" />
 </a>
 
-**Última actualización:** *23/07/2026*
+**Última actualización:** *24/07/2026*
 
 <a name="contenido"></a>
-## Contenido (115 programas listados) 
+## Contenido (116 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -37,6 +37,7 @@
      - [Audacious](#audacious)
      - [Clementine](#clementine)
      - [Exaile](#exaile)
+     - [Jajuk](#jajuk)
    - Sintetizadores
      - [Bespoke](#bespoke)
    - Varios
@@ -384,6 +385,15 @@ Clementine es un reproductor de audio y organizador de biblioteca musical multip
 Exaile es un reproductor de audio y gestor de música multiplataforma de código abierto, diseñado con una interfaz sencilla pero potente basada en GTK. Permite administrar grandes colecciones de música mediante listas de reproducción inteligentes, edición avanzada de etiquetas (tags), búsqueda de portadas y letras, y reproducción de radio en línea y podcasts. Además, destaca por su arquitectura altamente extensible que permite añadir más de 50 complementos como compatibilidad con Last.fm, dispositivos portátiles y ecualizadores.
 
 <a href="https://exaile.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="jajuk"></a>
+##### Jajuk
+<img src="/assets/img/jajuk.png" alt="Jajuk"/>
+Jajuk es un organizador y reproductor de música gratuito, de código abierto y multiplataforma (basado en Java), diseñado para usuarios avanzados con colecciones musicales muy grandes o dispersas. Permite catalogar archivos en múltiples formatos (MP3, FLAC, OGG), buscar letras y portadas en línea, y gestionar carpetas o dispositivos desconectados. Destaca por su interfaz personalizable basada en perspectivas y por sus funciones inteligentes como listas automáticas "Best Of", mezclador tipo DJ y un avanzado sistema de valoraciones.
+
+<a href="https://www.jajuk.info/index.html" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
