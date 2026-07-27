@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *24/07/2026*
+**Última actualización:** *27/07/2026*
 
 <a name="contenido"></a>
-## Contenido (116 programas listados) 
+## Contenido (117 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -40,6 +40,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Clementine](#clementine)
      - [Exaile](#exaile)
      - [Jajuk](#jajuk)
+     - [Musikcube](#musikcube)
    - Sintetizadores
      - [Bespoke](#bespoke)
    - Varios
@@ -396,6 +397,15 @@ Exaile es un reproductor de audio y gestor de música multiplataforma de código
 Jajuk es un organizador y reproductor de música gratuito, de código abierto y multiplataforma (basado en Java), diseñado para usuarios avanzados con colecciones musicales muy grandes o dispersas. Permite catalogar archivos en múltiples formatos (MP3, FLAC, OGG), buscar letras y portadas en línea, y gestionar carpetas o dispositivos desconectados. Destaca por su interfaz personalizable basada en perspectivas y por sus funciones inteligentes como listas automáticas "Best Of", mezclador tipo DJ y un avanzado sistema de valoraciones.
 
 <a href="https://www.jajuk.info/index.html" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="musikcube"></a>
+##### Musikcube
+<img src="/assets/img/musikcube.png" alt="musikcube"/>
+MusikCube (en su versión original/legacy) es un reproductor de audio y gestor de biblioteca musical ligero. Destaca por su bajísimo consumo de recursos y el uso de una base de datos SQL que permite organizar y buscar grandes colecciones de música a gran velocidad. Además de reproducir diversos formatos de audio, incluye herramientas para la edición masiva de etiquetas (tags) y la extracción directa de canciones desde discos CD (CD ripper).
+
+<a href="https://musikcube.com/old/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
