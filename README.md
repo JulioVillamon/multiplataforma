@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *27/07/2026*
+**Última actualización:** *28/07/2026*
 
 <a name="contenido"></a>
-## Contenido (117 programas listados) 
+## Contenido (118 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -41,6 +41,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Exaile](#exaile)
      - [Jajuk](#jajuk)
      - [Musikcube](#musikcube)
+     - [Nightingale](#nightingale)
    - Sintetizadores
      - [Bespoke](#bespoke)
    - Varios
@@ -406,6 +407,15 @@ Jajuk es un organizador y reproductor de música gratuito, de código abierto y 
 MusikCube (en su versión original/legacy) es un reproductor de audio y gestor de biblioteca musical ligero. Destaca por su bajísimo consumo de recursos y el uso de una base de datos SQL que permite organizar y buscar grandes colecciones de música a gran velocidad. Además de reproducir diversos formatos de audio, incluye herramientas para la edición masiva de etiquetas (tags) y la extracción directa de canciones desde discos CD (CD ripper).
 
 <a href="https://musikcube.com/old/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="nightingale"></a>
+##### Nightingale
+<img src="/assets/img/nightingale.png" alt="nightingale"/>
+Nightingale es un reproductor de música y gestor de medios de código abierto y multiplataforma (desarrollado como un fork comunitario de Songbird). Su función principal es reproducir una gran variedad de formatos de audio (MP3, FLAC, Ogg, entre otros), organizar y buscar velozmente en grandes colecciones musicales. Además, permite personalizar la interfaz gráfica e integrar funciones adicionales como la sincronización con servicios tipo Last.FM mediante complementos.
+
+<a href="https://getnightingale.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
