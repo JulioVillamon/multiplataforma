@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *28/07/2026*
+**Última actualización:** *29/07/2026*
 
 <a name="contenido"></a>
-## Contenido (118 programas listados) 
+## Contenido (119 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -42,6 +42,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Jajuk](#jajuk)
      - [Musikcube](#musikcube)
      - [Nightingale](#nightingale)
+     - [Nuclear](#nuclear)
    - Sintetizadores
      - [Bespoke](#bespoke)
    - Varios
@@ -416,6 +417,15 @@ MusikCube (en su versión original/legacy) es un reproductor de audio y gestor d
 Nightingale es un reproductor de música y gestor de medios de código abierto y multiplataforma (desarrollado como un fork comunitario de Songbird). Su función principal es reproducir una gran variedad de formatos de audio (MP3, FLAC, Ogg, entre otros), organizar y buscar velozmente en grandes colecciones musicales. Además, permite personalizar la interfaz gráfica e integrar funciones adicionales como la sincronización con servicios tipo Last.FM mediante complementos.
 
 <a href="https://getnightingale.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="nuclear"></a>
+##### Nuclear
+<img src="/assets/img/nuclear.png" alt="nuclear"/>
+Nuclear es un reproductor de música de código abierto, gratuito y sin anuncios ni rastreadores para Windows, macOS y Linux. Funciona mediante una arquitectura basada en plugins que extraen y reproducen audio en streaming desde diversas fuentes de Internet (como YouTube o SoundCloud) en un solo lugar. Además, permite gestionar e importar listas de reproducción, descargar canciones en MP3 y visualizar letras sin depender de una plataforma de suscripción de pago. 
+
+<a href="https://nuclearplayer.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
