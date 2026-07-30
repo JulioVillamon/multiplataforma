@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *29/07/2026*
+**Última actualización:** *30/07/2026*
 
 <a name="contenido"></a>
-## Contenido (119 programas listados) 
+## Contenido (120 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -43,6 +43,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Musikcube](#musikcube)
      - [Nightingale](#nightingale)
      - [Nuclear](#nuclear)
+     - [Strawberry](#strawberry)
    - Sintetizadores
      - [Bespoke](#bespoke)
    - Varios
@@ -426,6 +427,15 @@ Nightingale es un reproductor de música y gestor de medios de código abierto y
 Nuclear es un reproductor de música de código abierto, gratuito y sin anuncios ni rastreadores para Windows, macOS y Linux. Funciona mediante una arquitectura basada en plugins que extraen y reproducen audio en streaming desde diversas fuentes de Internet (como YouTube o SoundCloud) en un solo lugar. Además, permite gestionar e importar listas de reproducción, descargar canciones en MP3 y visualizar letras sin depender de una plataforma de suscripción de pago. 
 
 <a href="https://nuclearplayer.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="strawberry"></a>
+##### Strawberry
+<img src="/assets/img/strawberry.png" alt="strawberry"/>
+Strawberry es un reproductor y organizador de colecciones de música digital de código abierto, especialmente diseñado para audiófilos y coleccionistas. Permite gestionar bibliotecas musicales locales en multitud de formatos (como FLAC, WAV, MP3 o DSD), editar etiquetas de archivos y descargar automáticamente portadas y letras. Además, ofrece salidas de audio avanzadas para una reproducción de alta fidelidad sin pérdida (bit-perfect), junto con soporte para radios en línea y servicios de streaming. 
+
+<a href="https://www.strawberrymusicplayer.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
