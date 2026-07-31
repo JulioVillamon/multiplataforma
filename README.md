@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *30/07/2026*
+**Última actualización:** *31/07/2026*
 
 <a name="contenido"></a>
-## Contenido (120 programas listados) 
+## Contenido (121 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -44,6 +44,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Nightingale](#nightingale)
      - [Nuclear](#nuclear)
      - [Strawberry](#strawberry)
+     - [Pear-Desktop](#pear-desktop)
    - Sintetizadores
      - [Bespoke](#bespoke)
    - Varios
@@ -436,6 +437,15 @@ Nuclear es un reproductor de música de código abierto, gratuito y sin anuncios
 Strawberry es un reproductor y organizador de colecciones de música digital de código abierto, especialmente diseñado para audiófilos y coleccionistas. Permite gestionar bibliotecas musicales locales en multitud de formatos (como FLAC, WAV, MP3 o DSD), editar etiquetas de archivos y descargar automáticamente portadas y letras. Además, ofrece salidas de audio avanzadas para una reproducción de alta fidelidad sin pérdida (bit-perfect), junto con soporte para radios en línea y servicios de streaming. 
 
 <a href="https://www.strawberrymusicplayer.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="pear-desktop"></a>
+##### Pear-Desktop
+<img src="/assets/img/pear-desktop.png" alt="pear-desktop"/>
+Pear Desktop es una aplicación de escritorio no oficial y de código abierto diseñada para usar YouTube Music fuera del navegador. Añade funciones avanzadas respecto a la versión web original, como soporte para temas personalizados, un sistema de plugins, letras de canciones en tiempo real e integración con servicios como Last.fm. Además, incluye mejoras para el sistema operativo como accesos directos de teclado, modo mini-reproductor y controles integrados en la barra de tareas. 
+
+<a href="https://github.com/pear-devs/pear-desktop/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
