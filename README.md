@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *31/07/2026*
+**Última actualización:** *03/08/2026*
 
 <a name="contenido"></a>
-## Contenido (121 programas listados) 
+## Contenido (122 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -47,6 +47,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Pear-Desktop](#pear-desktop)
    - Sintetizadores
      - [Bespoke](#bespoke)
+     - [VCV Rack](#rack)
    - Varios
      - [FLAC](#flac)
 - Bases de datos
@@ -458,6 +459,16 @@ Bespoke es un sintetizador modular virtual y estación de trabajo digital (DAW) 
 <a href="https://www.bespokesynth.com" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
+
+<a name="rack"></a>
+##### VCV Rack
+<img src="/assets/img/rack.png" alt="rack"/>
+VCV Rack es un sintetizador modular software de código abierto que emula en formato virtual el funcionamiento de un Eurorack físico. Permite a los usuarios interconectar mediante cables virtuales una enorme variedad de módulos de audio (osciladores, filtros, secuenciadores y efectos) para crear y diseñar sonidos complejos desde cero. Es utilizado tanto para la producción musical interactiva como para aprender los fundamentos de la síntesis de audio de forma gratuita y flexible.
+
+<a href="https://vcvrack.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
 
 #### ***** Varios
 <a name="flac"></a>
