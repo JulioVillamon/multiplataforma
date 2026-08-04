@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *03/08/2026*
+**Última actualización:** *04/08/2026*
 
 <a name="contenido"></a>
-## Contenido (122 programas listados) 
+## Contenido (123 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -50,6 +50,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [VCV Rack](#rack)
    - Varios
      - [FLAC](#flac)
+     - [free:ac](#freac)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -477,6 +478,15 @@ VCV Rack es un sintetizador modular software de código abierto que emula en for
 FLAC es un códec de audio libre y sin pérdidas, capaz de comprimir música sin sacrificar calidad. Funciona de forma similar a un archivo ZIP, pero optimizado para audio, logrando mejor compresión y reproducción directa en la mayoría de reproductores. Es el formato lossless más rápido y ampliamente soportado, totalmente abierto, sin patentes y con especificación pública.
 
 <a href="https://xiph.org/flac/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="freac"></a>
+##### fre:ac
+<img src="/assets/img/freac.png" alt="freac"/>
+fre:ac es un conversor de audio y extractor (ripper) de CD gratuito y de código abierto. Permite transformar archivos y colecciones completas de música entre formatos populares como MP3, FLAC, M4A/AAC, WAV y Opus a gran velocidad. Incluye un editor de etiquetas integrado y consulta automáticamente bases de datos como freedb/CDDB para obtener y guardar la información del artista, álbum y canciones.
+
+<a href="https://www.freeac.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
