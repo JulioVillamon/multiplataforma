@@ -486,7 +486,7 @@ FLAC es un códec de audio libre y sin pérdidas, capaz de comprimir música sin
 <img src="/assets/img/freac.png" alt="freac"/>
 fre:ac es un conversor de audio y extractor (ripper) de CD gratuito y de código abierto. Permite transformar archivos y colecciones completas de música entre formatos populares como MP3, FLAC, M4A/AAC, WAV y Opus a gran velocidad. Incluye un editor de etiquetas integrado y consulta automáticamente bases de datos como freedb/CDDB para obtener y guardar la información del artista, álbum y canciones.
 
-<a href="https://www.freeac.org/" target="_blank">web</a>
+<a href="https://www.freac.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
