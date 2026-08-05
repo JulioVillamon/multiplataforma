@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *04/08/2026*
+**Última actualización:** *05/08/2026*
 
 <a name="contenido"></a>
-## Contenido (123 programas listados) 
+## Contenido (124 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -48,6 +48,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
    - Sintetizadores
      - [Bespoke](#bespoke)
      - [VCV Rack](#rack)
+     - [Vaporizer2](#vaporizer)
    - Varios
      - [FLAC](#flac)
      - [free:ac](#freac)
@@ -467,6 +468,15 @@ Bespoke es un sintetizador modular virtual y estación de trabajo digital (DAW) 
 VCV Rack es un sintetizador modular software de código abierto que emula en formato virtual el funcionamiento de un Eurorack físico. Permite a los usuarios interconectar mediante cables virtuales una enorme variedad de módulos de audio (osciladores, filtros, secuenciadores y efectos) para crear y diseñar sonidos complejos desde cero. Es utilizado tanto para la producción musical interactiva como para aprender los fundamentos de la síntesis de audio de forma gratuita y flexible.
 
 <a href="https://vcvrack.com" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="vaporizer"></a>
+##### Vaporizer2
+<img src="/assets/img/vaporizer.png" alt="vaporizer"/>
+Vaporizer2 es un sintetizador híbrido por tablas de ondas (wavetable) y de manufactura de audio (additive) diseñado para crear sonidos complejos y envolventes consumiendo muy pocos recursos de CPU. Incluye un potente editor de tablas de ondas en 2D y 3D que permite dibujar, importar y transformar ondas de sonido personalizadas. Además, cuenta con un completo sistema de modulación, múltiples filtros y un rack de efectos integrado ideal para la producción de música electrónica.
+
+<a href="https://www.vast-dynamics.com" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
