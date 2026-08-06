@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *05/08/2026*
+**Última actualización:** *06/08/2026*
 
 <a name="contenido"></a>
-## Contenido (124 programas listados) 
+## Contenido (125 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -52,6 +52,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
    - Varios
      - [FLAC](#flac)
      - [free:ac](#freac)
+     - [Jamulus](#jamulus)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -497,6 +498,15 @@ FLAC es un códec de audio libre y sin pérdidas, capaz de comprimir música sin
 fre:ac es un conversor de audio y extractor (ripper) de CD gratuito y de código abierto. Permite transformar archivos y colecciones completas de música entre formatos populares como MP3, FLAC, M4A/AAC, WAV y Opus a gran velocidad. Incluye un editor de etiquetas integrado y consulta automáticamente bases de datos como freedb/CDDB para obtener y guardar la información del artista, álbum y canciones.
 
 <a href="https://www.freac.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="jamulus"></a>
+##### Jamulus
+<img src="/assets/img/jamulus.png" alt="jamulus"/>
+Jamulus es un software gratuito y de código abierto diseñado para que músicos y cantantes puedan ensayar o tocar juntos en tiempo real a través de Internet. Funciona mediante una arquitectura cliente-servidor optimizada para lograr una latencia extremadamente baja, minimizando el retraso del audio. Esto permite a los integrantes de una banda interpretar música completamente sincronizada a distancia como si estuvieran en la misma habitación.
+
+<a href="https://jamulus.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
