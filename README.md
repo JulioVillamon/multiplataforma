@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *06/08/2026*
+**Última actualización:** *07/08/2026*
 
 <a name="contenido"></a>
-## Contenido (125 programas listados) 
+## Contenido (126 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -53,6 +53,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [FLAC](#flac)
      - [free:ac](#freac)
      - [Jamulus](#jamulus)
+     - [Kid3](#kid3)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -507,6 +508,15 @@ fre:ac es un conversor de audio y extractor (ripper) de CD gratuito y de código
 Jamulus es un software gratuito y de código abierto diseñado para que músicos y cantantes puedan ensayar o tocar juntos en tiempo real a través de Internet. Funciona mediante una arquitectura cliente-servidor optimizada para lograr una latencia extremadamente baja, minimizando el retraso del audio. Esto permite a los integrantes de una banda interpretar música completamente sincronizada a distancia como si estuvieran en la misma habitación.
 
 <a href="https://jamulus.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="kid3"></a>
+##### Kid3
+<img src="/assets/img/kid3.png" alt="kid3"/>
+Kid3 es un editor de metadatos de audio multiplataforma y de código abierto compatible con una gran variedad de formatos (como MP3, FLAC, Ogg, WAV y MP4). Permite editar etiquetas de forma masiva en múltiples archivos a la vez, convertir entre diferentes formatos de etiquetas (como ID3v1 e ID3v2) y renombrar carpetas o archivos automáticamente a partir de sus metadatos. Además, facilita la importación automática de información de álbumes y carátulas desde bases de datos en línea como MusicBrainz, Discogs y Amazon.
+
+<a href="https://kid3.kde.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
