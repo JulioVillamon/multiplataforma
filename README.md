@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *07/08/2026*
+**Última actualización:** *08/08/2026*
 
 <a name="contenido"></a>
-## Contenido (126 programas listados) 
+## Contenido (127 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -54,6 +54,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [free:ac](#freac)
      - [Jamulus](#jamulus)
      - [Kid3](#kid3)
+     - [Picard 2](#picard-2)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -517,6 +518,15 @@ Jamulus es un software gratuito y de código abierto diseñado para que músicos
 Kid3 es un editor de metadatos de audio multiplataforma y de código abierto compatible con una gran variedad de formatos (como MP3, FLAC, Ogg, WAV y MP4). Permite editar etiquetas de forma masiva en múltiples archivos a la vez, convertir entre diferentes formatos de etiquetas (como ID3v1 e ID3v2) y renombrar carpetas o archivos automáticamente a partir de sus metadatos. Además, facilita la importación automática de información de álbumes y carátulas desde bases de datos en línea como MusicBrainz, Discogs y Amazon.
 
 <a href="https://kid3.kde.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="picard-2"></a>
+##### Picard 2
+<img src="/assets/img/picard-2.png" alt="picard-2"/>
+MusicBrainz Picard es una aplicación gratuita que organiza y corrige los metadatos de tu colección de música local conectándose a su base de datos abierta. Utiliza huellas acústicas (AcoustID) para identificar canciones desconocidas por su sonido, descargando portadas y carátulas oficiales. Además, renombra y mueve automáticamente tus archivos a carpetas ordenadas según tus preferencias.
+
+<a href="https://picard.musicbrainz.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
