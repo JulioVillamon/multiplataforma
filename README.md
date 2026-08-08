@@ -54,7 +54,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [free:ac](#freac)
      - [Jamulus](#jamulus)
      - [Kid3](#kid3)
-     - [Picard 2](#picard-2)
+     - [Picard](#picard-2)
 - Bases de datos
    - MySQL
      - [MariaDB](#mariadb)
@@ -522,7 +522,7 @@ Kid3 es un editor de metadatos de audio multiplataforma y de código abierto com
 [Subir al inicio](#contenido)
 
 <a name="picard-2"></a>
-##### Picard 2
+##### Picard
 <img src="/assets/img/picard-2.png" alt="picard-2"/>
 MusicBrainz Picard es una aplicación gratuita que organiza y corrige los metadatos de tu colección de música local conectándose a su base de datos abierta. Utiliza huellas acústicas (AcoustID) para identificar canciones desconocidas por su sonido, descargando portadas y carátulas oficiales. Además, renombra y mueve automáticamente tus archivos a carpetas ordenadas según tus preferencias.
 
