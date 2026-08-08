@@ -526,7 +526,7 @@ Kid3 es un editor de metadatos de audio multiplataforma y de código abierto com
 <img src="/assets/img/picard-2.png" alt="picard-2"/>
 MusicBrainz Picard es una aplicación gratuita que organiza y corrige los metadatos de tu colección de música local conectándose a su base de datos abierta. Utiliza huellas acústicas (AcoustID) para identificar canciones desconocidas por su sonido, descargando portadas y carátulas oficiales. Además, renombra y mueve automáticamente tus archivos a carpetas ordenadas según tus preferencias.
 
-<a href="https://picard.musicbrainz.com/" target="_blank">web</a>
+<a href="https://picard.musicbrainz.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
