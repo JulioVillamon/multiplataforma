@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *08/08/2026*
+**Última actualización:** *19/08/2026*
 
 <a name="contenido"></a>
-## Contenido (127 programas listados) 
+## Contenido (128 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -67,6 +67,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [DBeaver Community](#dbeaver)
      - [Firebird](#firebird)
      - [FlameRobin](#flamerobin)
+     - [Harbour](#harbour)
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
@@ -604,6 +605,15 @@ Firebird es un sistema de gestión de bases de datos relacional de código abier
 FlameRobin es una herramienta ligera y multiplataforma para administrar bases de datos Firebird. Permite gestionar objetos como tablas, vistas, triggers o procedimientos almacenados, además de ejecutar consultas SQL y revisar estadísticas del servidor. Su objetivo es ofrecer una interfaz rápida, sencilla y portable para desarrolladores y administradores que trabajan con Firebird.
 
 <a href="http://flamerobin.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="harbour"></a>
+##### Harbour
+<img src="/assets/img/harbour.png" alt="harbour"/>
+Harbour es un compilador libre que traduce código xBase/Clipper a C/C++ para generar aplicaciones nativas en Windows, Linux y macOS. Permite ejecutar y modernizar programas antiguos de bases de datos (.dbf) en computadoras actuales sin tener que reescribir su lógica. Facilita la conexión con bases de datos SQL modernas y la creación de aplicaciones tanto en modo consola como con interfaz gráfica.
+
+<a href="https://harbour.github.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
