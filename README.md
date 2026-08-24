@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *19/08/2026*
+**Última actualización:** *24/08/2026*
 
 <a name="contenido"></a>
-## Contenido (128 programas listados) 
+## Contenido (129 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -68,6 +68,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Firebird](#firebird)
      - [FlameRobin](#flamerobin)
      - [Harbour](#harbour)
+     - [HeidiSQL](#heidisql)
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
@@ -614,6 +615,15 @@ FlameRobin es una herramienta ligera y multiplataforma para administrar bases de
 Harbour es un compilador libre que traduce código xBase/Clipper a C/C++ para generar aplicaciones nativas en Windows, Linux y macOS. Permite ejecutar y modernizar programas antiguos de bases de datos (.dbf) en computadoras actuales sin tener que reescribir su lógica. Facilita la conexión con bases de datos SQL modernas y la creación de aplicaciones tanto en modo consola como con interfaz gráfica.
 
 <a href="https://harbour.github.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="heidisql"></a>
+##### HeidiSQL
+<img src="/assets/img/heidisql.png" alt="heidisql"/>
+HeidiSQL es un gestor de bases de datos gratuito y ligero diseñado para administrar motores como MariaDB, MySQL, PostgreSQL, SQLite y SQL Server. Permite explorar bases de datos, editar tablas o registros, ejecutar consultas SQL y gestionar usuarios desde una interfaz gráfica intuitiva. También facilita la importación y exportación de archivos mediante volcados SQL o formatos como CSV.
+
+<a href="https://www.heidisql.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
