@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *24/08/2026*
+**Última actualización:** *08/09/2026*
 
 <a name="contenido"></a>
-## Contenido (129 programas listados) 
+## Contenido (130 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -69,6 +69,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [FlameRobin](#flamerobin)
      - [Harbour](#harbour)
      - [HeidiSQL](#heidisql)
+     - [Sqlectron](#sqlectron)
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
@@ -624,6 +625,15 @@ Harbour es un compilador libre que traduce código xBase/Clipper a C/C++ para ge
 HeidiSQL es un gestor de bases de datos gratuito y ligero diseñado para administrar motores como MariaDB, MySQL, PostgreSQL, SQLite y SQL Server. Permite explorar bases de datos, editar tablas o registros, ejecutar consultas SQL y gestionar usuarios desde una interfaz gráfica intuitiva. También facilita la importación y exportación de archivos mediante volcados SQL o formatos como CSV.
 
 <a href="https://www.heidisql.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="sqlectron"></a>
+##### Sqlectron
+<img src="/assets/img/sqlectron.png" alt="sqlectron"/>
+Sqlectron es un cliente SQL ligero, sencillo y de código abierto diseñado para ejecutarse en múltiples plataformas (Windows, Linux y macOS). Permite gestionar y consultar bases de datos de forma fácil a través de una interfaz gráfica intuitiva, contando también con una versión para la terminal. Es compatible con diversos motores de bases de datos populares como PostgreSQL, MySQL, SQLite, SQL Server y Cassandra.
+
+<a href="https://sqlectron.github.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
