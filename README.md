@@ -633,7 +633,7 @@ HeidiSQL es un gestor de bases de datos gratuito y ligero diseñado para adminis
 <img src="/assets/img/sqlectron.png" alt="sqlectron"/>
 Sqlectron es un cliente SQL ligero, sencillo y de código abierto diseñado para ejecutarse en múltiples plataformas (Windows, Linux y macOS). Permite gestionar y consultar bases de datos de forma fácil a través de una interfaz gráfica intuitiva, contando también con una versión para la terminal. Es compatible con diversos motores de bases de datos populares como PostgreSQL, MySQL, SQLite, SQL Server y Cassandra.
 
-<a href="https://sqlectron.github.com/" target="_blank">web</a>
+<a href="https://sqlectron.github.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
