@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *08/09/2026*
+**Última actualización:** *09/09/2026*
 
 <a name="contenido"></a>
-## Contenido (130 programas listados) 
+## Contenido (131 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -73,6 +73,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
 - Desarrollo Web
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
+     - [Drupal](#drupal)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -646,6 +647,15 @@ Sqlectron es un cliente SQL ligero, sencillo y de código abierto diseñado para
 CMS Made Simple es un sistema de gestión de contenidos (CMS) de código abierto diseñado para facilitar la creación y administración de sitios web. Su interfaz es intuitiva y permite a los editores actualizar su contenido de manera sencilla, mientras que los diseñadores tienen libertad total para personalizar la apariencia del sitio sin restricciones de plantillas predefinidas. Además, los desarrolladores pueden aprovechar su potente API y el motor de plantillas Smarty para crear módulos y funcionalidades avanzadas. Es una opción flexible y escalable para quienes buscan un CMS eficiente y fácil de usar.
 
 <a href="https://www.cmsmadesimple.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="drupal"></a>
+##### Drupal
+<img src="/assets/img/drupal.png" alt="Drupal"/>
+Drupal es un sistema de gestión de contenidos (CMS) de código abierto y gratuito diseñado para crear, organizar y administrar sitios web complejos y experiencias digitales avanzadas. Destaca por su alta seguridad, flexibilidad y capacidad de escalabilidad, lo que lo convierte en la opción predilecta para gobiernos, universidades y grandes empresas. Además, cuenta con un ecosistema modular que permite personalizar el diseño, integrar herramientas externas e incorporar funciones mediante IA sin necesidad de licencias de pago.
+
+<a href="https://new.drupal.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
