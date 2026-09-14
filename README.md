@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *09/09/2026*
+**Última actualización:** *14/09/2026*
 
 <a name="contenido"></a>
-## Contenido (131 programas listados) 
+## Contenido (132 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -74,6 +74,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
    - CMS
      - [CMS Made Simple](#cmsmadesimple)
      - [Drupal](#drupal)
+     - [e107](#e107)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -656,6 +657,15 @@ CMS Made Simple es un sistema de gestión de contenidos (CMS) de código abierto
 Drupal es un sistema de gestión de contenidos (CMS) de código abierto y gratuito diseñado para crear, organizar y administrar sitios web complejos y experiencias digitales avanzadas. Destaca por su alta seguridad, flexibilidad y capacidad de escalabilidad, lo que lo convierte en la opción predilecta para gobiernos, universidades y grandes empresas. Además, cuenta con un ecosistema modular que permite personalizar el diseño, integrar herramientas externas e incorporar funciones mediante IA sin necesidad de licencias de pago.
 
 <a href="https://new.drupal.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="e107"></a>
+##### e107
+<img src="/assets/img/e107.png" alt="e107"/>
+e107 es un sistema de gestión de contenidos (CMS) de código abierto y gratuito, desarrollado en PHP y MySQL, diseñado para crear sitios web dinámicos de forma rápida y sencilla. Permite a los usuarios administrar publicaciones, integrar foros, personalizar la apariencia mediante plantillas y ampliar sus funciones a través de complementos sin necesidad de programar.
+
+<a href="https://e107.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
