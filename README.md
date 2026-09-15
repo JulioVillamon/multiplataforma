@@ -12,7 +12,7 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *14/09/2026*
+**Última actualización:** *15/09/2026*
 
 <a name="contenido"></a>
 ## Contenido (132 programas listados) 
@@ -75,6 +75,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [CMS Made Simple](#cmsmadesimple)
      - [Drupal](#drupal)
      - [e107](#e107)
+     - [Elgg](#elgg)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -666,6 +667,15 @@ Drupal es un sistema de gestión de contenidos (CMS) de código abierto y gratui
 e107 es un sistema de gestión de contenidos (CMS) de código abierto y gratuito, desarrollado en PHP y MySQL, diseñado para crear sitios web dinámicos de forma rápida y sencilla. Permite a los usuarios administrar publicaciones, integrar foros, personalizar la apariencia mediante plantillas y ampliar sus funciones a través de complementos sin necesidad de programar.
 
 <a href="https://e107.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="elgg"></a>
+##### Elgg
+<img src="/assets/img/elgg.png" alt="Elgg"/>
+Elgg es un motor y marco de trabajo (framework) de código abierto diseñado para la creación de redes sociales y plataformas de comunidades en línea. Permite a empresas, instituciones educativas y organizaciones construir sus propios entornos colaborativos integrando funciones como blogs, microblogging, grupos de discusión y gestión de archivos. Además, ofrece un sistema de control de privacidad avanzado y una arquitectura basada en complementos para personalizar completamente la plataforma según las necesidades del proyecto.
+
+<a href="https://elgg.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
