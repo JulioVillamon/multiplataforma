@@ -15,7 +15,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
 **Última actualización:** *15/09/2026*
 
 <a name="contenido"></a>
-## Contenido (132 programas listados) 
+## Contenido (133 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
