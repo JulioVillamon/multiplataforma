@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *15/09/2026*
+**Última actualización:** *17/09/2026*
 
 <a name="contenido"></a>
-## Contenido (133 programas listados) 
+## Contenido (134 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -76,6 +76,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Drupal](#drupal)
      - [e107](#e107)
      - [Elgg](#elgg)
+     - [Joomla](#joomla)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -676,6 +677,15 @@ e107 es un sistema de gestión de contenidos (CMS) de código abierto y gratuito
 Elgg es un motor y marco de trabajo (framework) de código abierto diseñado para la creación de redes sociales y plataformas de comunidades en línea. Permite a empresas, instituciones educativas y organizaciones construir sus propios entornos colaborativos integrando funciones como blogs, microblogging, grupos de discusión y gestión de archivos. Además, ofrece un sistema de control de privacidad avanzado y una arquitectura basada en complementos para personalizar completamente la plataforma según las necesidades del proyecto.
 
 <a href="https://elgg.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="joomla"></a>
+##### Joomla
+<img src="/assets/img/joomla.png" alt="joomla"/>
+Joomla es un sistema de gestión de contenidos de código abierto y gratuito diseñado para crear y administrar sitios web dinámicos. Permite a los usuarios publicar contenidos, personalizar el diseño mediante plantillas y añadir funcionalidades a través de miles de extensiones. Es una plataforma flexible orientada tanto a blogs personales como a portales corporativos complejos o aplicaciones en línea sin necesidad de conocimientos avanzados de programación. 
+
+<a href="https://www.joomla.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
