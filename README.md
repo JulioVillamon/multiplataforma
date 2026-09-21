@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *17/09/2026*
+**Última actualización:** *21/09/2026*
 
 <a name="contenido"></a>
-## Contenido (134 programas listados) 
+## Contenido (135 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -77,6 +77,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [e107](#e107)
      - [Elgg](#elgg)
      - [Joomla](#joomla)
+     - [Moodle](#moodle)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -686,6 +687,15 @@ Elgg es un motor y marco de trabajo (framework) de código abierto diseñado par
 Joomla es un sistema de gestión de contenidos de código abierto y gratuito diseñado para crear y administrar sitios web dinámicos. Permite a los usuarios publicar contenidos, personalizar el diseño mediante plantillas y añadir funcionalidades a través de miles de extensiones. Es una plataforma flexible orientada tanto a blogs personales como a portales corporativos complejos o aplicaciones en línea sin necesidad de conocimientos avanzados de programación. 
 
 <a href="https://www.joomla.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="moodle"></a>
+##### Moodle
+<img src="/assets/img/moodle.png" alt="moodle"/>
+Moodle es una plataforma de aprendizaje y gestión de cursos (LMS) de código abierto diseñada para crear entornos de formación virtuales personalizados. Permite a educadores estructurar asignaturas, subir recursos pedagógicos y realizar un seguimiento del progreso de los estudiantes mediante calificaciones. Además, facilita la colaboración activa entre profesores y alumnos a través de herramientas integradas como foros, cuestionarios, tareas y chats. 
+
+<a href="https://moodle.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
