@@ -12,7 +12,7 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *21/09/2026*
+**Última actualización:** *25/09/2026*
 
 <a name="contenido"></a>
 ## Contenido (136 programas listados) 
@@ -703,7 +703,7 @@ Moodle es una plataforma de aprendizaje y gestión de cursos (LMS) de código ab
 <img src="/assets/img/phpfusion.png" alt="phpfusion"/>
 PHP-Fusion es un sistema de gestión de contenidos (CMS) ligero y de código abierto desarrollado en PHP y MySQL. Permite crear y administrar sitios web dinámicos —como blogs, foros de discusión, galerías de fotos o portales de noticias— de forma sencilla mediante un panel de administración modular y personalizable mediante temas y complementos (llamados infusions). 
 
-<a href="https://moodle.org/" target="_blank">web</a>
+<a href="https://www.phpfusion.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
