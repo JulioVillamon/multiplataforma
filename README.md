@@ -15,7 +15,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
 **Última actualización:** *21/09/2026*
 
 <a name="contenido"></a>
-## Contenido (135 programas listados) 
+## Contenido (136 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -78,6 +78,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Elgg](#elgg)
      - [Joomla](#joomla)
      - [Moodle](#moodle)
+     - [PHP-Fusion](#PHP-Fusion)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -694,6 +695,13 @@ Joomla es un sistema de gestión de contenidos de código abierto y gratuito dis
 ##### Moodle
 <img src="/assets/img/moodle.png" alt="moodle"/>
 Moodle es una plataforma de aprendizaje y gestión de cursos (LMS) de código abierto diseñada para crear entornos de formación virtuales personalizados. Permite a educadores estructurar asignaturas, subir recursos pedagógicos y realizar un seguimiento del progreso de los estudiantes mediante calificaciones. Además, facilita la colaboración activa entre profesores y alumnos a través de herramientas integradas como foros, cuestionarios, tareas y chats. 
+
+<a href="https://moodle.org/" target="_blank">web</a>
+
+<a name="PHP-Fusion"></a>
+##### PHP-Fusion
+<img src="/assets/img/phpfusion.png" alt="phpfusion"/>
+PHP-Fusion es un sistema de gestión de contenidos (CMS) ligero y de código abierto desarrollado en PHP y MySQL. Permite crear y administrar sitios web dinámicos —como blogs, foros de discusión, galerías de fotos o portales de noticias— de forma sencilla mediante un panel de administración modular y personalizable mediante temas y complementos (llamados infusions). 
 
 <a href="https://moodle.org/" target="_blank">web</a>
 
