@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *25/09/2026*
+**Última actualización:** *28/09/2026*
 
 <a name="contenido"></a>
-## Contenido (136 programas listados) 
+## Contenido (137 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -79,6 +79,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Joomla](#joomla)
      - [Moodle](#moodle)
      - [PHP-Fusion](#PHP-Fusion)
+     - [Plone](#plone)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -704,6 +705,15 @@ Moodle es una plataforma de aprendizaje y gestión de cursos (LMS) de código ab
 PHP-Fusion es un sistema de gestión de contenidos (CMS) ligero y de código abierto desarrollado en PHP y MySQL. Permite crear y administrar sitios web dinámicos —como blogs, foros de discusión, galerías de fotos o portales de noticias— de forma sencilla mediante un panel de administración modular y personalizable mediante temas y complementos (llamados infusions). 
 
 <a href="https://www.phpfusion.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="Plone"></a>
+##### Plone
+<img src="/assets/img/plone.png" alt="plone"/>
+Plone es un sistema de gestión de contenidos (CMS) de código abierto y gratuito, diseñado para crear y administrar páginas web, intranets y portales de contenidos. Está desarrollado sobre Python y React, destacando en el mercado por su alto nivel de seguridad, estabilidad y flexibilidad para flujos de trabajo complejas. Permite a empresas, universidades y gobiernos publicar y estructurar información fácilmente sin necesidad de conocimientos avanzados de programación. 
+
+<a href="https://plone.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
