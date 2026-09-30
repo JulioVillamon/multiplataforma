@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *29/09/2026*
+**Última actualización:** *30/09/2026*
 
 <a name="contenido"></a>
-## Contenido (138 programas listados) 
+## Contenido (139 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -81,6 +81,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [PHP-Fusion](#PHP-Fusion)
      - [Plone](#plone)
      - [Spip](#spip)
+     - [TYPO3](#typo3)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -724,6 +725,13 @@ Plone es un sistema de gestión de contenidos (CMS) de código abierto y gratuit
 Spip es un sistema de gestión de contenidos (CMS) de software libre diseñado para la publicación colaborativa y la creación de sitios web estructurados como revistas digitales, periódicos o portales institucionales. Permite gestionar el sitio mediante una interfaz orientada al trabajo en equipo y una jerarquía editorial tipo redacción, sin necesidad de conocimientos avanzados de programación. Destaca por su soporte nativo para el multilingüismo y el uso de un sistema de plantillas ("esqueletos") que separa la presentación visual de la gestión del contenido. 
 
 <a href="https://www.spip.net/es_rubrique23.html" target="_blank">web</a>
+
+<a name="typo3"></a>
+##### TYPO3
+<img src="/assets/img/typo3.png" alt="typo3"/>
+TYPO3 es un sistema de gestión de contenidos (CMS) de código abierto y nivel empresarial pensado para crear y administrar sitios web complejos o de gran escala. Permite gestionar múltiples páginas web y lenguajes desde una sola instalación, ofreciendo un control avanzado de permisos para editores. Destaca por su alta seguridad, flexibilidad mediante extensiones y su capacidad para adaptar la estructura de contenidos sin necesidad de programar.
+
+<a href="https://typo3.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
