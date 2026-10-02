@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *30/09/2026*
+**Última actualización:** *02/10/2026*
 
 <a name="contenido"></a>
-## Contenido (139 programas listados) 
+## Contenido (140 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -82,6 +82,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Plone](#plone)
      - [Spip](#spip)
      - [TYPO3](#typo3)
+     - [WordPress](#wordpress)
    - Editores Web
      - [Aptana Studio](#aptana)
    - PHP
@@ -732,6 +733,15 @@ Spip es un sistema de gestión de contenidos (CMS) de software libre diseñado p
 TYPO3 es un sistema de gestión de contenidos (CMS) de código abierto y nivel empresarial pensado para crear y administrar sitios web complejos o de gran escala. Permite gestionar múltiples páginas web y lenguajes desde una sola instalación, ofreciendo un control avanzado de permisos para editores. Destaca por su alta seguridad, flexibilidad mediante extensiones y su capacidad para adaptar la estructura de contenidos sin necesidad de programar.
 
 <a href="https://typo3.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="wordpress"></a>
+##### WordPress
+<img src="/assets/img/wordpress.png" alt="wordpress"/>
+WordPress es un sistema de gestión de contenidos (CMS) gratuito y de código abierto que permite crear y administrar sitios web, blogs o tiendas en línea sin necesidad de programar. Su plataforma destaca por un editor intuitivo basado en bloques para personalizar el diseño del contenido de forma sencilla. Además, la página es.wordpress.org ofrece la descarga del programa y el acceso a un ecosistema de miles de plantillas, módulos y la comunidad oficial en español.
+
+<a href="https://es.wordpress.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
