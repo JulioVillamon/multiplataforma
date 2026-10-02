@@ -15,7 +15,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
 **Última actualización:** *02/10/2026*
 
 <a name="contenido"></a>
-## Contenido (140 programas listados) 
+## Contenido (141 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -213,6 +213,8 @@ Este listado también está disponible en mi web personal con buscador en tiempo
     - [GnuCash](#gnucash)
   - Gestión de Proyectos  
     - [GanttProject](#ganttproject)
+  - Suites
+    - [LibreOffice](#libreoffice)
 - Programación
   - .NET  
     - [Mono](#mono)
@@ -1399,6 +1401,16 @@ GnuCash es un software libre de contabilidad personal y para pequeñas empresas 
 GanttProject es una aplicación gratuita de gestión de proyectos que permite crear y gestionar diagramas de Gantt de forma sencilla. Facilita dividir tareas, asignar recursos y calcular costes, funcionando en Windows, macOS y Linux sin necesidad de conexión. Además, permite exportar a PDF, PNG, CSV, Excel o Microsoft Project y ofrece opciones de colaboración en la nube.
 
 <a href="https://www.ganttproject.biz/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+#### ***** Suites
+<a name="libreoffice"></a>
+##### LibreOffice
+<img src="/assets/img/libreoffice.png" alt="libreoffice"/>
+LibreOffice es una suite de ofimática gratuita y de código abierto que incluye herramientas para procesar textos (Writer), crear hojas de cálculo (Calc) y diseñar presentaciones (Impress). También integra utilidades para dibujo vectorial (Draw), gestión de bases de datos (Base) y edición de fórmulas matemáticas (Math). Funciona como una alternativa completa a programas como Microsoft Office y es compatible con sus mismos formatos de archivo.
+
+<a href="https://www.libreoffice.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
