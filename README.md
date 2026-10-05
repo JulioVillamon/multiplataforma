@@ -15,7 +15,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
 **Última actualización:** *05/10/2026*
 
 <a name="contenido"></a>
-## Contenido (142 programas listados) 
+## Contenido (141 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -84,7 +84,6 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [TYPO3](#typo3)
      - [WordPress](#wordpress)
    - Editores Web
-     - [Aptana Studio](#aptana)
      - [Bluefish](#bluefish)
    - PHP
      - [Composer](#composer)
@@ -749,15 +748,6 @@ WordPress es un sistema de gestión de contenidos (CMS) gratuito y de código ab
 [Subir al inicio](#contenido)
 
 #### ***** Editores Web
-<a name="aptana"></a>
-##### Aptana Studio
-<img src="/assets/img/aptana.png" alt="Aptana Studio"/>
-Aptana Studio es un entorno de desarrollo integrado (IDE) de código abierto diseñado para crear aplicaciones web. Soporta lenguajes como HTML, CSS, JavaScript, PHP, Python y Ruby, y ofrece herramientas como asistencia de código, depuración y vista previa en navegador. Aunque ya no se mantiene activamente, sigue disponible para descarga y uso en proyectos web.
-
-<a href="https://www.axway.com/en/aptana/" target="_blank">web</a>
-
-[Subir al inicio](#contenido)
-
 <a name="bluefish"></a>
 ##### Bluefish
 <img src="/assets/img/bluefish.png" alt="Bluefish"/>
