@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *02/10/2026*
+**Última actualización:** *05/10/2026*
 
 <a name="contenido"></a>
-## Contenido (141 programas listados) 
+## Contenido (142 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -85,6 +85,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [WordPress](#wordpress)
    - Editores Web
      - [Aptana Studio](#aptana)
+     - [Bluefish](#bluefish)
    - PHP
      - [Composer](#composer)
    - PHP Editores
@@ -753,7 +754,16 @@ WordPress es un sistema de gestión de contenidos (CMS) gratuito y de código ab
 <img src="/assets/img/aptana.png" alt="Aptana Studio"/>
 Aptana Studio es un entorno de desarrollo integrado (IDE) de código abierto diseñado para crear aplicaciones web. Soporta lenguajes como HTML, CSS, JavaScript, PHP, Python y Ruby, y ofrece herramientas como asistencia de código, depuración y vista previa en navegador. Aunque ya no se mantiene activamente, sigue disponible para descarga y uso en proyectos web.
 
-<a href="https://www.axway.com/en/aptana" target="_blank">web</a>
+<a href="https://www.axway.com/en/aptana/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="bluefish"></a>
+##### Bluefish
+<img src="/assets/img/bluefish.png" alt="Bluefish"/>
+Bluefish es un editor de código abierto, ligero y multiplataforma diseñado para desarrolladores y diseñadores web. Destaca por su alta velocidad al manejar proyectos grandes y archivos pesados, ofreciendo funciones como marcado de sintaxis para múltiples lenguajes, autocompletado y búsqueda avanzada con expresiones regulares. Aunque incluye herramientas para la edición HTML y web, es una aplicación de escritorio nativa independiente de la suite Apache OpenOffice (pese al dominio web que utiliza).
+
+<a href="https://bluefish.openoffice.nl/index.html" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
