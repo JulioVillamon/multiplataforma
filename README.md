@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *05/10/2026*
+**Última actualización:** *06/10/2026*
 
 <a name="contenido"></a>
-## Contenido (141 programas listados) 
+## Contenido (142 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -85,6 +85,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [WordPress](#wordpress)
    - Editores Web
      - [Bluefish](#bluefish)
+     - [Brackets](#brackets)
    - PHP
      - [Composer](#composer)
    - PHP Editores
@@ -754,6 +755,15 @@ WordPress es un sistema de gestión de contenidos (CMS) gratuito y de código ab
 Bluefish es un editor de código abierto, ligero y multiplataforma diseñado para desarrolladores y diseñadores web. Destaca por su alta velocidad al manejar proyectos grandes y archivos pesados, ofreciendo funciones como marcado de sintaxis para múltiples lenguajes, autocompletado y búsqueda avanzada con expresiones regulares. Aunque incluye herramientas para la edición HTML y web, es una aplicación de escritorio nativa independiente de la suite Apache OpenOffice (pese al dominio web que utiliza).
 
 <a href="https://bluefish.openoffice.nl/index.html" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="brackets"></a>
+##### Brackets
+<img src="/assets/img/brackets.png" alt="brackets"/>
+Brackets es un editor de código fuente gratuito y de código abierto diseñado específicamente para el desarrollo web y el diseño front-end (HTML, CSS y JavaScript). Destaca por integrar herramientas visuales avanzadas como la edición en línea (Quick Edit) y la vista previa en tiempo real en el navegador (Live Preview). Actualmente, el proyecto ha evolucionado y recomienda a sus usuarios migrar a su sucesor, Phoenix Code.
+
+<a href="https://brackets.io/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
