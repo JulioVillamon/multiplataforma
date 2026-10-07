@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *06/10/2026*
+**Última actualización:** *07/10/2026*
 
 <a name="contenido"></a>
-## Contenido (142 programas listados) 
+## Contenido (143 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -86,6 +86,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
    - Editores Web
      - [Bluefish](#bluefish)
      - [Brackets](#brackets)
+     - [eXeLearning](#exelearning)
    - PHP
      - [Composer](#composer)
    - PHP Editores
@@ -764,6 +765,15 @@ Bluefish es un editor de código abierto, ligero y multiplataforma diseñado par
 Brackets es un editor de código fuente gratuito y de código abierto diseñado específicamente para el desarrollo web y el diseño front-end (HTML, CSS y JavaScript). Destaca por integrar herramientas visuales avanzadas como la edición en línea (Quick Edit) y la vista previa en tiempo real en el navegador (Live Preview). Actualmente, el proyecto ha evolucionado y recomienda a sus usuarios migrar a su sucesor, Phoenix Code.
 
 <a href="https://brackets.io/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="exelearning"></a>
+##### eXeLearning
+<img src="/assets/img/exelearning.png" alt="exelearning"/>
+eXeLearning es una herramienta de código abierto y gratuita diseñada para facilitar a docentes y educadores la creación y edición de contenidos educativos interactivos sin necesidad de saber programación. Permite generar materiales pedagógicos estructurados en diversos formatos (como páginas web, SCORM o HTML5) para integrarlos fácilmente en plataformas de aprendizaje como Moodle. Además, su interfaz visual e intuitiva permite incluir actividades de evaluación, imágenes y elementos multimedia con pocos clics.
+
+<a href="https://exelearning.net/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
