@@ -781,7 +781,7 @@ eXeLearning es una herramienta de código abierto y gratuita diseñada para faci
 <a name="visualstudiocode"></a>
 ##### Visual Studio Code
 <img src="/assets/img/visualstudiocode.png" alt="visualstudiocode"/>
-Visual Studio Code es un editor de código fuente ligero pero potente, desarrollado por Microsoft, que funciona en Windows, macOS y Linux. Cuenta con soporte integrado para JavaScript, TypeScript y Node.js, e incluye herramientas avanzadas como depuración de código, control de versiones con Git e autocompletado inteligente mediante IntelliSense. Además, se puede personalizar y ampliar fácilmente para casi cualquier lenguaje o tecnología gracias a su extenso ecosistema de extensiones.
+Visual Studio Code es un editor de código fuente ligero pero potente, desarrollado por Microsoft, que funciona en Windows, macOS y Linux. Cuenta con soporte integrado para JavaScript, TypeScript y Node.js, e incluye herramientas avanzadas como depuración de código, control de versiones con Git y autocompletado inteligente mediante IntelliSense. Además, se puede personalizar y ampliar fácilmente para casi cualquier lenguaje o tecnología gracias a su extenso ecosistema de extensiones.
 
 <a href="https://code.visualstudio.com/" target="_blank">web</a>
 
