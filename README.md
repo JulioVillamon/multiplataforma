@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *07/10/2026*
+**Última actualización:** *08/10/2026*
 
 <a name="contenido"></a>
-## Contenido (143 programas listados) 
+## Contenido (144 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -87,6 +87,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Bluefish](#bluefish)
      - [Brackets](#brackets)
      - [eXeLearning](#exelearning)
+     - [Visual Studio Code](#visualstudiocode)
    - PHP
      - [Composer](#composer)
    - PHP Editores
@@ -774,6 +775,15 @@ Brackets es un editor de código fuente gratuito y de código abierto diseñado 
 eXeLearning es una herramienta de código abierto y gratuita diseñada para facilitar a docentes y educadores la creación y edición de contenidos educativos interactivos sin necesidad de saber programación. Permite generar materiales pedagógicos estructurados en diversos formatos (como páginas web, SCORM o HTML5) para integrarlos fácilmente en plataformas de aprendizaje como Moodle. Además, su interfaz visual e intuitiva permite incluir actividades de evaluación, imágenes y elementos multimedia con pocos clics.
 
 <a href="https://exelearning.net/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="visualstudiocode"></a>
+##### Visual Studio Code
+<img src="/assets/img/visualstudiocode.png" alt="visualstudiocode"/>
+Visual Studio Code es un editor de código fuente ligero pero potente, desarrollado por Microsoft, que funciona en Windows, macOS y Linux. Cuenta con soporte integrado para JavaScript, TypeScript y Node.js, e incluye herramientas avanzadas como depuración de código, control de versiones con Git e autocompletado inteligente mediante IntelliSense. Además, se puede personalizar y ampliar fácilmente para casi cualquier lenguaje o tecnología gracias a su extenso ecosistema de extensiones.
+
+<a href="https://code.visualstudio.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
