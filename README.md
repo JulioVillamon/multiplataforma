@@ -733,6 +733,8 @@ Spip es un sistema de gestión de contenidos (CMS) de software libre diseñado p
 
 <a href="https://www.spip.net/es_rubrique23.html" target="_blank">web</a>
 
+[Subir al inicio](#contenido)
+
 <a name="typo3"></a>
 ##### TYPO3
 <img src="/assets/img/typo3.png" alt="typo3"/>
