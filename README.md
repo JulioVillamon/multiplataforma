@@ -12,7 +12,7 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *08/10/2026*
+**Última actualización:** *09/10/2026*
 
 <a name="contenido"></a>
 ## Contenido (144 programas listados) 
@@ -88,6 +88,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Brackets](#brackets)
      - [eXeLearning](#exelearning)
      - [Visual Studio Code](#visualstudiocode)
+     - [VSCodium](#vscodium)
    - PHP
      - [Composer](#composer)
    - PHP Editores
@@ -784,6 +785,15 @@ eXeLearning es una herramienta de código abierto y gratuita diseñada para faci
 Visual Studio Code es un editor de código fuente ligero pero potente, desarrollado por Microsoft, que funciona en Windows, macOS y Linux. Cuenta con soporte integrado para JavaScript, TypeScript y Node.js, e incluye herramientas avanzadas como depuración de código, control de versiones con Git y autocompletado inteligente mediante IntelliSense. Además, se puede personalizar y ampliar fácilmente para casi cualquier lenguaje o tecnología gracias a su extenso ecosistema de extensiones.
 
 <a href="https://code.visualstudio.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="vscodium"></a>
+##### VSCodium
+<img src="/assets/img/vscodium.png" alt="vscodium"/>
+VSCodium es una distribución de código abierto de Microsoft Visual Studio Code que elimina por completo el rastreo, la telemetría y los binarios propietarios. Proporciona el mismo editor de código potente, personalizable y compatible con sus extensiones, pero empaquetado bajo una licencia libre (MIT) y enfocado en la privacidad del usuario.
+
+<a href="https://github.com/VSCodium/vscodium/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
