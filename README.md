@@ -708,6 +708,8 @@ Moodle es una plataforma de aprendizaje y gestión de cursos (LMS) de código ab
 
 <a href="https://moodle.org/" target="_blank">web</a>
 
+[Subir al inicio](#contenido)
+
 <a name="PHP-Fusion"></a>
 ##### PHP-Fusion
 <img src="/assets/img/phpfusion.png" alt="phpfusion"/>
@@ -1435,6 +1437,8 @@ NAPS2 es un programa gratuito y de código abierto para escanear documentos de f
 GnuCash es un software libre de contabilidad personal y para pequeñas empresas que permite gestionar cuentas bancarias, ingresos, gastos e inversiones de forma sencilla. Ofrece contabilidad de doble entrada, generación de informes y gráficos, y herramientas para importar datos financieros. Está disponible para Linux, Windows y macOS.
 
 <a href="https://www.gnucash.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
 
 #### ***** Gestión de Proyectos
 <a name="ganttproject"></a>
