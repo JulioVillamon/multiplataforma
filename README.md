@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *09/10/2026*
+**Última actualización:** *13/10/2026*
 
 <a name="contenido"></a>
-## Contenido (145 programas listados) 
+## Contenido (146 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -91,6 +91,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [VSCodium](#vscodium)
    - PHP
      - [Composer](#composer)
+     - [PHP](#php)
    - PHP Editores
      - [Eclipse](#eclipse)
    - PHP Frameworks
@@ -808,6 +809,15 @@ VSCodium es una distribución de código abierto de Microsoft Visual Studio Code
 Composer es un gestor de dependencias para PHP que permite declarar las bibliotecas que tu proyecto necesita y las instala automáticamente. Facilita la gestión de versiones y la integración de paquetes desde el repositorio Packagist. Es una herramienta esencial para desarrolladores que buscan mantener sus proyectos organizados y actualizados.
 
 <a href="https://getcomposer.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="php"></a>
+##### PHP
+<img src="/assets/img/php.png" alt="php"/>
+PHP es un lenguaje de programación de código abierto diseñado para el desarrollo web que se ejecuta en el servidor para procesar datos e interactuar con bases de datos. Su función principal es generar contenido e interfaces dinámicas en HTML antes de enviarlas al navegador del usuario. Es la tecnología fundamental detrás de plataformas masivas como WordPress y funciona de manera integrada en millones de servidores de todo el mundo.
+
+<a href="https://www.php.net/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
