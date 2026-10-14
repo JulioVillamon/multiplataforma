@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *13/10/2026*
+**Última actualización:** *14/10/2026*
 
 <a name="contenido"></a>
-## Contenido (146 programas listados) 
+## Contenido (147 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -93,6 +93,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Composer](#composer)
      - [PHP](#php)
    - PHP Editores
+     - [Apache NetBeans](#netbeans)  
      - [Eclipse](#eclipse)
    - PHP Frameworks
      - [CakePHP](#cakephp)
@@ -822,6 +823,15 @@ PHP es un lenguaje de programación de código abierto diseñado para el desarro
 [Subir al inicio](#contenido)
 
 #### ***** PHP Editores
+<a name="netbeans"></a>
+##### Apache NetBeans
+<img src="/assets/img/netbeans.png" alt="netbeans"/>
+Apache NetBeans es un entorno de desarrollo integrado (IDE) gratuito y de código abierto para programar principalmente en Java, además de PHP, C/C++ y JavaScript. Permite crear, depurar y gestionar aplicaciones de escritorio, web y móviles de forma rápida mediante potentes editores de código y herramientas de análisis automatizado. Al ser altamente extensible, ofrece una amplia gama de complementos y plantillas que facilitan la integración con frameworks modernos y bases de datos.
+
+<a href="https://netbeans.apache.org/front/main/index.html" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
 <a name="eclipse"></a>
 ##### Eclipse
 <img src="/assets/img/eclipse.png" alt="Eclipse"/>
