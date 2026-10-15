@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *14/10/2026*
+**Última actualización:** *15/10/2026*
 
 <a name="contenido"></a>
-## Contenido (147 programas listados) 
+## Contenido (148 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -97,6 +97,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Eclipse](#eclipse)
    - PHP Frameworks
      - [CakePHP](#cakephp)
+     - [Jelix](#jelix)
    - Servidores Locales
      - [XAMPP](#xampp)
    - Wiki
@@ -848,6 +849,15 @@ Eclipse es un entorno de desarrollo integrado (IDE) de código abierto que facil
 CakePHP es un framework de código abierto para PHP que facilita el desarrollo rápido de aplicaciones web. Utiliza el patrón de diseño Modelo-Vista-Controlador (MVC) y promueve el principio de “Convención sobre Configuración”, lo que reduce la necesidad de escribir código repetitivo. Es ideal para crear aplicaciones estructuradas, seguras y escalables con menos esfuerzo.
 
 <a href="https://cakephp.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="jelix"></a>
+##### Jelix
+<img src="/assets/img/jelix.png" alt="jelix"/>
+Jelix es un framework de código abierto para PHP que facilita la creación de aplicaciones web modulares y seguras. Utiliza la arquitectura Modelo-Vista-Controlador (MVC) y ofrece una amplia gama de herramientas y componentes listos para usar que agilizan el desarrollo.
+
+<a href="https://jelix.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
