@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *15/10/2026*
+**Última actualización:** *16/10/2026*
 
 <a name="contenido"></a>
-## Contenido (148 programas listados) 
+## Contenido (149 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -98,6 +98,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
    - PHP Frameworks
      - [CakePHP](#cakephp)
      - [Jelix](#jelix)
+     - [Symfony](#symfony)
    - Servidores Locales
      - [XAMPP](#xampp)
    - Wiki
@@ -858,6 +859,15 @@ CakePHP es un framework de código abierto para PHP que facilita el desarrollo r
 Jelix es un framework de código abierto para PHP que facilita la creación de aplicaciones web modulares y seguras. Utiliza la arquitectura Modelo-Vista-Controlador (MVC) y ofrece una amplia gama de herramientas y componentes listos para usar que agilizan el desarrollo.
 
 <a href="https://jelix.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="symfony"></a>
+##### Symfony
+<img src="/assets/img/symfony.png" alt="symfony"/>
+Symfony es un framework de PHP diseñado para acelerar el desarrollo y mantenimiento de aplicaciones web robustas. Ofrece una amplia gama de componentes reutilizables que facilitan seguir las mejores prácticas y estándares de la industria. Permite construir desde sitios complejos hasta APIs escalables de forma segura, estructurada y eficiente.
+
+<a href="https://symfony.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
