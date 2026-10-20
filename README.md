@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *16/10/2026*
+**Última actualización:** *20/10/2026*
 
 <a name="contenido"></a>
-## Contenido (149 programas listados) 
+## Contenido (150 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -99,6 +99,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [CakePHP](#cakephp)
      - [Jelix](#jelix)
      - [Symfony](#symfony)
+     - [Zend Framework](#zend)
    - Servidores Locales
      - [XAMPP](#xampp)
    - Wiki
@@ -868,6 +869,15 @@ Jelix es un framework de código abierto para PHP que facilita la creación de a
 Symfony es un framework de PHP diseñado para acelerar el desarrollo y mantenimiento de aplicaciones web robustas. Ofrece una amplia gama de componentes reutilizables que facilitan seguir las mejores prácticas y estándares de la industria. Permite construir desde sitios complejos hasta APIs escalables de forma segura, estructurada y eficiente.
 
 <a href="https://symfony.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="zend"></a>
+##### Zend Framework
+<img src="/assets/img/zend.png" alt="zend"/>
+Zend Framework es un conjunto de componentes avanzados y librerías en PHP orientados a facilitar el desarrollo de aplicaciones web robustas y empresariales. Utiliza una arquitectura basada en el patrón Modelo-Vista-Controlador para mantener una estructura de código limpia, modular, segura y altamente escalable. Proporciona herramientas eficientes para gestionar bases de datos, autenticación y servicios de red en cualquier entorno multiplataforma compatible con PHP.
+
+<a href="https://framework.zend.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
