@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *20/10/2026*
+**Última actualización:** *21/10/2026*
 
 <a name="contenido"></a>
-## Contenido (150 programas listados) 
+## Contenido (151 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -104,6 +104,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [XAMPP](#xampp)
    - Wiki
      - [DocuWiki](#dokuwiki)
+     - [MediaWiki](#mediawiki)
    - Otros
      - [Etherpad](#etherpad)
 - DOS 
@@ -898,6 +899,15 @@ XAMPP es un entorno de desarrollo gratuito que integra Apache, MariaDB, PHP y Pe
 DokuWiki es un software wiki de código abierto diseñado para crear y gestionar documentación de forma sencilla, sin necesidad de base de datos. Destaca por su sintaxis limpia, su fácil mantenimiento y su amplio ecosistema de plugins y plantillas. Es una opción muy utilizada en empresas, proyectos y entornos colaborativos por su control de acceso integrado y su gran versatilidad.
 
 <a href="https://www.dokuwiki.org/dokuwiki" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="mediawiki"></a>
+##### MediaWiki
+<img src="/assets/img/mediawiki.png" alt="MediaWiki"/>
+MediaWiki es un software libre de gestión de contenidos diseñado para crear wikis de manera colaborativa, permitiendo a los usuarios redactar, editar y organizar documentación o enciclopedias en línea fácilmente. Además, conserva un historial completo de revisiones de cada página y gestiona el acceso mediante perfiles de usuario, sirviendo de motor a proyectos masivos como Wikipedia.
+
+<a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
