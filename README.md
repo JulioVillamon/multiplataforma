@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *21/10/2026*
+**Última actualización:** *22/10/2026*
 
 <a name="contenido"></a>
-## Contenido (151 programas listados) 
+## Contenido (152 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -107,6 +107,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [MediaWiki](#mediawiki)
    - Otros
      - [Etherpad](#etherpad)
+     - [Feng Office](#fengoffice)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -918,6 +919,15 @@ MediaWiki es un software libre de gestión de contenidos diseñado para crear wi
 Etherpad es un editor de texto colaborativo en línea que permite a varias personas escribir y editar simultáneamente en tiempo real, directamente desde el navegador. Ofrece una amplia personalización mediante más de 290 plugins y soporte para más de 100 idiomas, además de funciones de importación y exportación de documentos. Es una herramienta abierta y muy utilizada para crear notas, artículos o listas de forma conjunta sin necesidad de enviar archivos por correo.
 
 <a href="https://etherpad.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="fengoffice"></a>
+##### Feng Office
+<img src="/assets/img/fengoffice.png" alt="Feng Office"/>
+Feng Office es una plataforma de gestión de proyectos y colaboración empresarial que integra en un solo lugar herramientas para administrar tareas, controlar el tiempo de trabajo, gestionar documentos y realizar seguimiento de clientes y presupuestos. Permite a los equipos centralizar toda su información operativa y coordinar sus flujos de trabajo fácilmente a través de un navegador web sin importar el sistema operativo que utilicen.
+
+<a href="https://www.fengoffice.com/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
