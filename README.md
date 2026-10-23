@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *22/10/2026*
+**Última actualización:** *23/10/2026*
 
 <a name="contenido"></a>
-## Contenido (152 programas listados) 
+## Contenido (153 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -108,6 +108,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
    - Otros
      - [Etherpad](#etherpad)
      - [Feng Office](#fengoffice)
+     - [HTML Tidy](#tidy)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -928,6 +929,15 @@ Etherpad es un editor de texto colaborativo en línea que permite a varias perso
 Feng Office es una plataforma de gestión de proyectos y colaboración empresarial que integra en un solo lugar herramientas para administrar tareas, controlar el tiempo de trabajo, gestionar documentos y realizar seguimiento de clientes y presupuestos. Permite a los equipos centralizar toda su información operativa y coordinar sus flujos de trabajo fácilmente a través de un navegador web sin importar el sistema operativo que utilicen.
 
 <a href="https://www.fengoffice.com/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="tidy"></a>
+##### HTML Tidy
+<img src="/assets/img/tidy.png" alt="HTML Tidy"/>
+HTML Tidy es una herramienta de código abierto diseñada para corregir y limpiar documentos HTML, XHTML y XML mal formados. Analiza el código fuente para detectar errores de sintaxis, cerrar etiquetas faltantes y asegurar que la estructura cumpla con los estándares web oficiales. Además, permite mejorar drásticamente la legibilidad y el formato del documento de manera automática o mediante reglas personalizadas.
+
+<a href="https://www.html-tidy.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
