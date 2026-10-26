@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *23/10/2026*
+**Última actualización:** *26/10/2026*
 
 <a name="contenido"></a>
-## Contenido (153 programas listados) 
+## Contenido (154 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -109,6 +109,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Etherpad](#etherpad)
      - [Feng Office](#fengoffice)
      - [HTML Tidy](#tidy)
+     - [LinkChecker](#linkchecker)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -938,6 +939,15 @@ Feng Office es una plataforma de gestión de proyectos y colaboración empresari
 HTML Tidy es una herramienta de código abierto diseñada para corregir y limpiar documentos HTML, XHTML y XML mal formados. Analiza el código fuente para detectar errores de sintaxis, cerrar etiquetas faltantes y asegurar que la estructura cumpla con los estándares web oficiales. Además, permite mejorar drásticamente la legibilidad y el formato del documento de manera automática o mediante reglas personalizadas.
 
 <a href="https://www.html-tidy.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="linkchecker"></a>
+##### LinkChecker
+<img src="/assets/img/linkchecker.png" alt="LinkChecker"/>
+LinkChecker es una herramienta avanzada para comprobar la validez de enlaces en páginas web, documentos y sitios enteros, detectando de forma automatizada URLs rotas, errores de redirección o recursos no disponibles mediante diversos protocolos y generando informes detallados que facilitan enormemente el mantenimiento y la optimización web.
+
+<a href="https://wummel.github.io/linkchecker/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
