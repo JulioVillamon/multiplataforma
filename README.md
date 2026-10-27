@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *26/10/2026*
+**Última actualización:** *27/10/2026*
 
 <a name="contenido"></a>
-## Contenido (154 programas listados) 
+## Contenido (155 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -110,6 +110,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Feng Office](#fengoffice)
      - [HTML Tidy](#tidy)
      - [LinkChecker](#linkchecker)
+     - [Selenium IDE](#selenium)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -948,6 +949,15 @@ HTML Tidy es una herramienta de código abierto diseñada para corregir y limpia
 LinkChecker es una herramienta avanzada para comprobar la validez de enlaces en páginas web, documentos y sitios enteros, detectando de forma automatizada URLs rotas, errores de redirección o recursos no disponibles mediante diversos protocolos y generando informes detallados que facilitan enormemente el mantenimiento y la optimización web.
 
 <a href="https://wummel.github.io/linkchecker/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="selenium"></a>
+##### Selenium IDE
+<img src="/assets/img/selenium.png" alt="Selenium IDE"/>
+Selenium IDE es una extensión para navegadores web que permite grabar, editar y reproducir acciones de usuario para automatizar pruebas de software de forma sencilla y sin necesidad de conocimientos avanzados en programación. Su interfaz intuitiva facilita la creación rápida de scripts de prueba reutilizables que luego pueden exportarse a diferentes lenguajes de programación o ejecutarse directamente desde el navegador. Además, mediante su herramienta de línea de comandos Selenium Side Runner, posibilita la integración continua de dichas pruebas en diversos entornos operativos.
+
+<a href="https://www.selenium.dev/selenium-ide/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
