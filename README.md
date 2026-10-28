@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *27/10/2026*
+**Última actualización:** *28/10/2026*
 
 <a name="contenido"></a>
-## Contenido (155 programas listados) 
+## Contenido (156 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -111,6 +111,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [HTML Tidy](#tidy)
      - [LinkChecker](#linkchecker)
      - [Selenium IDE](#selenium)
+     - [Web Developer](#webdeveloper)
 - DOS 
   - [DOSBox](#dosbox)
   - [FreeDOS (Sistema Operativo)](#freedos)
@@ -958,6 +959,15 @@ LinkChecker es una herramienta avanzada para comprobar la validez de enlaces en 
 Selenium IDE es una extensión para navegadores web que permite grabar, editar y reproducir acciones de usuario para automatizar pruebas de software de forma sencilla y sin necesidad de conocimientos avanzados en programación. Su interfaz intuitiva facilita la creación rápida de scripts de prueba reutilizables que luego pueden exportarse a diferentes lenguajes de programación o ejecutarse directamente desde el navegador. Además, mediante su herramienta de línea de comandos Selenium Side Runner, posibilita la integración continua de dichas pruebas en diversos entornos operativos.
 
 <a href="https://www.selenium.dev/selenium-ide/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="webdeveloper"></a>
+##### Web Developer
+<img src="/assets/img/webdeveloper.png" alt="Web Developer"/>
+El software Web Developer es una extensión para navegadores que proporciona una barra de herramientas con múltiples utilidades de desarrollo web, permitiendo a diseñadores y programadores inspeccionar, modificar y analizar elementos de una página directamente desde la interfaz.
+
+<a href="https://chrispederick.com/work/web-developer/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
