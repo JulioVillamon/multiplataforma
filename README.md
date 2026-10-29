@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *28/10/2026*
+**Última actualización:** *29/10/2026*
 
 <a name="contenido"></a>
-## Contenido (156 programas listados) 
+## Contenido (157 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -120,6 +120,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Tux Paint](#tuxpaint)
   - Educación Infantil
      - [eduActiv8](#eduActiv8)
+     - [GCompris](#gcompris)
   - Electrónica
      - [Arduino](#arduino)
   - Genealogía
@@ -1010,6 +1011,15 @@ Tux Paint es un editor de imágenes libre diseñado especialmente para niños pe
 eduActiv8 es una aplicación educativa gratuita y de código abierto que ofrece actividades interactivas para niños en edad preescolar y primaria. Funciona sin conexión y cubre áreas como matemáticas, lenguaje, lógica, memoria y arte mediante juegos, simulaciones y fichas. Es ideal para familias, docentes y profesionales de educación especial.
 
 <a href="https://www.eduactiv8.org" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="gcompris"></a>
+##### GCompris
+<img src="/assets/img/gcompris.png" alt="GCompris"/>
+GCompris es un completo paquete de software educativo multiplataforma diseñado específicamente para niños de entre 2 y 10 años, el cual ofrece una amplia variedad de actividades lúdicas e interactivas que abarcan áreas fundamentales como las matemáticas, la lectura, las ciencias y los juegos de estrategia, teniendo como objetivo principal facilitar el aprendizaje temprano y el desarrollo cognitivo mediante la diversión y la adaptación al ritmo de cada usuario.
+
+<a href="https://gcompris.net/index-es.html" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
