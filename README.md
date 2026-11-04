@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *02/11/2026*
+**Última actualización:** *04/11/2026*
 
 <a name="contenido"></a>
-## Contenido (158 programas listados) 
+## Contenido (159 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -124,6 +124,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [PySyCache](#pysycache)
   - Electrónica
      - [Arduino](#arduino)
+     - [Fritzing](#fritzing)
   - Genealogía
      - [Genealogyj](#genealogyj)
   - Geografía
@@ -1038,6 +1039,15 @@ PySyCache es un programa educativo diseñado para niños pequeños que les ayuda
 Arduino es una plataforma de código abierto que permite crear objetos electrónicos interactivos mediante placas programables y software intuitivo. Es ampliamente utilizada en proyectos de robótica, domótica e Internet de las cosas (IoT). Su comunidad global impulsa la innovación en educación, industria y desarrollo personal.
 
 <a href="https://www.arduino.cc" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="fritzing"></a>
+##### Fritzing
+<img src="/assets/img/fritzing.png" alt="Fritzing"/>
+Fritzing es una herramienta de diseño de código abierto orientada a creadores, estudiantes y educadores que permite documentar prototipos electrónicos, pasar de un montaje visual en protoboard a un diagrama esquemático estándar y diseñar placas de circuito impreso (PCB) listas para su fabricación.
+
+<a href="https://fritzing.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
