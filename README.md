@@ -1052,9 +1052,9 @@ Fritzing es una herramienta de diseño de código abierto orientada a creadores,
 
 [Subir al inicio](#contenido)
 
-<a name="kikad"></a>
+<a name="kicad"></a>
 ##### KiCad
-<img src="/assets/img/kikad.png" alt="kikad"/>
+<img src="/assets/img/kicad.png" alt="KiCad"/>
 KiCad es un potente software de automatización de diseño electrónico (EDA) de código abierto que permite a ingenieros y desarrolladores crear esquemas eléctricos complejos y diseñar placas de circuito impreso (PCB) profesionales para su fabricación. La herramienta integra en un único flujo de trabajo la captura esquemática, la simulación de circuitos, el enrutado avanzado y la visualización en 3D del montaje final. Al ser multiplataforma y gratuita, facilita el desarrollo integral de hardware desde proyectos sencillos hasta complejos sistemas electrónicos industriales.
 
 <a href="https://www.kicad.org/" target="_blank">web</a>
