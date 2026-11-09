@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *05/11/2026*
+**Última actualización:** *09/11/2026*
 
 <a name="contenido"></a>
-## Contenido (160 programas listados) 
+## Contenido (161 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -126,6 +126,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Arduino](#arduino)
      - [Fritzing](#fritzing)
      - [kiCad](#kicad)
+     - [LibrePCB](#librepcb)
   - Genealogía
      - [Genealogyj](#genealogyj)
   - Geografía
@@ -1058,6 +1059,15 @@ Fritzing es una herramienta de diseño de código abierto orientada a creadores,
 KiCad es un potente software de automatización de diseño electrónico (EDA) de código abierto que permite a ingenieros y desarrolladores crear esquemas eléctricos complejos y diseñar placas de circuito impreso (PCB) profesionales para su fabricación. La herramienta integra en un único flujo de trabajo la captura esquemática, la simulación de circuitos, el enrutado avanzado y la visualización en 3D del montaje final. Al ser multiplataforma y gratuita, facilita el desarrollo integral de hardware desde proyectos sencillos hasta complejos sistemas electrónicos industriales.
 
 <a href="https://www.kicad.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="librepcb"></a>
+##### LibrePCB
+<img src="/assets/img/librepcb.png" alt="LibrePCB"/>
+LibrePCB se utiliza para diseñar placas de circuitos impresos profesionales de forma intuitiva y organizada mediante un sistema unificado que gestiona esquemáticos, símbolos, encapsulados y proyectos completos. Su propósito principal es facilitar tanto a aficionados como a profesionales la creación de placas electrónicas listas para su fabricación permitiendo generar archivos de producción estándar como Gerber y listas de materiales. Además, destaca por su enfoque moderno y su potente sistema de control de calidad para evitar errores comunes antes de enviar los diseños a fabricar.
+
+<a href="https://librepcb.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
