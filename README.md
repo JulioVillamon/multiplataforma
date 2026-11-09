@@ -1065,7 +1065,7 @@ KiCad es un potente software de automatización de diseño electrónico (EDA) de
 <a name="librepcb"></a>
 ##### LibrePCB
 <img src="/assets/img/librepcb.png" alt="LibrePCB"/>
-LibrePCB se utiliza para diseñar placas de circuitos impresos profesionales de forma intuitiva y organizada mediante un sistema unificado que gestiona esquemáticos, símbolos, encapsulados y proyectos completos. Su propósito principal es facilitar tanto a aficionados como a profesionales la creación de placas electrónicas listas para su fabricación permitiendo generar archivos de producción estándar como Gerber y listas de materiales. Además, destaca por su enfoque moderno y su potente sistema de control de calidad para evitar errores comunes antes de enviar los diseños a fabricar.
+LibrePCB se utiliza para diseñar placas de circuitos impresos profesionales de forma intuitiva y organizada mediante un sistema unificado que gestiona esquemas, símbolos, encapsulados y proyectos completos. Su propósito principal es facilitar tanto a aficionados como a profesionales la creación de placas electrónicas listas para su fabricación permitiendo generar archivos de producción estándar como Gerber y listas de materiales. Además, destaca por su enfoque moderno y su potente sistema de control de calidad para evitar errores comunes antes de enviar los diseños a fabricar.
 
 <a href="https://librepcb.org/" target="_blank">web</a>
 
