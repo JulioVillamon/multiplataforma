@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *09/11/2026*
+**Última actualización:** *23/11/2026*
 
 <a name="contenido"></a>
-## Contenido (161 programas listados) 
+## Contenido (162 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -127,6 +127,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Fritzing](#fritzing)
      - [kiCad](#kicad)
      - [LibrePCB](#librepcb)
+     - [Qucs](#qucs)
   - Genealogía
      - [Genealogyj](#genealogyj)
   - Geografía
@@ -1068,6 +1069,15 @@ KiCad es un potente software de automatización de diseño electrónico (EDA) de
 LibrePCB se utiliza para diseñar placas de circuitos impresos profesionales de forma intuitiva y organizada mediante un sistema unificado que gestiona esquemas, símbolos, encapsulados y proyectos completos. Su propósito principal es facilitar tanto a aficionados como a profesionales la creación de placas electrónicas listas para su fabricación permitiendo generar archivos de producción estándar como Gerber y listas de materiales. Además, destaca por su enfoque moderno y su potente sistema de control de calidad para evitar errores comunes antes de enviar los diseños a fabricar.
 
 <a href="https://librepcb.org/" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="qucs"></a>
+##### Qucs
+<img src="/assets/img/qucs.png" alt="qucs"/>
+Qucs (Quite Universal Circuit Simulator) es un simulador de circuitos electrónicos de código abierto y multiplataforma que permite dibujar esquemas eléctricos, configurar componentes y ejecutar análisis en corriente continua, corriente alterna, transitorios y alta frecuencia. Sirve para diseñar, probar y verificar el comportamiento de circuitos analógicos, digitales y de RF en el ordenador antes de montarlos físicamente, ahorrando tiempo y material tanto en proyectos educativos como en desarrollo electrónico.
+
+<a href="https://qucs.sourceforge.net/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
