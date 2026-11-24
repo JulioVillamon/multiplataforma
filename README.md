@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *23/11/2026*
+**Última actualización:** *24/11/2026*
 
 <a name="contenido"></a>
-## Contenido (162 programas listados) 
+## Contenido (163 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -130,6 +130,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Qucs](#qucs)
   - Genealogía
      - [Genealogyj](#genealogyj)
+     - [Gramps](#gramps)
   - Geografía
      - [GPXSee](#gpxsee)
   - Herramientas de autor
@@ -1088,6 +1089,15 @@ Qucs (Quite Universal Circuit Simulator) es un simulador de circuitos electróni
 GenealogyJ es un programa de código abierto para visualizar y editar datos genealógicos, ideal para aficionados e investigadores familiares. Está desarrollado en Java y compatible con el estándar GEDCOM, ofreciendo múltiples vistas como árbol familiar, línea de tiempo, tabla y mapa geográfico. Funciona en sistemas Linux, Windows y Mac, y está disponible en varios idiomas.
 
 <a href="https://sourceforge.net/projects/genj" target="_blank">web</a>
+
+[Subir al inicio](#contenido)
+
+<a name="gramps"></a>
+##### Gramps
+<img src="/assets/img/gramps.png" alt="Gramps"/>
+Gramps es un programa de escritorio gratuito y de código abierto multiplataforma diseñado para genealogía, con el que puedes registrar árboles genealógicos, personas, eventos, fuentes y notas, generar gráficos e informes y exportar o importar datos en formatos como GEDCOM manteniendo tu base de datos local y portable.
+
+<a href="https://gramps-project.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
