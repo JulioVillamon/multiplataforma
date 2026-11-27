@@ -12,10 +12,10 @@
 
 Este listado también está disponible en mi web personal con buscador en tiempo real → [juliovillamon.com/software](https://www.juliovillamon.com/software). 
 
-**Última actualización:** *24/11/2026*
+**Última actualización:** *27/11/2026*
 
 <a name="contenido"></a>
-## Contenido (163 programas listados) 
+## Contenido (164 programas listados) 
  - Astronomía
    - [Celestia](#celestia)
    - [KStars](#kstars)
@@ -133,6 +133,7 @@ Este listado también está disponible en mi web personal con buscador en tiempo
      - [Gramps](#gramps)
   - Geografía
      - [GPXSee](#gpxsee)
+     - [Marble](#marble)
   - Herramientas de autor
      - [JClic](#jclic)
   - Idiomas
@@ -1108,6 +1109,13 @@ Gramps es un programa de escritorio gratuito y de código abierto multiplataform
 GPXSee es un visor y analizador de archivos de registro GPS compatible con múltiples formatos como GPX, TCX, KML, FIT y NMEA. Permite visualizar rutas sobre mapas online y offline, además de mostrar datos como altitud, velocidad, ritmo cardíaco o temperatura. Es multiplataforma, libre y diseñado para ser rápido y sin dependencias innecesarias.
 
 <a href="https://www.gpxsee.org" target="_blank">web</a>
+
+<a name="marble"></a>
+##### Marble
+<img src="/assets/img/marble.png" alt="marble"/>
+Marble es un visor de mapas y globo terráqueo virtual de código abierto escrito en C++ y Qt que funciona en Linux, Windows, macOS y Android, permitiendo explorar mapas planos o en 3D, capas de OpenStreetMap y archivos geográficos como GPX o KML tanto como aplicación independiente como integrado en otros programas.
+
+<a href="https://marble.kde.org/" target="_blank">web</a>
 
 [Subir al inicio](#contenido)
 
